@@ -1,7 +1,8 @@
 # 最近在学习日文，欢迎大家投稿公司信息！！！！！！！！！！！！！！！
 ---
-
-# こんにちは！👋 私は **sunsun902** です
+### 目前投稿公司：4个
+---
+### こんにちは！👋 私は **sunsun902** です
 
 [![GitHub followers](https://img.shields.io/github/followers/sunsun902?style=social)](https://github.com/sunsun902)
 [![Profile Views](https://komarev.com/ghpvc/?username=sunsun902&color=blueviolet)](https://github.com/sunsun902)

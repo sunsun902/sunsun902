@@ -1,3 +1,6 @@
+# 最近在学习日文，欢迎大家投稿公司信息！！！！！！！！！！！！！！！
+---
+
 # こんにちは！👋 私は **sunsun902** です
 
 [![GitHub followers](https://img.shields.io/github/followers/sunsun902?style=social)](https://github.com/sunsun902)

@@ -9,7 +9,6 @@ import json
 import requests
 from datetime import datetime
 from pathlib import Path
-from bs4 import BeautifulSoup
 
 # ============================================================
 #  👇 配置区：可自定义
@@ -28,7 +27,6 @@ def fetch_hacker_news(top_n: int = 20) -> list:
     print("🔍 正在抓取 Hacker News 热榜...")
     
     try:
-        # 获取热榜 ID 列表
         resp = requests.get(
             "https://hacker-news.firebaseio.com/v0/topstories.json",
             timeout=15
@@ -191,29 +189,21 @@ def main():
     print(f"📡 热点新闻抓取 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 50)
     
-    # 获取 Token（用于 GitHub API）
     token = os.environ.get("GITHUB_TOKEN")
     
-    # 1. 抓取 Hacker News
     hacker_news = fetch_hacker_news(MAX_HN_STORIES)
-    
-    # 2. 抓取 GitHub Trending
     trending = fetch_github_trending(token, MAX_TRENDING_REPOS)
     
-    # 3. 生成报告
     report = generate_markdown_report(hacker_news, trending)
     
-    # 4. 保存到文件
     DATA_DIR.mkdir(exist_ok=True)
     today = datetime.now().strftime("%Y-%m-%d")
     
-    # 保存完整报告（Markdown）
     report_path = DATA_DIR / f"{today}_news_report.md"
     with open(report_path, "w", encoding="utf-8") as f:
         f.write(report)
     print(f"📄 报告已保存: {report_path}")
     
-    # 保存原始数据（JSON）
     all_data = {
         "date": today,
         "hacker_news": hacker_news,
@@ -224,7 +214,6 @@ def main():
         json.dump(all_data, f, indent=2, ensure_ascii=False)
     print(f"📁 数据已保存: {json_path}")
     
-    # 5. 更新 README
     update_readme_with_news(report)
     
     print("=" * 50)

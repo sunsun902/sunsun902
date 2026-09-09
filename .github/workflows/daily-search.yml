@@ -29,6 +29,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python search_script.py
 
+      - name: 抓取热点新闻
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python news_fetcher.py
+        
       - name: 提交更新
         run: |
           git config user.name "github-actions[bot]"

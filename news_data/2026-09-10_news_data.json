@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-10",
+  "hacker_news": [
+    {
+      "title": "DeepSeek v4.1 Flash",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "score": 273,
+      "by": "Liwink",
+      "time": "2026-09-10T06:11:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "score": 1187,
+      "by": "thecosmicfrog",
+      "time": "2026-09-09T18:15:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "score": 294,
+      "by": "dmitrybrant",
+      "time": "2026-09-10T01:58:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Larger Pacific Striped Octopus",
+      "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
+      "score": 51,
+      "by": "olalonde",
+      "time": "2026-09-09T04:32:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "score": 1023,
+      "by": "EdwinHoksberg",
+      "time": "2026-09-09T13:27:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "score": 517,
+      "by": "evakhoury",
+      "time": "2026-09-08T18:11:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "All grown-ups were once children, but only few of them remember it",
+      "url": "https://mathstodon.xyz/@tao/117244102901892965",
+      "score": 155,
+      "by": "yurivish",
+      "time": "2026-09-10T04:04:38",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "score": 335,
+      "by": "bookofjoe",
+      "time": "2026-09-09T17:14:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "No Man's Sky Cosmos",
+      "url": "https://www.nomanssky.com/cosmos-update/",
+      "score": 380,
+      "by": "Limb",
+      "time": "2026-09-09T15:47:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
+      "score": 12,
+      "by": "peter_d_sherman",
+      "time": "2026-09-07T04:27:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "score": 419,
+      "by": "ModelForge",
+      "time": "2026-09-09T14:37:47",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "score": 449,
+      "by": "awad",
+      "time": "2026-09-09T17:39:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "score": 356,
+      "by": "meetpateltech",
+      "time": "2026-09-09T17:33:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Compute polynomials twice as fast",
+      "url": "https://thomasahle.com/fast-polynomials/",
+      "score": 82,
+      "by": "thomasahle",
+      "time": "2026-09-09T08:53:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "score": 259,
+      "by": "LeoPanthera",
+      "time": "2026-09-09T23:49:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Open Source Durable Objects for Postgres",
+      "url": "https://solidobjects.dev/blog/introducing-solidobjects",
+      "score": 7,
+      "by": "cardmagic",
+      "time": "2026-09-08T15:59:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "score": 70,
+      "by": "Anon84",
+      "time": "2026-09-10T02:04:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "score": 443,
+      "by": "willwhitedc",
+      "time": "2026-09-09T11:39:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "score": 211,
+      "by": "wsxiaoys",
+      "time": "2026-09-09T17:24:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Factoring RSA 260",
+      "url": "https://cognition.com/blog/factoring-rsa-260",
+      "score": 92,
+      "by": "samyok",
+      "time": "2026-09-09T20:16:08",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 258228,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 258228
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 255447,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 255447
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 218293,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 218293
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 211974,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 211974
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195193,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195193
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 134010,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 134010
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 132347,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 132347
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 116508,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 116508
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 115137,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 115137
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 104617,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 104617
+    }
+  ]
+}

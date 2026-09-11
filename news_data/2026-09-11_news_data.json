@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-11",
+  "hacker_news": [
+    {
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "score": 1046,
+      "by": "fnthawar2",
+      "time": "2026-09-10T14:09:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "score": 4,
+      "by": "andsoitis",
+      "time": "2026-09-11T08:42:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "score": 511,
+      "by": "Brajeshwar",
+      "time": "2026-09-10T15:27:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Working with Git Worktrees in Magit",
+      "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+      "score": 44,
+      "by": "srijan4",
+      "time": "2026-09-08T06:31:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "score": 253,
+      "by": "aquir",
+      "time": "2026-09-10T19:43:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
+      "score": 179,
+      "by": "auberonedu",
+      "time": "2026-09-10T19:34:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nine coding harnesses vs. your laptop",
+      "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "score": 90,
+      "by": "nasutton12",
+      "time": "2026-09-10T22:54:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Stop making swap partitions–use swap files instead",
+      "url": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
+      "score": 27,
+      "by": "jenders",
+      "time": "2026-09-08T22:33:21",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "score": 332,
+      "by": "gumby",
+      "time": "2026-09-10T15:29:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Gemini app is now available for Windows",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "score": 44,
+      "by": "quysala12",
+      "time": "2026-09-11T04:52:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "score": 194,
+      "by": "rguiscard",
+      "time": "2026-09-11T01:00:56",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "score": 101,
+      "by": "jonifico",
+      "time": "2026-09-10T23:10:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+      "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+      "score": 102,
+      "by": "mckn1ght",
+      "time": "2026-09-10T21:30:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+      "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
+      "score": 36,
+      "by": "rzk",
+      "time": "2026-09-11T05:26:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "score": 410,
+      "by": "seelos",
+      "time": "2026-09-10T15:29:47",
+      "source": "Hacker News"
+    },
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "score": 802,
+      "by": "pred_",
+      "time": "2026-09-10T06:49:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "US diesel hits record $6 a gallon on Iran supply shock",
+      "url": "https://www.ft.com/content/ebfa69a3-323b-450d-8bfd-0b12e01d2a5b",
+      "score": 18,
+      "by": "mraniki",
+      "time": "2026-09-11T08:03:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "score": 222,
+      "by": "aanet",
+      "time": "2026-09-10T17:14:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "score": 181,
+      "by": "weierstass",
+      "time": "2026-09-10T15:57:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "url": "https://merybenavente.me/blog/proof-of-capture",
+      "score": 106,
+      "by": "merybenavente",
+      "time": "2026-09-10T19:44:15",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 259227,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 259227
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 256106,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 256106
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 219891,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 219891
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 212198,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 212198
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195201,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195201
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 135243,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 135243
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 132506,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 132506
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 116847,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 116847
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 115296,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 115296
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 104818,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 104818
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-12",
+  "hacker_news": [
+    {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "score": 51,
+      "by": "zdw",
+      "time": "2026-09-12T07:54:03",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "score": 896,
+      "by": "meredydd",
+      "time": "2026-09-11T17:45:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "IKEA made a mod for Skyrim [video]",
+      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "score": 46,
+      "by": "kegenaar",
+      "time": "2026-09-10T07:20:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "score": 511,
+      "by": "nickabe",
+      "time": "2026-09-11T18:24:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "google.com/goto: Google's anti-scraping update",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "score": 412,
+      "by": "1e1a",
+      "time": "2026-09-12T03:14:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Usenet rewind archive search engine",
+      "url": "https://www.usenet-rewind.com/",
+      "score": 57,
+      "by": "cstadler1869",
+      "time": "2026-09-12T04:19:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Navier-Stokes Announcement",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "score": 144,
+      "by": "rvz",
+      "time": "2026-09-12T04:09:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+      "score": 65,
+      "by": "bookofjoe",
+      "time": "2026-09-09T11:01:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "score": 274,
+      "by": "wcrichton",
+      "time": "2026-09-09T13:59:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Inverse Kinematics and Foot Locking",
+      "url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
+      "score": 30,
+      "by": "airhangerf15",
+      "time": "2026-09-07T08:21:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Bodily Oddities",
+      "url": "https://vester.si/bodily-oddities/",
+      "score": 237,
+      "by": "vesterde",
+      "time": "2026-09-10T20:33:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
+      "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+      "score": 32,
+      "by": "mooreds",
+      "time": "2026-09-10T12:59:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Logo Programming",
+      "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+      "score": 278,
+      "by": "azhenley",
+      "time": "2026-09-09T07:07:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "WeWorm: Zero-Click WeChat Worm",
+      "url": "https://calif.io/research/weworm",
+      "score": 19,
+      "by": "BlackEarth",
+      "time": "2026-09-12T05:49:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "score": 678,
+      "by": "chao-",
+      "time": "2026-09-11T23:17:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Project Blinkenlights",
+      "url": "https://blinkenlights.de/en/",
+      "score": 88,
+      "by": "doener",
+      "time": "2026-09-11T22:15:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "score": 160,
+      "by": "geneticdrifts",
+      "time": "2026-09-11T17:25:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "url": "https://github.com/kennethwolters/litelm",
+      "score": 134,
+      "by": "kennethwolters",
+      "time": "2026-09-11T18:10:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+      "score": 212,
+      "by": "adastral",
+      "time": "2026-09-07T18:05:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "score": 275,
+      "by": "microtonal",
+      "time": "2026-09-11T18:50:36",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 260065,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 260065
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 256726,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 256726
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 221026,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 221026
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 212473,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 212473
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195208,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195208
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 136125,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 136125
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 132660,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 132660
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 117089,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 117089
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 115480,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 115480
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 105120,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 105120
+    }
+  ]
+}

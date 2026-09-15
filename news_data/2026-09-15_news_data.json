@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-15",
+  "hacker_news": [
+    {
+      "title": "I can't stop thinking about Papua New Guinea",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "score": 70,
+      "by": "networked",
+      "time": "2026-09-15T06:16:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "score": 591,
+      "by": "throw0101d",
+      "time": "2026-09-14T17:50:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
+      "url": "https://github.com/enactic/OpenArm",
+      "score": 82,
+      "by": "Lwrless",
+      "time": "2026-09-13T14:17:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Linux from Scratch",
+      "url": "https://www.linuxfromscratch.org/",
+      "score": 162,
+      "by": "sippingabonedry",
+      "time": "2026-09-15T04:15:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "score": 128,
+      "by": "arunbahl",
+      "time": "2026-09-12T18:51:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "score": 396,
+      "by": "lukaspetersson",
+      "time": "2026-09-14T17:16:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "score": 222,
+      "by": "thingsilearned",
+      "time": "2026-09-14T21:22:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "score": 620,
+      "by": "gaganyaan",
+      "time": "2026-09-14T09:51:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+      "url": "https://poltora.dev/redis",
+      "score": 79,
+      "by": "poltora",
+      "time": "2026-09-12T19:43:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+      "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+      "score": 1,
+      "by": "maxpr",
+      "time": "2026-09-15T07:00:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "score": 108,
+      "by": "nathannaveen",
+      "time": "2026-09-14T14:29:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "score": 454,
+      "by": "gregnavis",
+      "time": "2026-09-14T12:40:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "score": 295,
+      "by": "grep_it",
+      "time": "2026-09-14T16:02:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A beginning for mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "score": 216,
+      "by": "robinhouston",
+      "time": "2026-09-14T15:33:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Compressing a flag to 11 bits",
+      "url": "https://read.vantezzen.io/miniflags",
+      "score": 138,
+      "by": "bennett_dev",
+      "time": "2026-09-12T15:57:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "High-performance garbage collection for C++",
+      "url": "https://v8.dev/blog/high-performance-cpp-gc",
+      "score": 31,
+      "by": "motownphilly",
+      "time": "2026-09-14T11:55:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Forgotten Woodlands",
+      "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+      "score": 53,
+      "by": "NaOH",
+      "time": "2026-09-11T21:21:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "url": "https://github.com/JamesRyanATX/fcbnerd",
+      "score": 64,
+      "by": "fretlessjazz",
+      "time": "2026-09-14T23:01:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "score": 208,
+      "by": "carllerche",
+      "time": "2026-09-14T15:27:56",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Synthesizing Loop-Free Programs with Rust and Z3 (2020)",
+      "url": "https://fitzgen.com/2020/01/13/synthesizing-loop-free-programs.html",
+      "score": 13,
+      "by": "karelpeeters",
+      "time": "2026-09-11T16:27:17",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 262392,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 262392
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 258630,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 258630
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 224696,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 224696
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 213086,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 213086
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195244,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195244
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 138868,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 138868
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 133126,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 133126
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 116847,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 116847
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 115939,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 115939
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 105663,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 105663
+    }
+  ]
+}

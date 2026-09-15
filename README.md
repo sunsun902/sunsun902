@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-09-14 09:12:51 UTC)
+# 📰 每日热点汇总 (2026-09-15 09:12:53 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) | 906 | u1hcw9nx |
-| 2 | [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/) | 234 | zdw |
-| 3 | [Registration without a phone number on Signal will use zero-...](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) | 250 | Cider9986 |
-| 4 | [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/) | 151 | contact9879 |
-| 5 | [Apple's Dimensional Drawings](https://developer.apple.com/accessories/dimensional-drawings/) | 176 | herbertl |
-| 6 | [Show HN: 1080p is 920px tall – 1k real browser viewports](https://screensize.net/reports/viewport-stats) | 9 | zenpe |
-| 7 | [Mullenweg has returned as CEO after attempted board ouster](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/) | 150 | ilamont |
-| 8 | [Rope, twine and thread: Invisible technologies of the Stone ...](https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads) | 62 | knowablemag |
-| 9 | [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/) | 227 | eigenspace |
-| 10 | [Of Gods and Languages: On "When God Spoke Greek" (2013)](https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/) | 25 | bryanrasmussen |
-| 11 | [Ask HN: What are you working on? (September 2026)](https://news.ycombinator.com/item?id=49686380) | 162 | david927 |
-| 12 | [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) | 803 | iamflimflam1 |
-| 13 | [OEMpocalypse: Unprivileged Android app to root on Samsung, X...](https://calif.io/research/oempocalypse) | 51 | negura |
-| 14 | [The GDR and Vietnam: From Fake Coffee to Coffee Empire](https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee) | 77 | NaOH |
-| 15 | [Show HN: EterDB, a Postgres fork that makes it easy to recov...](https://eterdb.com/) | 31 | fdeth |
+| 1 | [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua) | 70 | networked |
+| 2 | [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) | 591 | throw0101d |
+| 3 | [OpenArm: An open-source 7DOF humanoid arm](https://github.com/enactic/OpenArm) | 82 | Lwrless |
+| 4 | [Linux from Scratch](https://www.linuxfromscratch.org/) | 162 | sippingabonedry |
+| 5 | [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with ...](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/) | 128 | arunbahl |
+| 6 | [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) | 396 | lukaspetersson |
+| 7 | [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) | 222 | thingsilearned |
+| 8 | [XCancel service is suspended until further notice](https://xcancel.com/#) | 620 | gaganyaan |
+| 9 | [Show HN: Redis City – Explore how Redis works in an interact...](https://poltora.dev/redis) | 79 | poltora |
+| 10 | [Lingo.dev (YC F24) is hiring a senior content engineer (Remo...](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013) | 1 | maxpr |
+| 11 | [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI...](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/) | 108 | nathannaveen |
+| 12 | [OpenAI bots knew about the RubyGems caching vulnerability](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/) | 454 | gregnavis |
+| 13 | [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/) | 295 | grep_it |
+| 14 | [A beginning for mathematics](https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/) | 216 | robinhouston |
+| 15 | [Compressing a flag to 11 bits](https://read.vantezzen.io/miniflags) | 138 | bennett_dev |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 261622 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 257983 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 223244 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 212861 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195221 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 137755 | JavaScript |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 132933 | TypeScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 116557 | Python |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 115777 | None |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 105455 | Go |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 262392 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 258630 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 224696 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 213086 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195244 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 138868 | JavaScript |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 133126 | TypeScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 116847 | Python |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 115939 | None |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 105663 | Go |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-09-14 09:12:46 UTC)
+## 🏢 公司员工追踪 (2026-09-15 09:12:49 UTC)
 
 ### Google
 

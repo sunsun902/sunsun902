@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-16",
+  "hacker_news": [
+    {
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "score": 1352,
+      "by": "albelfio",
+      "time": "2026-09-15T19:25:03",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "score": 237,
+      "by": "imwally",
+      "time": "2026-09-16T02:07:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "score": 1628,
+      "by": "arnemunthekaas",
+      "time": "2026-09-15T12:31:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: I made a flight simulator, except you're just a passenger",
+      "url": "https://inflightsimulator.com",
+      "score": 177,
+      "by": "rkotcher",
+      "time": "2026-09-14T09:08:56",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An update on Wayback Machine access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "score": 525,
+      "by": "ChrisArchitect",
+      "time": "2026-09-15T17:52:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Doing Everyone Else's Job",
+      "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
+      "score": 60,
+      "by": "luu",
+      "time": "2026-09-15T00:01:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "score": 404,
+      "by": "leumon",
+      "time": "2026-09-15T17:38:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+      "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+      "score": 79,
+      "by": "bananaboy",
+      "time": "2026-09-16T02:46:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Datamimic – don't let your coding agent invent its own test world",
+      "url": "https://github.com/rapiddweller/datamimic",
+      "score": 36,
+      "by": "ake2l",
+      "time": "2026-09-16T04:58:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "score": 313,
+      "by": "ADevWithAnIdea",
+      "time": "2026-09-15T19:30:03",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+      "score": 123,
+      "by": "zdw",
+      "time": "2026-09-15T22:50:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "score": 215,
+      "by": "summarity",
+      "time": "2026-09-15T21:07:47",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "score": 220,
+      "by": "jaykru",
+      "time": "2026-09-15T17:37:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A software thing I built: GPS on a 25MHz 486-SX",
+      "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+      "score": 21,
+      "by": "JPLeRouzic",
+      "time": "2026-09-16T05:43:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "url": "https://arxiv.org/abs/2511.07885",
+      "score": 34,
+      "by": "pythonic_hell",
+      "time": "2026-09-14T09:16:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We got admin access to Baseten's production GitHub",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "score": 272,
+      "by": "bearsyankees",
+      "time": "2026-09-15T18:11:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Saving Jet Fuel",
+      "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+      "score": 93,
+      "by": "marklit",
+      "time": "2026-09-15T23:17:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ZTE B860H: Getting Armbian into It",
+      "url": "https://pen.waltuh.cyou/yonle/zte-b860h-getting-armbian-into-it",
+      "score": 3,
+      "by": "airhangerf15",
+      "time": "2026-09-15T10:29:19",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "score": 325,
+      "by": "bashtian",
+      "time": "2026-09-15T13:31:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
+      "url": "https://github.com/dbalsom/martypc",
+      "score": 10,
+      "by": "yitchelle",
+      "time": "2026-09-16T05:56:02",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 263167,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 263167
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 259608,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 259608
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 226019,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 226019
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 213294,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 213294
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195254,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195254
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 139786,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 139786
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 133280,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 133280
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 118164,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 118164
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 116079,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 116079
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 105864,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 105864
+    }
+  ]
+}

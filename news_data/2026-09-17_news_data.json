@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-17",
+  "hacker_news": [
+    {
+      "title": "One Year of Sponsored Servo Development",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "score": 32,
+      "by": "AshleysBrain",
+      "time": "2026-09-17T08:13:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "score": 667,
+      "by": "nonmaskable",
+      "time": "2026-09-16T11:15:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "url": "https://ryan.science/blog/keys-not-included",
+      "score": 161,
+      "by": "Ryan5453",
+      "time": "2026-09-17T03:03:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
+      "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
+      "score": 38,
+      "by": "rramadass",
+      "time": "2026-09-13T16:38:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "score": 539,
+      "by": "polyphilz",
+      "time": "2026-09-16T18:50:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "url": "https://jakeasmith.com/blog/http-build-url/",
+      "score": 92,
+      "by": "jakeasmith",
+      "time": "2026-09-15T20:53:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lucasart's Afterlife",
+      "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+      "score": 11,
+      "by": "Bondi_Blue",
+      "time": "2026-09-15T22:30:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "score": 423,
+      "by": "krackers",
+      "time": "2026-09-16T20:09:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Comparison of Malloc() Algorithms",
+      "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
+      "score": 69,
+      "by": "egberts1",
+      "time": "2026-09-15T16:52:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I didn't sign the Fields medallists' letter",
+      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+      "score": 3,
+      "by": "simianwords",
+      "time": "2026-09-17T08:51:51",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Backups Aren't Simple",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "score": 228,
+      "by": "afilipovski",
+      "time": "2026-09-16T20:27:16",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "score": 515,
+      "by": "signa11",
+      "time": "2026-09-16T15:56:47",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cloudflare/Security-Audit-Skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "score": 48,
+      "by": "donk8r",
+      "time": "2026-09-17T04:36:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Developing provably correct Rust code with Verus",
+      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+      "score": 108,
+      "by": "Betelbuddy",
+      "time": "2026-09-14T16:57:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "score": 202,
+      "by": "matt_d",
+      "time": "2026-09-16T20:59:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "score": 198,
+      "by": "johnjwang",
+      "time": "2026-09-15T22:15:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "score": 90,
+      "by": "gumby",
+      "time": "2026-09-17T00:28:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A 32-year-old bug walks into a Telnet server",
+      "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+      "score": 54,
+      "by": "paimapi",
+      "time": "2026-09-16T02:01:27",
+      "source": "Hacker News"
+    },
+    {
+      "title": "PCB is brought to you by Fable 5",
+      "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+      "score": 98,
+      "by": "jasonpeacock",
+      "time": "2026-09-14T12:25:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "score": 137,
+      "by": "etoxin",
+      "time": "2026-09-16T23:06:39",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 263909,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 263909
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 260684,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 260684
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 227287,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 227287
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 213519,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 213519
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195247,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195247
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 140805,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 140805
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 133408,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 133408
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 118731,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 118731
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 116265,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 116265
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 106152,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 106152
+    }
+  ]
+}

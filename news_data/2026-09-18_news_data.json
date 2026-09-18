@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-18",
+  "hacker_news": [
+    {
+      "title": "Bend 2 and the Vibe-Coding Trap",
+      "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+      "score": 131,
+      "by": "LiamPowell",
+      "time": "2026-09-18T12:03:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenJev",
+      "url": "https://openjev.com/",
+      "score": 242,
+      "by": "ilreb",
+      "time": "2026-09-18T09:42:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "score": 143,
+      "by": "cdnsteve",
+      "time": "2026-09-18T10:35:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I don't like passkeys",
+      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "score": 121,
+      "by": "ethanhawksley",
+      "time": "2026-09-18T12:06:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Subnormal floating-point numbers are expensive on Intel processors",
+      "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
+      "score": 32,
+      "by": "zdw",
+      "time": "2026-09-15T16:58:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jemalloc 5.4.0",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "score": 217,
+      "by": "gkfasdfasdf",
+      "time": "2026-09-18T04:20:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "score": 393,
+      "by": "pluc",
+      "time": "2026-09-18T09:45:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "url": "https://arxiv.org/abs/2609.20804",
+      "score": 4,
+      "by": "wek",
+      "time": "2026-09-18T13:06:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cekura (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+      "score": 1,
+      "by": "atarus",
+      "time": "2026-09-18T12:00:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The scourge of x86 emulation",
+      "url": "https://fex-emu.com/Scourge-of-emulation/",
+      "score": 193,
+      "by": "dagmx",
+      "time": "2026-09-18T04:09:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Replacing Pull Requests with Delta",
+      "url": "https://zed.dev/blog/delta-public-beta",
+      "score": 73,
+      "by": "vquemener",
+      "time": "2026-09-16T14:05:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+      "score": 78,
+      "by": "saimiam",
+      "time": "2026-09-18T11:01:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "score": 493,
+      "by": "JonSchneider",
+      "time": "2026-09-17T21:13:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Astra for Law",
+      "url": "https://openai.com/index/astra-for-law/",
+      "score": 523,
+      "by": "vertigoruntime",
+      "time": "2026-09-17T20:17:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "score": 517,
+      "by": "nicolas-siplis",
+      "time": "2026-09-17T20:36:13",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Shadows Lurking in the Equations – Underwater Islands",
+      "url": "https://gods.art/articles/equation_shadows",
+      "score": 8,
+      "by": "vismit2000",
+      "time": "2026-09-16T02:37:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Qwen 3.8 Omni Flash",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "score": 270,
+      "by": "jjcm",
+      "time": "2026-09-17T23:05:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "url": "https://github.com/asciimoo/hister",
+      "score": 654,
+      "by": "bookofjoe",
+      "time": "2026-09-17T16:25:37",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Wax motor",
+      "url": "https://en.wikipedia.org/wiki/Wax_motor",
+      "score": 454,
+      "by": "mhb",
+      "time": "2026-09-16T12:35:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "When the fractional part of a float fixes your shader",
+      "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+      "score": 62,
+      "by": "vinhnx",
+      "time": "2026-09-16T13:20:15",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 265008,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 265008
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 261607,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 261607
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 228810,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 228810
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 213882,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 213882
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195256,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195256
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 141777,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 141777
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 133528,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 133528
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 119221,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 119221
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 116494,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 116494
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 106485,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 106485
+    }
+  ]
+}

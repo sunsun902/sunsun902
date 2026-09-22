@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-22",
+  "hacker_news": [
+    {
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "score": 256,
+      "by": "networked",
+      "time": "2026-09-22T06:08:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "score": 197,
+      "by": "dimonomid",
+      "time": "2026-09-22T12:11:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "score": 977,
+      "by": "volf_",
+      "time": "2026-09-21T20:12:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "score": 547,
+      "by": "possibilistic",
+      "time": "2026-09-21T23:03:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AMD's random number generator can't generate a 0?",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "score": 151,
+      "by": "BruceEel",
+      "time": "2026-09-22T08:39:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I said no and Apple said yes",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "score": 445,
+      "by": "thatslast",
+      "time": "2026-09-22T08:04:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "score": 919,
+      "by": "zer0tonin",
+      "time": "2026-09-21T14:26:56",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "score": 501,
+      "by": "aray07",
+      "time": "2026-09-21T19:43:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Line Scan Photos from MUNI Heritage Weekend in San Francisco",
+      "url": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
+      "score": 42,
+      "by": "plun9",
+      "time": "2026-09-20T22:13:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "score": 626,
+      "by": "chmaynard",
+      "time": "2026-09-21T14:03:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A font that reads what you wrote",
+      "url": "https://rohanadwankar.github.io/posts/semfont.html",
+      "score": 47,
+      "by": "RohanAdwankar",
+      "time": "2026-09-20T09:38:16",
+      "source": "Hacker News"
+    },
+    {
+      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+      "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+      "score": 122,
+      "by": "KellyCriterion",
+      "time": "2026-09-22T10:36:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Verda (Finland) raises $189M in Series B",
+      "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+      "score": 61,
+      "by": "cmrdporcupine",
+      "time": "2026-09-22T09:36:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "score": 821,
+      "by": "mooreds",
+      "time": "2026-09-21T22:30:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "score": 112,
+      "by": "theanonymousone",
+      "time": "2026-09-22T04:02:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
+      "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
+      "score": 37,
+      "by": "fuzzythinker",
+      "time": "2026-09-21T09:56:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "score": 281,
+      "by": "julian_digital",
+      "time": "2026-09-21T19:23:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Looking forward to Git 2.56 – and 3.0",
+      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "score": 167,
+      "by": "chmaynard",
+      "time": "2026-09-21T23:16:51",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Divide by depth for instant 3D",
+      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+      "score": 182,
+      "by": "gabrieloc",
+      "time": "2026-09-19T19:43:13",
+      "source": "Hacker News"
+    },
+    {
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "score": 423,
+      "by": "Muhammad523",
+      "time": "2026-09-21T19:14:12",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 267556,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 267556
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 265100,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 265100
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 233149,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 233149
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 214603,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 214603
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195276,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195276
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 144162,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 144162
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 133907,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 133907
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 120413,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 120413
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 117238,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 117238
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 107306,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 107306
+    }
+  ]
+}

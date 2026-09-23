@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-23",
+  "hacker_news": [
+    {
+      "title": "Claude Code reads AGENTS.md only when telemetry is on",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "score": 209,
+      "by": "pszypowicz",
+      "time": "2026-09-23T12:15:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The GitHub wiki is an anti-pattern",
+      "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+      "score": 33,
+      "by": "ibobev",
+      "time": "2026-09-23T13:05:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jev in 25 Lines of Python",
+      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "score": 372,
+      "by": "bashbjorn",
+      "time": "2026-09-23T07:26:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Z80 REPL",
+      "url": "https://abagames.github.io/z80-repl/index.html",
+      "score": 67,
+      "by": "adunk",
+      "time": "2026-09-23T11:04:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Samsung accidentally freezes its smart fridges with a software update",
+      "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
+      "score": 73,
+      "by": "Markoff",
+      "time": "2026-09-23T12:57:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "score": 1635,
+      "by": "OfficialTurkey",
+      "time": "2026-09-22T18:00:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+      "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+      "score": 104,
+      "by": "cdrnsf",
+      "time": "2026-09-23T12:32:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "score": 1646,
+      "by": "km144",
+      "time": "2026-09-22T16:29:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I Don't Want the Details",
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "score": 52,
+      "by": "mooreds",
+      "time": "2026-09-23T13:04:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
+      "url": "https://questdb.com/careers/pre-sales-engineer-north-america/",
+      "score": 1,
+      "by": "nhourcard",
+      "time": "2026-09-23T12:01:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tokens Too Cheap to Meter",
+      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "score": 35,
+      "by": "teoruiz",
+      "time": "2026-09-23T09:21:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Transit rewards",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "score": 193,
+      "by": "raybb",
+      "time": "2026-09-23T02:52:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "score": 696,
+      "by": "sohkamyung",
+      "time": "2026-09-22T13:52:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
+      "url": "https://ivesentit.com",
+      "score": 11,
+      "by": "ivesentit",
+      "time": "2026-09-23T12:36:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "url": "https://foxscript.org/",
+      "score": 396,
+      "by": "boredjohnny",
+      "time": "2026-09-22T21:00:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Two Git ignore files nobody told me about",
+      "url": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
+      "score": 24,
+      "by": "faithraven",
+      "time": "2026-09-23T11:28:47",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What California is learning from solar panels built over irrigation canals",
+      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "score": 269,
+      "by": "Jtsummers",
+      "time": "2026-09-22T03:10:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+      "url": "https://filmstudio.rxlab.app",
+      "score": 15,
+      "by": "zilue",
+      "time": "2026-09-23T12:28:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Price of Intelligence Is Falling Rapidly",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
+      "score": 11,
+      "by": "gotmedium",
+      "time": "2026-09-23T13:08:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "url": "https://github.com/xCuri0/ReBarUEFI",
+      "score": 195,
+      "by": "nateb2022",
+      "time": "2026-09-21T01:07:46",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 268273,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 268273
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 265898,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 265898
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 234114,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 234114
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 214759,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 214759
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195286,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195286
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 144810,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 144810
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 133993,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 133993
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 120764,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 120764
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 117453,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 117453
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 107490,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 107490
+    }
+  ]
+}

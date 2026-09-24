@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-24",
+  "hacker_news": [
+    {
+      "title": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "score": 121,
+      "by": "ReturnoftheHack",
+      "time": "2026-09-24T10:39:19",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nokia Design Archive (2025)",
+      "url": "https://nokiadesignarchive.aalto.fi/index.html",
+      "score": 137,
+      "by": "pillars",
+      "time": "2026-09-24T09:49:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+      "score": 63,
+      "by": "nonfamous",
+      "time": "2026-09-24T12:58:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "score": 509,
+      "by": "aaronday",
+      "time": "2026-09-23T22:38:16",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ideas on modernizing the open-source desktop",
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "score": 240,
+      "by": "signa11",
+      "time": "2026-09-24T02:52:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "score": 709,
+      "by": "raahelb",
+      "time": "2026-09-23T18:06:47",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RAM: the forgotten history (2024)",
+      "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
+      "score": 62,
+      "by": "Luc",
+      "time": "2026-09-22T15:12:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+      "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+      "score": 90,
+      "by": "adunk",
+      "time": "2026-09-24T11:08:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Enjoy Every Sandwich",
+      "url": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
+      "score": 5,
+      "by": "NaOH",
+      "time": "2026-09-22T18:19:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "score": 401,
+      "by": "pieterr",
+      "time": "2026-09-24T08:23:03",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+      "score": 161,
+      "by": "rudy6912",
+      "time": "2026-09-24T02:44:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "score": 234,
+      "by": "JohnHammersley",
+      "time": "2026-09-23T22:45:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "When the Debugger Lies",
+      "url": "https://danielmangum.com/posts/when-the-debugger-lies/",
+      "score": 24,
+      "by": "hasheddan",
+      "time": "2026-09-22T11:02:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "score": 266,
+      "by": "Rapzid",
+      "time": "2026-09-23T21:01:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The \"Windows XP Box\" (2003)",
+      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+      "score": 186,
+      "by": "doubletwoyou",
+      "time": "2026-09-22T03:09:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Contrastive Language Models",
+      "url": "https://contrastive-lm.notion.site/",
+      "score": 109,
+      "by": "erichocean",
+      "time": "2026-09-24T04:20:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+      "url": "https://github.com/nestrilabs/virtio-nvgpu",
+      "score": 127,
+      "by": "WanjohiRyan",
+      "time": "2026-09-24T01:02:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fixing the Portobello Police Station Clock",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "score": 478,
+      "by": "avidly",
+      "time": "2026-09-23T15:18:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "score": 178,
+      "by": "snikolaev",
+      "time": "2026-09-24T05:21:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why 'What's Opera, Doc?' looks like that",
+      "url": "https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that",
+      "score": 94,
+      "by": "CharlesW",
+      "time": "2026-09-23T15:37:47",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 268894,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 268894
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 266536,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 266536
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 234892,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 234892
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 214941,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 214941
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195275,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195275
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 145339,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 145339
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 134076,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 134076
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 121097,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 121097
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 117668,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 117668
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 107653,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 107653
+    }
+  ]
+}

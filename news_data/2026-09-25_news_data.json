@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-25",
+  "hacker_news": [
+    {
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "url": "https://www.dawo.community/en/",
+      "score": 617,
+      "by": "fjfaase",
+      "time": "2026-09-25T08:06:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Allow Carriers on Planes",
+      "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+      "score": 19,
+      "by": "surprisetalk",
+      "time": "2026-09-25T14:00:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Platform-Independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
+      "score": 88,
+      "by": "yurivish",
+      "time": "2026-09-25T11:47:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "url": "https://github.com/git-bug/git-bug",
+      "score": 95,
+      "by": "alentred",
+      "time": "2026-09-25T11:38:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "score": 152,
+      "by": "hugh4life",
+      "time": "2026-09-25T07:27:45",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ink and Switch Interactive Homepage",
+      "url": "https://www.inkandswitch.com/",
+      "score": 95,
+      "by": "iFreilicht",
+      "time": "2026-09-25T09:50:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "score": 1335,
+      "by": "daveoc64",
+      "time": "2026-09-24T15:26:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "score": 36,
+      "by": "MC995",
+      "time": "2026-09-25T13:49:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Topcoat is pushing the boundary of server applications with Rust",
+      "url": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
+      "score": 65,
+      "by": "sagacity",
+      "time": "2026-09-25T09:59:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nobody Asked for a Crab Chair",
+      "url": "https://newmobility.com/nobody-asked-for-a-crab-chair/",
+      "score": 24,
+      "by": "speckx",
+      "time": "2026-09-25T12:48:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Boards of Casio",
+      "url": "https://www.ambionix.com/blog/boards-of-casio/",
+      "score": 30,
+      "by": "fidotron",
+      "time": "2026-09-25T09:26:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
+      "score": 776,
+      "by": "MitPitt",
+      "time": "2026-09-23T22:53:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+      "score": 80,
+      "by": "safateam",
+      "time": "2026-09-25T07:03:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Amiga Screens: A Primer",
+      "url": "https://www.datagubbe.se/amscr/",
+      "score": 49,
+      "by": "msephton",
+      "time": "2026-09-25T07:31:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "score": 346,
+      "by": "sidharthkmenon",
+      "time": "2026-09-24T17:21:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I'm Tired of Being on the Network",
+      "url": "https://matduggan.com/im-tired-of-being-on-the-network/",
+      "score": 85,
+      "by": "sagacity",
+      "time": "2026-09-25T12:13:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Special Projects (2016)",
+      "url": "https://openai.com/index/special-projects/",
+      "score": 47,
+      "by": "vinhnx",
+      "time": "2026-09-25T08:55:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Test",
+      "url": "https://tante.cc/2026/09/24/the-test/",
+      "score": 43,
+      "by": "latexr",
+      "time": "2026-09-25T12:14:02",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "score": 468,
+      "by": "jbotz",
+      "time": "2026-09-24T16:23:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What About Rails?",
+      "url": "https://jardo.dev/what-about-rails",
+      "score": 151,
+      "by": "jrochkind1",
+      "time": "2026-09-25T02:50:16",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 269481,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 269481
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 267273,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 267273
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 235753,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 235753
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 215086,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 215086
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195286,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195286
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 145801,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 145801
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 134177,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 134177
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 121345,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 121345
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 117841,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 117841
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 107811,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 107811
+    }
+  ]
+}

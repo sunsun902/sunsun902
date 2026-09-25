@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-09-24 14:02:42 UTC)
+# 📰 每日热点汇总 (2026-09-25 14:26:22 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [Two-Tier Encryption in the UK – Identical Apple Devices, Dif...](https://macanorak.com/two-tier-encryption-in-the-uk/) | 121 | ReturnoftheHack |
-| 2 | [Nokia Design Archive (2025)](https://nokiadesignarchive.aalto.fi/index.html) | 137 | pillars |
-| 3 | [Owners mourn spoiled food after firmware update bricks Samsu...](https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/) | 63 | nonfamous |
-| 4 | [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) | 509 | aaronday |
-| 5 | [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/) | 240 | signa11 |
-| 6 | [Claude discovers a novel enzyme system with CRISPR-like repe...](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | 709 | raahelb |
-| 7 | [RAM: the forgotten history (2024)](https://blog.coredump.cx/p/memory-the-forgotten-history) | 62 | Luc |
-| 8 | [The newest ESP32 can run Linux and it's getting close to a R...](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/) | 90 | adunk |
-| 9 | [Enjoy Every Sandwich](https://bradmontague.substack.com/p/enjoy-every-sandwich) | 5 | NaOH |
-| 10 | [Meta takes down a critical video about meta AI Glasses after...](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/) | 401 | pieterr |
-| 11 | [OpenAI agent hacked Australian government website, PM says](https://www.bbc.com/news/live/cvgl73pxgndwt) | 161 | rudy6912 |
-| 12 | [ArXiv receives multiyear commitments to support it as an ind...](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/) | 234 | JohnHammersley |
-| 13 | [When the Debugger Lies](https://danielmangum.com/posts/when-the-debugger-lies/) | 24 | hasheddan |
-| 14 | [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/) | 266 | Rapzid |
-| 15 | [The "Windows XP Box" (2003)](https://www.mini-itx.com/projects/windowsxpbox/) | 186 | doubletwoyou |
+| 1 | [Dutch governments builds alternative for Microsoft based on ...](https://www.dawo.community/en/) | 617 | fjfaase |
+| 2 | [Allow Carriers on Planes](https://www.jefftk.com/p/allow-carriers-on-planes) | 19 | surprisetalk |
+| 3 | [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment) | 88 | yurivish |
+| 4 | [Git-bug: Distributed, offline-first bug tracker embedded in ...](https://github.com/git-bug/git-bug) | 95 | alentred |
+| 5 | [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6...](https://nyaa.sh/reviews/mac-mini-m6-emulation) | 152 | hugh4life |
+| 6 | [Ink and Switch Interactive Homepage](https://www.inkandswitch.com/) | 95 | iFreilicht |
+| 7 | [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) | 1335 | daveoc64 |
+| 8 | [ASML says it sold 'absolutely nothing' in Europe in 2026](https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand) | 36 | MC995 |
+| 9 | [Topcoat is pushing the boundary of server applications with ...](https://tokio.rs/blog/2026-09-24-topcoat-server-applications) | 65 | sagacity |
+| 10 | [Nobody Asked for a Crab Chair](https://newmobility.com/nobody-asked-for-a-crab-chair/) | 24 | speckx |
+| 11 | [Boards of Casio](https://www.ambionix.com/blog/boards-of-casio/) | 30 | fidotron |
+| 12 | [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) | 776 | MitPitt |
+| 13 | [CVE-2025-13032: Entering and Breaking the Avast Antivirus Sa...](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2) | 80 | safateam |
+| 14 | [Amiga Screens: A Primer](https://www.datagubbe.se/amscr/) | 49 | msephton |
+| 15 | [Show HN: Whiteboard (YC W26) – An open-source IDE for though...](https://github.com/devdotfast/whiteboard) | 346 | sidharthkmenon |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 268894 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 266536 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 234892 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 214941 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195275 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 145339 | JavaScript |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 134076 | TypeScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 121097 | Python |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 117668 | None |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 107653 | Go |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 269481 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 267273 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 235753 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 215086 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195286 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 145801 | JavaScript |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 134177 | TypeScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 121345 | Python |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 117841 | None |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 107811 | Go |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-09-24 14:02:39 UTC)
+## 🏢 公司员工追踪 (2026-09-25 14:26:18 UTC)
 
 ### Google
 

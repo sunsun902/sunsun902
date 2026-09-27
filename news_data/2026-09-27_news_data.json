@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-27",
+  "hacker_news": [
+    {
+      "title": "Flip Fluid on Flip Dots",
+      "url": "https://mitxela.com/projects/flipflip",
+      "score": 223,
+      "by": "blutack",
+      "time": "2026-09-26T07:50:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "score": 8,
+      "by": "surprisetalk",
+      "time": "2026-09-27T13:30:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "score": 480,
+      "by": "papergirl",
+      "time": "2026-09-27T06:19:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "score": 75,
+      "by": "yu3zhou4",
+      "time": "2026-09-27T10:26:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "score": 427,
+      "by": "silveraxe93",
+      "time": "2026-09-25T13:48:38",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "score": 286,
+      "by": "chmaynard",
+      "time": "2026-09-26T14:34:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+      "url": "https://fakecloud.dev/",
+      "score": 15,
+      "by": "theanonymousone",
+      "time": "2026-09-26T14:25:16",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Finally, A True Blue Rose Exists",
+      "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
+      "score": 48,
+      "by": "bookofjoe",
+      "time": "2026-09-25T20:44:38",
+      "source": "Hacker News"
+    },
+    {
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "score": 456,
+      "by": "Qision",
+      "time": "2026-09-25T10:55:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The internet discovers TLA+. Now what?",
+      "url": "https://reasonable.io/blog/tla-tutorial/",
+      "score": 65,
+      "by": "matt_d",
+      "time": "2026-09-27T05:26:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "score": 288,
+      "by": "shenli3514",
+      "time": "2026-09-26T18:22:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "score": 348,
+      "by": "jpwalsh234",
+      "time": "2026-09-26T17:10:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rusty thoughts on \"Parse, don't validate\"",
+      "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+      "score": 17,
+      "by": "ingve",
+      "time": "2026-09-27T08:59:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
+      "url": "https://3d-retro.com/",
+      "score": 6,
+      "by": "SouthWestAtlas",
+      "time": "2026-09-23T23:33:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "score": 352,
+      "by": "MC995",
+      "time": "2026-09-25T13:49:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Biology might not be quantum, but its math is quantumlike",
+      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "score": 98,
+      "by": "pseudolus",
+      "time": "2026-09-25T02:11:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "score": 191,
+      "by": "momentmaker",
+      "time": "2026-09-24T16:11:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "score": 419,
+      "by": "ksec",
+      "time": "2026-09-26T09:13:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+      "url": "https://francisbach.com/spectral_log_density_estimation/",
+      "score": 50,
+      "by": "matt_d",
+      "time": "2026-09-25T22:48:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "score": 325,
+      "by": "rbanffy",
+      "time": "2026-09-27T08:44:04",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 270532,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 270532
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 268178,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 268178
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 237447,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 237447
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 215487,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 215487
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195294,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195294
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 146787,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 146787
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 134315,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 134315
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 121796,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 121796
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 118279,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 118279
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 108022,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 108022
+    }
+  ]
+}

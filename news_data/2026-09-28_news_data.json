@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-28",
+  "hacker_news": [
+    {
+      "title": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "score": 75,
+      "by": "piotrgrabowski",
+      "time": "2026-09-28T15:54:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "13 Months Sober (2025)",
+      "url": "https://www.bobbytables.io/p/13-months-sober",
+      "score": 35,
+      "by": "btables",
+      "time": "2026-09-28T16:11:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hijacking the PS5's RTMP Stream",
+      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "score": 36,
+      "by": "ibobev",
+      "time": "2026-09-28T15:35:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "url": "https://git.mills.io/prologic/parley",
+      "score": 234,
+      "by": "davidcollantes",
+      "time": "2026-09-28T10:30:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
+      "url": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
+      "score": 31,
+      "by": "bovermyer",
+      "time": "2026-09-28T14:48:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The problem is not AI code, but not knowing about system architecture or intent",
+      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "score": 227,
+      "by": "zazuke",
+      "time": "2026-09-28T16:11:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MongoDB CEO resigns to join Meta",
+      "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+      "score": 112,
+      "by": "diek",
+      "time": "2026-09-28T14:54:21",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "url": "https://hn.watch/",
+      "score": 4,
+      "by": "mrborgen",
+      "time": "2026-09-28T15:16:13",
+      "source": "Hacker News"
+    },
+    {
+      "title": "37,500 border drawings: a map of the world as people remember it",
+      "url": "https://www.habibicode.org/thedrawnworld",
+      "score": 135,
+      "by": "nicocarsui",
+      "time": "2026-09-28T08:35:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Coding Is Not Solved",
+      "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+      "score": 290,
+      "by": "firstSpeaker",
+      "time": "2026-09-28T13:52:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+      "url": "https://github.com/seamusc/papermono-shopping-list",
+      "score": 80,
+      "by": "seamus_c",
+      "time": "2026-09-28T10:14:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What Would a Serious AI Product Look Like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "score": 42,
+      "by": "lumpa",
+      "time": "2026-09-28T11:02:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
+      "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+      "score": 128,
+      "by": "birdculture",
+      "time": "2026-09-27T10:19:51",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Owed a billion dollars in Nvidia stock",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "score": 986,
+      "by": "Eric_Gullichsen",
+      "time": "2026-09-28T02:05:13",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "url": "https://www.thisamericanlife.org/897/transcript",
+      "score": 96,
+      "by": "simonpure",
+      "time": "2026-09-28T15:35:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "score": 556,
+      "by": "gmays",
+      "time": "2026-09-27T17:31:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Hntui – A TUI for Hacker News",
+      "url": "https://github.com/ahmd-sh/hntui",
+      "score": 95,
+      "by": "ahmd-sh",
+      "time": "2026-09-28T12:11:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Solving a corn puzzle with CP-SAT",
+      "url": "https://thill.me/2026/07/16/corn-puzzle-sat-solver.html",
+      "score": 5,
+      "by": "luu",
+      "time": "2026-09-27T20:58:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "score": 1638,
+      "by": "sancho-panza",
+      "time": "2026-09-27T20:12:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nissan's third generation e-POWER powertrain",
+      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "score": 136,
+      "by": "mroche",
+      "time": "2026-09-28T02:31:23",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 271206,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 271206
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 268812,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 268812
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 238649,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 238649
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 215678,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 215678
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195286,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195286
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 147396,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 147396
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 134394,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 134394
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 122087,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 122087
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 118544,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 118544
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 108169,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 108169
+    }
+  ]
+}

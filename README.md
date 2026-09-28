@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-09-27 14:34:22 UTC)
+# 📰 每日热点汇总 (2026-09-28 17:22:48 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip) | 223 | blutack |
-| 2 | [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) | 8 | surprisetalk |
-| 3 | [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) | 480 | papergirl |
-| 4 | ["As a Language Model": Chat Template Switches LLM Self-Refer...](https://arxiv.org/abs/2609.25021) | 75 | yu3zhou4 |
-| 5 | [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later) | 427 | silveraxe93 |
-| 6 | [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/) | 286 | chmaynard |
-| 7 | [Fakecloud: Local AWS cloud emulator for integration tests](https://fakecloud.dev/) | 15 | theanonymousone |
-| 8 | [Finally, A True Blue Rose Exists](https://www.sciencenews.org/article/true-blue-rose-pigment-copigment) | 48 | bookofjoe |
-| 9 | [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) | 456 | Qision |
-| 10 | [The internet discovers TLA+. Now what?](https://reasonable.io/blog/tla-tutorial/) | 65 | matt_d |
-| 11 | [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) | 288 | shenli3514 |
-| 12 | [Show HN: Reladraw – A diagram language where you decide wher...](https://github.com/reladraw/reladraw) | 348 | jpwalsh234 |
-| 13 | [Rusty thoughts on "Parse, don't validate"](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/) | 17 | ingve |
-| 14 | [Show HN: A CC0 museum of retro 3D tricks you can paste into ...](https://3d-retro.com/) | 6 | SouthWestAtlas |
-| 15 | [ASML says it sold 'absolutely nothing' in Europe in 2026](https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand) | 352 | MC995 |
+| 1 | [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) | 75 | piotrgrabowski |
+| 2 | [13 Months Sober (2025)](https://www.bobbytables.io/p/13-months-sober) | 35 | btables |
+| 3 | [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/) | 36 | ibobev |
+| 4 | [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley) | 234 | davidcollantes |
+| 5 | [What Heraldry and Mon Can Teach Us About Building Visual-Ide...](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/) | 31 | bovermyer |
+| 6 | [The problem is not AI code, but not knowing about system arc...](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/) | 227 | zazuke |
+| 7 | [MongoDB CEO resigns to join Meta](https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/) | 112 | diek |
+| 8 | [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | 4 | mrborgen |
+| 9 | [37,500 border drawings: a map of the world as people remembe...](https://www.habibicode.org/thedrawnworld) | 135 | nicocarsui |
+| 10 | [Coding Is Not Solved](https://blog.alexewerlof.com/p/coding-is-not-solved) | 290 | firstSpeaker |
+| 11 | [Show HN: PaperMono, e-ink fridge magnet shopping list with m...](https://github.com/seamusc/papermono-shopping-list) | 80 | seamus_c |
+| 12 | [What Would a Serious AI Product Look Like?](https://blog.glyph.im/2026/09/serious-ai-product.html) | 42 | lumpa |
+| 13 | [Footguns with Postgres "at time zone 'UTC'"](https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does) | 128 | birdculture |
+| 14 | [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) | 986 | Eric_Gullichsen |
+| 15 | [Kids turned low-traffic NPR Spotify comments into a secret g...](https://www.thisamericanlife.org/897/transcript) | 96 | simonpure |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 270532 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 268178 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 237447 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 215487 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195294 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 146787 | JavaScript |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 134315 | TypeScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 121796 | Python |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 118279 | None |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 108022 | Go |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 271206 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 268812 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 238649 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 215678 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195286 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 147396 | JavaScript |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 134394 | TypeScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 122087 | Python |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 118544 | None |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 108169 | Go |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-09-27 14:34:18 UTC)
+## 🏢 公司员工追踪 (2026-09-28 17:22:44 UTC)
 
 ### Google
 

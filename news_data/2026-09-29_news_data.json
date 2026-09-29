@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-29",
+  "hacker_news": [
+    {
+      "title": "Claude partial outage",
+      "url": "https://status.claude.com/incidents/4xvtc2gnq73l",
+      "score": 112,
+      "by": "sidcool",
+      "time": "2026-09-29T14:25:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "macOS Golden Gate Is a Buggy Mess",
+      "url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
+      "score": 86,
+      "by": "SquareOrbits",
+      "time": "2026-09-29T14:32:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "score": 198,
+      "by": "rbanffy",
+      "time": "2026-09-29T12:43:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI companies leak data to advertisers [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "score": 320,
+      "by": "damaru2",
+      "time": "2026-09-29T09:03:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "score": 139,
+      "by": "nicowaltz",
+      "time": "2026-09-29T11:13:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Without the Hot Air",
+      "url": "https://www.withouthotair.com/",
+      "score": 66,
+      "by": "0sake_rs",
+      "time": "2026-09-29T12:38:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+      "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+      "score": 74,
+      "by": "dkobia",
+      "time": "2026-09-29T14:15:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "You Are No Longer Invited to Dinner",
+      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "score": 426,
+      "by": "barry-cotter",
+      "time": "2026-09-29T11:14:45",
+      "source": "Hacker News"
+    },
+    {
+      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+      "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+      "score": 279,
+      "by": "ilamont",
+      "time": "2026-09-29T11:35:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Using any C++ library in Godot",
+      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+      "score": 116,
+      "by": "czoido",
+      "time": "2026-09-29T08:40:37",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What makes software development engineering",
+      "url": "https://parksb.github.io/en/article/44.html",
+      "score": 22,
+      "by": "ibobev",
+      "time": "2026-09-29T13:31:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Digital Audio on the ZX Spectrum's 1-Bit Beeper",
+      "url": "https://bumbershootsoft.wordpress.com/2026/09/26/digital-audio-on-the-zx-spectrums-1-bit-beeper/",
+      "score": 24,
+      "by": "ibobev",
+      "time": "2026-09-27T18:30:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "America.gov – Whatever you need from government, start here",
+      "url": "https://america.gov/",
+      "score": 15,
+      "by": "plesiv",
+      "time": "2026-09-29T14:04:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why Doesn't Anyone Want to Fix One of America's Scariest Roads?",
+      "url": "https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads",
+      "score": 6,
+      "by": "adrianhon",
+      "time": "2026-09-29T14:23:35",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "score": 198,
+      "by": "evakhoury",
+      "time": "2026-09-28T16:18:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+      "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+      "score": 282,
+      "by": "mywacaday",
+      "time": "2026-09-29T11:44:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Google ending ChromeOS support two years early",
+      "url": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+      "score": 35,
+      "by": "rbanffy",
+      "time": "2026-09-29T14:12:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Raven – The harness of harnesses, built for RSI",
+      "url": "https://github.com/EverMind-AI/Raven",
+      "score": 41,
+      "by": "cyfyifanchen",
+      "time": "2026-09-29T09:58:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
+      "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
+      "score": 137,
+      "by": "doener",
+      "time": "2026-09-27T20:13:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+      "url": "https://www.cbc.ca/lite/story/9.7361622",
+      "score": 62,
+      "by": "colinprince",
+      "time": "2026-09-29T12:33:50",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 271835,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 271835
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 269407,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 269407
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 239720,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 239720
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 215827,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 215827
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195281,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195281
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 147979,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 147979
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 134467,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 134467
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 122319,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 122319
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 118752,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 118752
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 108309,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 108309
+    }
+  ]
+}

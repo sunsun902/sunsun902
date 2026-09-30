@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-30",
+  "hacker_news": [
+    {
+      "title": "Pi.dev: You Said No MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "score": 379,
+      "by": "yarapavan",
+      "time": "2026-09-30T09:55:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "score": 39,
+      "by": "ibobev",
+      "time": "2026-09-30T13:50:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+      "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+      "score": 88,
+      "by": "gvuksic",
+      "time": "2026-09-29T10:05:56",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "score": 786,
+      "by": "bryan0",
+      "time": "2026-09-29T22:36:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I Could've Accessed 17T Microsoft Records",
+      "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+      "score": 24,
+      "by": "luispa",
+      "time": "2026-09-28T20:32:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Mathematical Origami",
+      "url": "https://mathigon.org/origami",
+      "score": 54,
+      "by": "signa11",
+      "time": "2026-09-29T06:45:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Solving Factorio Quality",
+      "url": "https://exyr.org/2026/solving-factorio-quality/",
+      "score": 188,
+      "by": "laurenth",
+      "time": "2026-09-29T02:27:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Getting out of the way: my robotics crash course",
+      "url": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/",
+      "score": 14,
+      "by": "systemerror",
+      "time": "2026-09-28T15:12:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "score": 700,
+      "by": "alvis",
+      "time": "2026-09-29T17:07:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Vermont replacing power plants with home batteries",
+      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "score": 303,
+      "by": "devonnull",
+      "time": "2026-09-29T18:19:02",
+      "source": "Hacker News"
+    },
+    {
+      "title": "America.gov",
+      "url": "https://america.gov/",
+      "score": 702,
+      "by": "plesiv",
+      "time": "2026-09-29T14:04:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "NASA asked several former SR-71A staffers to help secret restart",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "score": 253,
+      "by": "ilamont",
+      "time": "2026-09-29T10:10:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "score": 255,
+      "by": "ilamont",
+      "time": "2026-09-29T19:30:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "url": "https://space.bl2.net/",
+      "score": 330,
+      "by": "wanick",
+      "time": "2026-09-29T19:08:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I can't tell who's teaching who anymore",
+      "url": "https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore/",
+      "score": 24,
+      "by": "eustoria",
+      "time": "2026-09-30T14:37:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "score": 552,
+      "by": "rbanffy",
+      "time": "2026-09-29T12:43:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "score": 319,
+      "by": "evakhoury",
+      "time": "2026-09-28T16:18:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Backblaze drive stats for Q2 2026",
+      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+      "score": 262,
+      "by": "HieronymusBosch",
+      "time": "2026-09-29T13:34:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Testing WebGPU data layouts with Facet",
+      "url": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
+      "score": 70,
+      "by": "luu",
+      "time": "2026-09-28T20:28:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Floppy Emu Hardware Failure Analysis Results",
+      "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
+      "score": 32,
+      "by": "zdw",
+      "time": "2026-09-29T23:10:26",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 272730,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 272730
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 270023,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 270023
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 240936,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 240936
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 216012,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 216012
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195287,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195287
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 148787,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 148787
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 134567,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 134567
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 122681,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 122681
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 118918,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 118918
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 108540,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 108540
+    }
+  ]
+}

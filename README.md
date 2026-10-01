@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-09-30 15:39:47 UTC)
+# 📰 每日热点汇总 (2026-10-01 16:01:07 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/) | 379 | yarapavan |
-| 2 | [SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/) | 39 | ibobev |
-| 3 | [Show HN: JBR-001 – An open-source 3D printable desktop robot](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96) | 88 | gvuksic |
-| 4 | [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) | 786 | bryan0 |
-| 5 | [I Could've Accessed 17T Microsoft Records](https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records) | 24 | luispa |
-| 6 | [Mathematical Origami](https://mathigon.org/origami) | 54 | signa11 |
-| 7 | [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/) | 188 | laurenth |
-| 8 | [Getting out of the way: my robotics crash course](https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/) | 14 | systemerror |
-| 9 | [Dots: Always-on agents](https://openai.com/index/introducing-dots/) | 700 | alvis |
-| 10 | [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms) | 303 | devonnull |
-| 11 | [America.gov](https://america.gov/) | 702 | plesiv |
-| 12 | [NASA asked several former SR-71A staffers to help secret res...](https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart) | 253 | ilamont |
-| 13 | [U.S. postal inspectors shut down website selling counterfeit...](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) | 255 | ilamont |
-| 14 | [Show HN: Real-time Solar System with 526k asteroids and all ...](https://space.bl2.net/) | 330 | wanick |
-| 15 | [I can't tell who's teaching who anymore](https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore/) | 24 | eustoria |
+| 1 | [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421) | 341 | Snowly |
+| 2 | [How to speed up the Rust compiler in September 2026](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html) | 127 | trickypr |
+| 3 | [OpenID Foundation: Identity Management for Agentic AI [pdf] ...](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf) | 23 | cgeier |
+| 4 | [RacketCon Is Saturday](https://con.racket-lang.org/) | 20 | spdegabrielle |
+| 5 | [Polyedergarten: Garden of Paper Polyhedron Models](https://www.polyedergarten.de/e_index.htm) | 11 | isaacimagine |
+| 6 | [Google breaks promise to provide 10 years of updates to Chro...](https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/) | 274 | speckx |
+| 7 | [GPT-Synopsys: Frontier Intelligence to Revolutionize Chip De...](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design) | 116 | giuliomagnifico |
+| 8 | [Cloudflare K2: serverless event streams](https://blog.cloudflare.com/cloudflare-k2-streams/) | 22 | elffjs |
+| 9 | [OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neura...](https://github.com/maanHimself/OpenDLSS-NR) | 199 | sagacity |
+| 10 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) | 1561 | bradleyg223 |
+| 11 | [Meta Uses A.I. Data Centers to Avoid Billions in Federal Tax...](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html) | 180 | gmays |
+| 12 | [Figma restricts MCP access to whitelisted clients, excluding...](https://twitter.com/GayaniFigma/status/2105295629941350454) | 39 | thdr |
+| 13 | [FTC is investigating OpenAI, Anthropic and other AI companie...](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html) | 113 | dgellow |
+| 14 | [Cops Can Bypass iPhone's Automatic Reboot to Get into Locked...](https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/) | 57 | speckx |
+| 15 | [Red Hat Being Phased Out of Existence (Like Many Other Compa...](https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml) | 18 | amcclure |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 272730 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 270023 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 240936 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 216012 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195287 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 148787 | JavaScript |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 134567 | TypeScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 122681 | Python |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 118918 | None |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 108540 | Go |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 273584 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 270515 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 241594 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 216132 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195276 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 150046 | JavaScript |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 134664 | TypeScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 122983 | Python |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 119103 | None |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 108685 | Go |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-09-30 15:39:43 UTC)
+## 🏢 公司员工追踪 (2026-10-01 16:01:01 UTC)
 
 ### Google
 

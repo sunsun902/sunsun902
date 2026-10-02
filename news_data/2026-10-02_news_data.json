@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-02",
+  "hacker_news": [
+    {
+      "title": "The Legend of von Neumann [pdf]",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "score": 77,
+      "by": "suopspaces",
+      "time": "2026-10-02T13:18:32",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "score": 1560,
+      "by": "sergiotapia",
+      "time": "2026-10-01T19:33:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Shimano Bicycle Museum Review",
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "score": 229,
+      "by": "pietroppeter",
+      "time": "2026-10-02T05:12:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Giving friends custom text buzzes based on Morse code",
+      "url": "https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/",
+      "score": 8,
+      "by": "evakhoury",
+      "time": "2026-10-01T18:56:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Big Tech ruined the cloud, so we're renaming ours",
+      "url": "https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/",
+      "score": 4,
+      "by": "2sf5",
+      "time": "2026-10-02T14:57:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "score": 456,
+      "by": "luispa",
+      "time": "2026-10-01T23:10:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "url": "https://github.com/kvoltmer/Audionaut",
+      "score": 86,
+      "by": "vltmrkls",
+      "time": "2026-10-02T08:05:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "score": 571,
+      "by": "jasondavies",
+      "time": "2026-10-01T16:18:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai/",
+      "score": 400,
+      "by": "supermdguy",
+      "time": "2026-10-01T22:23:38",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "score": 357,
+      "by": "sampsn",
+      "time": "2026-10-01T20:14:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "url": "https://www.deepseek.com/en/harness/",
+      "score": 340,
+      "by": "Kuyawa",
+      "time": "2026-10-02T03:11:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "score": 451,
+      "by": "paulsmith",
+      "time": "2026-10-01T19:24:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "score": 487,
+      "by": "chmaynard",
+      "time": "2026-10-01T16:57:03",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922569",
+      "score": 236,
+      "by": "whoishiring",
+      "time": "2026-10-01T15:02:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Turbo Haskell",
+      "url": "https://comonad.com/reader/2026/turbo-haskell/",
+      "score": 164,
+      "by": "pjmlp",
+      "time": "2026-10-01T13:58:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "score": 601,
+      "by": "Snowly",
+      "time": "2026-10-01T10:59:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "score": 232,
+      "by": "rafaelc",
+      "time": "2026-10-01T20:23:27",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+      "score": 192,
+      "by": "benbreen",
+      "time": "2026-10-01T20:48:37",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RIP, vector database",
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "score": 364,
+      "by": "razin",
+      "time": "2026-10-01T16:01:56",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "score": 263,
+      "by": "nkw",
+      "time": "2026-10-01T15:07:42",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 274461,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 274461
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 270998,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 270998
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 242190,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 242190
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 216525,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 216525
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195244,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195244
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 151292,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 151292
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 134743,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 134743
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 123232,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 123232
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 119241,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 119241
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 108923,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 108923
+    }
+  ]
+}

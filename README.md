@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-10-03 14:09:05 UTC)
+# 📰 每日热点汇总 (2026-10-04 14:38:18 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [The Escalation of War in Ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia) | 51 | mooreds |
-| 2 | [C++ Insights – See your source code with the eyes of a Compi...](https://github.com/andreasfertig/cppinsights) | 30 | rramadass |
-| 3 | [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri) | 84 | tejaskumar__ |
-| 4 | [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) | 317 | azhenley |
-| 5 | [Court agrees with EFF: Utah's VPN law demands a technical im...](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | 691 | hn_acker |
-| 6 | [Apple Pass Designer](https://developer.apple.com/pass-designer/) | 476 | soheilpro |
-| 7 | [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) | 43 | bastitx |
-| 8 | [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) | 536 | CoryOndrejka |
-| 9 | [Great Question (YC W21) Is Hiring Product Engineers in Canad...](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack) | 1 | nedwin |
-| 10 | [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) | 122 | est |
-| 11 | [Show HN: Offrun – manage every coding agent from one workspa...](https://offrun.dev/) | 25 | arunbhatia |
-| 12 | [GitHub's new dashboard experience now the default](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/) | 52 | vanyauhalin |
-| 13 | [A 12-year sequence of telescope images of a star and four pl...](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f) | 326 | mariuz |
-| 14 | [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows) | 112 | pentagrama |
-| 15 | [Loss of cell identity drives human aging: Two new papers](https://erictopol.substack.com/p/loss-of-cell-identity-drives-human) | 293 | bookofjoe |
+| 1 | [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 409...](https://github.com/Niko1221/Strata) | 130 | snehesht |
+| 2 | [Glashütte Trash Clock – A 30-minute pendulum clock made from...](https://niklasroy.com/gtc/) | 45 | r0r0 |
+| 3 | [VGHF Digital Archive passes 5000 magazines. Here's what's ne...](https://gamehistory.org/5k-magazines/) | 59 | rdmuser |
+| 4 | [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) | 603 | paveworld |
+| 5 | [Show HN: AI search for every photo and every frame of video ...](https://github.com/allenv0/SCM) | 37 | allenleee |
+| 6 | [Why don't more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) | 200 | vinhnx |
+| 7 | [The work by Valve's Timur Kristóf on improving old AMD GPUs ...](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) | 361 | speckx |
+| 8 | [gpuvis: GPU Trace Visualizer](https://github.com/mikesart/gpuvis) | 46 | luu |
+| 9 | [Rejection Sensitivity in Gifted and Twice-Exceptional Childr...](https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and) | 56 | actfrench |
+| 10 | [Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory) | 257 | kmeh |
+| 11 | [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) | 251 | CosmoWenman |
+| 12 | [Emitting metadata early makes building/checking Rust up to t...](https://github.com/PowderworksCode/headstart) | 48 | knuckleheads |
+| 13 | [The Heilbronn Problem](https://math.tejstead.com/heilbronn/) | 6 | tejstead |
+| 14 | [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/) | 322 | trwhite |
+| 15 | [So you think you could be an electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician) | 351 | zdw |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 275099 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 271859 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 242723 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 216665 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195232 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 152596 | JavaScript |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 134881 | TypeScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 123451 | Python |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 119343 | None |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 109350 | Go |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 275782 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 272653 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 243247 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 216802 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195220 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 154354 | JavaScript |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 135039 | TypeScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 123702 | Python |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 119496 | None |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 109738 | Go |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-10-03 14:09:01 UTC)
+## 🏢 公司员工追踪 (2026-10-04 14:38:15 UTC)
 
 ### Google
 

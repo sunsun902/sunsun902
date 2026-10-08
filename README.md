@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-10-07 16:06:32 UTC)
+# 📰 每日热点汇总 (2026-10-08 16:09:00 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [GitHub Incident with Git Operations, Pull Requests and Actio...](https://www.githubstatus.com/incidents/djlmxz2zd0j7) | 112 | gagan2020 |
-| 2 | [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome) | 307 | AshleysBrain |
-| 3 | [Why Were Victorian Elites So Effective?](https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/) | 27 | karakoram |
-| 4 | [A font recreated from photographs of classic Commodore 64 ke...](https://github.com/szabadkai/c64-keyboard-font/) | 264 | sohkamyung |
-| 5 | [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso So...](https://www.nobelprize.org/prizes/chemistry/2026/press-release/) | 194 | sasvari |
-| 6 | [Google Playground](https://labs.google/playground) | 79 | trollied |
-| 7 | [Show HN: A walkable 3D art history museum built from Wikiped...](https://artmuseum.artfrompixels.com/) | 69 | jasontr |
-| 8 | [AI-assisted proof of optimal packing for 11 squares](https://github.com/Queuingtheorydotcom/11SquaresFormalized) | 27 | bluepeter |
-| 9 | [Write Like It's 1866: LLMs Relearn Telegraphese](https://fiveminutesforward.com/post/2026-10-04-telegraph-test/) | 53 | Theory42 |
-| 10 | [Animated ASCII Art for Web Pages](https://ascii.rest/) | 17 | turrini |
-| 11 | [Rust's derive often implies inline](https://yossarian.net/til/post/rust-s-derive-often-implies-inline/) | 76 | woodruffw |
-| 12 | [Mallet Head Angle](http://www.timberframe-tools.com/tools/mallet-head-angle/) | 38 | frogulis |
-| 13 | [How many GPUs is 1M/B/T tokens?](https://cedana.com/resources/tokens-to-gpus/) | 13 | kmavm |
-| 14 | [Show HN: Procinsh – A 3D Linux process inspector](https://github.com/akawashiro/procinsh) | 24 | a_kawashiro |
-| 15 | [Across the Globe, People Increasingly Say Social Media Is Ha...](https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/) | 17 | karakoram |
+| 1 | [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus) | 117 | speckx |
+| 2 | [New gTLD Application for .lan](https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary) | 15 | mzajc |
+| 3 | [“Math 2.0” will need to value mathematical progress more hol...](https://mathstodon.xyz/@tao/117395269325940185) | 504 | ent101 |
+| 4 | [The Slow Formation of Durable Software](https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/) | 153 | benbreen |
+| 5 | [Archaeologists Are Reconstructing the 'Invisible' Technologi...](https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/) | 13 | Hooke |
+| 6 | [Telnet BBS Guide](https://www.telnetbbsguide.com/) | 61 | kmstout |
+| 7 | [I gave Opus 5.5 one prompt and six hours to visualize Invisi...](https://quesma.com/blog/invisible-cities-one-shot/) | 210 | stared |
+| 8 | [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) | 985 | sfkgtbor |
+| 9 | [The 15-year search for a band that charted once and vanished](https://shahidhussain.com/writing/search-for-salvage/) | 280 | shahidhussain |
+| 10 | [Time Travel in Braid (2015)](https://qntm.org/braid) | 60 | Ariarule |
+| 11 | [Sub-1-Bit LLM Compression via Latent Factorization](https://github.com/SamsungLabs/LittleBit) | 17 | brainless |
+| 12 | [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html) | 324 | Muhammad523 |
+| 13 | [US Suspends Visa Program for Tech Firms Including Microsoft](https://www.bloomberg.com/news/articles/2026-10-08/us-suspends-visa-program-for-tech-firms-including-microsoft) | 126 | alephnerd |
+| 14 | [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) | 1972 | muglug |
+| 15 | [How did Rosalind Franklin miss the helix in her iconic DNA i...](https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t) | 265 | pavel_lishin |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 279146 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 274700 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 245070 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 217401 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195195 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 157373 | JavaScript |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 135655 | TypeScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 124588 | Python |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 119902 | None |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 110366 | Go |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 280842 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 275338 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 245780 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 217568 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195168 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 158289 | JavaScript |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 135775 | TypeScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 124868 | Python |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 120043 | None |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 110532 | Go |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-10-07 16:06:28 UTC)
+## 🏢 公司员工追踪 (2026-10-08 16:08:57 UTC)
 
 ### Google
 

@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-08",
+  "hacker_news": [
+    {
+      "title": "Beauty in DVD Menus",
+      "url": "https://vale.rocks/posts/dvd-menus",
+      "score": 117,
+      "by": "speckx",
+      "time": "2026-10-08T13:22:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "New gTLD Application for .lan",
+      "url": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
+      "score": 15,
+      "by": "mzajc",
+      "time": "2026-10-08T15:51:51",
+      "source": "Hacker News"
+    },
+    {
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "score": 504,
+      "by": "ent101",
+      "time": "2026-10-08T05:14:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Slow Formation of Durable Software",
+      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+      "score": 153,
+      "by": "benbreen",
+      "time": "2026-10-06T15:54:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+      "score": 13,
+      "by": "Hooke",
+      "time": "2026-10-07T21:25:16",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Telnet BBS Guide",
+      "url": "https://www.telnetbbsguide.com/",
+      "score": 61,
+      "by": "kmstout",
+      "time": "2026-10-08T12:28:35",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "score": 210,
+      "by": "stared",
+      "time": "2026-10-08T12:00:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "score": 985,
+      "by": "sfkgtbor",
+      "time": "2026-10-07T18:01:32",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The 15-year search for a band that charted once and vanished",
+      "url": "https://shahidhussain.com/writing/search-for-salvage/",
+      "score": 280,
+      "by": "shahidhussain",
+      "time": "2026-10-05T00:06:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Time Travel in Braid (2015)",
+      "url": "https://qntm.org/braid",
+      "score": 60,
+      "by": "Ariarule",
+      "time": "2026-10-04T21:42:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+      "url": "https://github.com/SamsungLabs/LittleBit",
+      "score": 17,
+      "by": "brainless",
+      "time": "2026-10-08T13:29:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Living off-grid: Hundred Rabbits",
+      "url": "https://100r.ca/site/home.html",
+      "score": 324,
+      "by": "Muhammad523",
+      "time": "2026-10-05T21:08:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "US Suspends Visa Program for Tech Firms Including Microsoft",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/us-suspends-visa-program-for-tech-firms-including-microsoft",
+      "score": 126,
+      "by": "alephnerd",
+      "time": "2026-10-08T15:15:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "score": 1972,
+      "by": "muglug",
+      "time": "2026-10-07T21:16:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "score": 265,
+      "by": "pavel_lishin",
+      "time": "2026-10-05T19:07:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "score": 323,
+      "by": "theemathas",
+      "time": "2026-10-08T08:08:37",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "score": 720,
+      "by": "joshuawright11",
+      "time": "2026-10-07T18:00:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Float and integer arithmetic follow two different paradigms",
+      "url": "https://blog.pkh.me/p/49-float-and-integer-arithmetic-follow-two-different-paradigms.html",
+      "score": 27,
+      "by": "ibobev",
+      "time": "2026-10-05T14:09:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Orkut.com",
+      "url": "https://orkut.com/",
+      "score": 11,
+      "by": "andreynering",
+      "time": "2026-10-08T14:09:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "2027 Web Platform Feature Ranking",
+      "url": "https://interop-rank.fxdx.dev/",
+      "score": 22,
+      "by": "jaffathecake",
+      "time": "2026-10-08T13:34:22",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 280842,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 280842
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 275338,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 275338
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 245780,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 245780
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 217568,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 217568
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195168,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195168
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 158289,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 158289
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 135775,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 135775
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 124868,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 124868
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 120043,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 120043
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 110532,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 110532
+    }
+  ]
+}

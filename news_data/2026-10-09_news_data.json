@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-09",
+  "hacker_news": [
+    {
+      "title": "Deno Is Joining Cloudflare",
+      "url": "https://deno.com/blog/cloudflare",
+      "score": 493,
+      "by": "ilreb",
+      "time": "2026-10-09T13:03:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Our $445M Series D",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "score": 271,
+      "by": "ahlCVA",
+      "time": "2026-10-09T13:12:47",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "score": 233,
+      "by": "franze",
+      "time": "2026-10-09T11:03:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I'm in a Meeting",
+      "url": "https://iminafleeting.com/",
+      "score": 331,
+      "by": "splintersio",
+      "time": "2026-10-09T09:21:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Imposing Sanctions on the International Criminal Court",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
+      "score": 81,
+      "by": "TechTechTech",
+      "time": "2026-10-09T14:55:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "score": 254,
+      "by": "Anon84",
+      "time": "2026-10-09T10:12:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+      "url": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
+      "score": 167,
+      "by": "poly2it",
+      "time": "2026-10-09T14:31:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "score": 939,
+      "by": "jonotime",
+      "time": "2026-10-08T00:14:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
+      "url": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
+      "score": 21,
+      "by": "ohjeez",
+      "time": "2026-10-09T15:05:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
+      "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
+      "score": 115,
+      "by": "ortusdux",
+      "time": "2026-10-09T14:20:19",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "score": 843,
+      "by": "gmays",
+      "time": "2026-10-08T16:59:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Once: Cache CLI Commands",
+      "url": "https://github.com/alex0ptr/once",
+      "score": 51,
+      "by": "baquero",
+      "time": "2026-10-09T09:43:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "score": 835,
+      "by": "ck2",
+      "time": "2026-10-07T16:56:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Python 3.15.0",
+      "url": "https://www.python.org/downloads/release/python-3150/",
+      "score": 59,
+      "by": "ngoldbaum",
+      "time": "2026-10-09T14:35:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MXC - a sandboxed code execution system",
+      "url": "https://github.com/microsoft/mxc",
+      "score": 109,
+      "by": "nreece",
+      "time": "2026-10-09T05:51:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Yes, and",
+      "url": "https://htmx.org/essays/yes-and/",
+      "score": 605,
+      "by": "Michelangelo11",
+      "time": "2026-10-08T09:48:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "score": 783,
+      "by": "soheilpro",
+      "time": "2026-10-07T01:41:03",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Keyboard differences between Windows and Macs",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "score": 240,
+      "by": "sohkamyung",
+      "time": "2026-10-09T03:08:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+      "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+      "score": 116,
+      "by": "cainxinth",
+      "time": "2026-10-09T12:21:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Theranos.world",
+      "url": "https://www.theranos.world/",
+      "score": 506,
+      "by": "kbyatnal",
+      "time": "2026-10-08T17:51:49",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 282234,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 282234
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 275758,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 275758
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 246251,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 246251
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 217673,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 217673
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194986,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194986
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 159313,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 159313
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 135712,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 135712
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 124938,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 124938
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 120011,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 120011
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 110715,
+      "language": "Go",
+      "source": "GitHub Trending",
+      "score": 110715
+    }
+  ]
+}

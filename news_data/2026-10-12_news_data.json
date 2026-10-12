@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-12",
+  "hacker_news": [
+    {
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "score": 228,
+      "by": "ilreb",
+      "time": "2026-10-12T16:11:45",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "score": 152,
+      "by": "prophittcorey",
+      "time": "2026-10-12T16:13:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "score": 40,
+      "by": "vishnukool",
+      "time": "2026-10-12T16:46:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "score": 78,
+      "by": "gumby",
+      "time": "2026-10-12T17:14:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "score": 143,
+      "by": "scrlk",
+      "time": "2026-10-12T12:09:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Muse Wonder",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "score": 250,
+      "by": "meetpateltech",
+      "time": "2026-10-12T16:48:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "score": 105,
+      "by": "djfergus",
+      "time": "2026-10-12T12:41:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "score": 166,
+      "by": "gregsadetsky",
+      "time": "2026-10-10T19:28:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hackers activate automatic defrosting accross European supermarket fridges",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "score": 124,
+      "by": "Zeekaas",
+      "time": "2026-10-12T12:16:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "score": 50,
+      "by": "surprisetalk",
+      "time": "2026-10-12T15:16:45",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Thinking will become a hobby",
+      "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+      "score": 67,
+      "by": "pranitha_m",
+      "time": "2026-10-12T16:54:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Secret of Orange Cats Revealed After 60-Year Search",
+      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "score": 167,
+      "by": "bookofjoe",
+      "time": "2026-10-10T22:10:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "score": 649,
+      "by": "royfish",
+      "time": "2026-10-11T22:33:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "url": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
+      "score": 94,
+      "by": "cataflam",
+      "time": "2026-10-12T15:08:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Just say no to OpenAI and Anthropic",
+      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+      "score": 41,
+      "by": "DeepLogin",
+      "time": "2026-10-12T18:17:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "score": 211,
+      "by": "deadxwarrior",
+      "time": "2026-10-12T06:46:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "score": 211,
+      "by": "lukaslalinsky",
+      "time": "2026-10-12T05:02:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "score": 633,
+      "by": "albertzeyer",
+      "time": "2026-10-11T20:20:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "score": 638,
+      "by": "jttnr",
+      "time": "2026-10-11T18:04:47",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "score": 116,
+      "by": "soeckly",
+      "time": "2026-10-12T07:28:53",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 287658,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 287658
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 277742,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 277742
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 248163,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 248163
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 219185,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 219185
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194965,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194965
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 161747,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 161747
+    },
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 146354,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 146354
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 136125,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 136125
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 125818,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 125818
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 120535,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 120535
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-10-11 15:20:49 UTC)
+# 📰 每日热点汇总 (2026-10-12 18:38:05 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [Internal files add to evidence of an ExxonMobil climate dece...](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/) | 114 | gumby |
-| 2 | [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/) | 172 | edent |
-| 3 | [LineageOS 24.0](https://lineageos.org/Changelog-32/) | 256 | timschumi |
-| 4 | [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing) | 45 | verdagon |
-| 5 | [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/) | 72 | arusekk |
-| 6 | [Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net) | 258 | ForHackernews |
-| 7 | [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf) | 82 | Anon84 |
-| 8 | [Plumbers, chains, and famous painters: The history of the pi...](http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/) | 23 | sinnsro |
-| 9 | [IRCv3](https://ircv3.net/) | 188 | basilikum |
-| 10 | [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) | 553 | Michelangelo11 |
-| 11 | [Rolling the Root Key](https://blog.apnic.net/2026/10/09/rolling-the-root-key-2/) | 6 | speckx |
-| 12 | [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os) | 1 | adchurch |
-| 13 | [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) | 397 | softwaredoug |
-| 14 | [The RAM shortage is bringing back DDR4](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback) | 127 | 1potato |
-| 15 | [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/) | 17 | kartik017 |
+| 1 | [GLM-Legal](https://z.ai/blog/glm-legal) | 228 | ilreb |
+| 2 | [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) | 152 | prophittcorey |
+| 3 | [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for r...](https://news.ycombinator.com/item?id=50059096) | 40 | vishnukool |
+| 4 | [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/) | 78 | gumby |
+| 5 | [Citroen revives the 2CV for an electric age](https://www.bbc.com/news/articles/c620r33plgppo) | 143 | scrlk |
+| 6 | [Muse Wonder](https://research.meta.ai/blog/muse-wonder) | 250 | meetpateltech |
+| 7 | [Turn a WiFi 7 Router into a 320Msps Software Defined Radio R...](https://github.com/h0m3us3r/w1700k-sdr) | 105 | djfergus |
+| 8 | [The Making Of Super Mario 64 – full Giles Goddard interview ...](https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/) | 166 | gregsadetsky |
+| 9 | [Hackers activate automatic defrosting accross European super...](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) | 124 | Zeekaas |
+| 10 | [Kevin Kelly's 2016 AI Predictions, 10 Years Later](https://taylor.town/kk-ai-2026) | 50 | surprisetalk |
+| 11 | [Thinking will become a hobby](https://www.spinellis.gr/blog/20261008/?li261008) | 67 | pranitha_m |
+| 12 | [Secret of Orange Cats Revealed After 60-Year Search](https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search) | 167 | bookofjoe |
+| 13 | [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies) | 649 | royfish |
+| 14 | [Fridges in French supermarkets hit by cyber attack](https://www.bbc.com/news/articles/crq5nzxv9q4yo) | 94 | cataflam |
+| 15 | [Just say no to OpenAI and Anthropic](https://micahflee.com/just-say-no-to-openai-and-anthropic/) | 41 | DeepLogin |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 285667 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 276925 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 247380 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 218732 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194976 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 160893 | JavaScript |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 135934 | TypeScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 125455 | Python |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 120252 | None |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do t... | 110999 | Go |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 287658 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 277742 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 248163 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 219185 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194965 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 161747 | JavaScript |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 146354 | TypeScript |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 136125 | TypeScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 125818 | Python |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 120535 | None |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-10-11 15:20:47 UTC)
+## 🏢 公司员工追踪 (2026-10-12 18:38:01 UTC)
 
 ### Google
 

@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-13",
+  "hacker_news": [
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 200,
+      "by": "737max",
+      "time": "2026-10-13T16:03:16",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "score": 382,
+      "by": "etothet",
+      "time": "2026-10-13T13:02:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "score": 83,
+      "by": "mjorgers",
+      "time": "2026-10-13T15:07:37",
+      "source": "Hacker News"
+    },
+    {
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "score": 500,
+      "by": "formerly_proven",
+      "time": "2026-10-13T10:27:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "url": "https://eg2.haku.sh/",
+      "score": 288,
+      "by": "amrrs",
+      "time": "2026-10-13T11:27:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "score": 160,
+      "by": "acossta",
+      "time": "2026-10-13T12:26:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "score": 53,
+      "by": "sammy0910",
+      "time": "2026-10-13T15:25:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "New Apple TV 4K",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "score": 120,
+      "by": "corvad",
+      "time": "2026-10-13T13:21:35",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+      "url": "https://news.ycombinator.com/item?id=50073471",
+      "score": 12,
+      "by": "ericmags",
+      "time": "2026-10-13T15:41:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Worlds More Habitable Than Earth? They're Out There",
+      "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+      "score": 20,
+      "by": "cainxinth",
+      "time": "2026-10-13T12:23:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "score": 129,
+      "by": "janpmz",
+      "time": "2026-10-13T10:08:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "BB(10) > Graham's Number",
+      "url": "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md",
+      "score": 48,
+      "by": "surprisetalk",
+      "time": "2026-10-13T12:40:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hittite royal archive found in Turkey",
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "score": 262,
+      "by": "benbreen",
+      "time": "2026-10-13T06:02:51",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Visual Intro to Complex Numbers",
+      "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+      "score": 68,
+      "by": "surprisetalk",
+      "time": "2026-10-13T12:00:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "score": 567,
+      "by": "layer8",
+      "time": "2026-10-12T21:40:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How to engineer an AI harness for game development",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "score": 14,
+      "by": "kkukshtel",
+      "time": "2026-10-13T14:14:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "score": 154,
+      "by": "nryoo",
+      "time": "2026-10-13T07:28:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "score": 362,
+      "by": "helsinkiandrew",
+      "time": "2026-10-13T10:08:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "score": 648,
+      "by": "ilreb",
+      "time": "2026-10-12T16:11:45",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The baffling intelligence of a single cell (2024)",
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "score": 372,
+      "by": "jsomers",
+      "time": "2026-10-11T11:02:30",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 289193,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 289193
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 278391,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 278391
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 248874,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 248874
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 219426,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 219426
+    },
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 197278,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 197278
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194910,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194910
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 162491,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 162491
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 136274,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 136274
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 126107,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 126107
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 120899,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 120899
+    }
+  ]
+}

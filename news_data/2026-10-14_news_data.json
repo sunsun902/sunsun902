@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-14",
+  "hacker_news": [
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "score": 356,
+      "by": "otobrglez",
+      "time": "2026-10-14T08:27:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "score": 80,
+      "by": "jascha_eng",
+      "time": "2026-10-14T11:47:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RIP Eric Binnion",
+      "url": "https://ma.tt/2026/10/rip-eric/",
+      "score": 40,
+      "by": "speckx",
+      "time": "2026-10-14T12:58:32",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+      "score": 46,
+      "by": "mpweiher",
+      "time": "2026-10-14T10:26:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Amazon pushes up prices across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "score": 264,
+      "by": "sighborg",
+      "time": "2026-10-14T09:28:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "url": "https://ciechanow.ski/sound/",
+      "score": 192,
+      "by": "dverlaeckt80",
+      "time": "2026-10-11T16:46:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Aaronson Oracle",
+      "url": "https://aaronsonoracle.com/",
+      "score": 25,
+      "by": "routeroff",
+      "time": "2026-10-14T12:16:35",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "score": 500,
+      "by": "talccc",
+      "time": "2026-10-13T19:11:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+      "url": "https://museumofages.org/w/vinci",
+      "score": 45,
+      "by": "micstradev",
+      "time": "2026-10-14T10:00:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Origin Story of Kid Pix",
+      "url": "http://red-green-blue.com/kid-pix-the-early-years",
+      "score": 64,
+      "by": "MBCook",
+      "time": "2026-10-12T23:52:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "score": 56,
+      "by": "tobr",
+      "time": "2026-10-14T10:28:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
+      "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
+      "score": 7,
+      "by": "ripe",
+      "time": "2026-10-12T12:44:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "score": 213,
+      "by": "mdp2021",
+      "time": "2026-10-12T09:05:02",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+      "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+      "score": 39,
+      "by": "marcbpaul",
+      "time": "2026-10-13T13:31:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 1367,
+      "by": "737max",
+      "time": "2026-10-13T16:03:16",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "url": "https://github.com/android/ndk/issues/2260",
+      "score": 386,
+      "by": "tharen",
+      "time": "2026-10-14T06:18:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "score": 369,
+      "by": "karakoram",
+      "time": "2026-10-13T15:12:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Recreational Programming",
+      "url": "https://www.cphiri.dev/presentations/recreational-programming",
+      "score": 250,
+      "by": "jslakro",
+      "time": "2026-10-13T22:33:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "score": 243,
+      "by": "rglover",
+      "time": "2026-10-14T04:42:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Switzerland proposes banning profiling-based ads to minors",
+      "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
+      "score": 170,
+      "by": "wuemeli",
+      "time": "2026-10-14T13:20:02",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 290686,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 290686
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 279017,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 279017
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 249510,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 249510
+    },
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 230177,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 230177
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 219677,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 219677
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194890,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194890
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 163278,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 163278
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 136377,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 136377
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 126379,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 126379
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 121268,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 121268
+    }
+  ]
+}

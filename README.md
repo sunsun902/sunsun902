@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-10-14 14:21:17 UTC)
+# 📰 每日热点汇总 (2026-10-15 13:58:50 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [Iosevka is an open-source, sans-serif and slab-serif, monosp...](https://typeof.net/Iosevka/) | 356 | otobrglez |
-| 2 | [Pg_vectorsearch: An index that is faster than pgvector's IVF...](https://github.com/timescale/pg_vectorsearch) | 80 | jascha_eng |
-| 3 | [RIP Eric Binnion](https://ma.tt/2026/10/rip-eric/) | 40 | speckx |
-| 4 | [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/) | 46 | mpweiher |
-| 5 | [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/) | 264 | sighborg |
-| 6 | [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/) | 192 | dverlaeckt80 |
-| 7 | [The Aaronson Oracle](https://aaronsonoracle.com/) | 25 | routeroff |
-| 8 | [Show HN: Guitoro, a virtual guitar you strum with your keybo...](https://guitoro.com/) | 500 | talccc |
-| 9 | [Show HN: A guided 3D Leonardo da Vinci museum, built in code](https://museumofages.org/w/vinci) | 45 | micstradev |
-| 10 | [The Origin Story of Kid Pix](http://red-green-blue.com/kid-pix-the-early-years) | 64 | MBCook |
-| 11 | [TV4 postpones show after AI agent erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage) | 56 | tobr |
-| 12 | [The Gold-Bug: Edgar Allan Poe's story that taught me about c...](https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html) | 7 | ripe |
-| 13 | [900-Page Pre-Pantone Guide to Color from 1692 (With Complete...](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html) | 213 | mdp2021 |
-| 14 | [Same Job, Two Engines: InnoDB and Iceberg Internals](https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/) | 39 | marcbpaul |
-| 15 | [Gemini 4 Argon](https://deepmind.google/models/gemini/) | 1367 | 737max |
+| 1 | [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebo...](https://libreboot.org/news/libreboot2610.html) | 70 | iamnothere |
+| 2 | [Israeli firm's digital ads enabling installation of 'zero-cl...](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say) | 132 | chunkyslink |
+| 3 | [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) | 1651 | jjmaxwell4 |
+| 4 | [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/) | 86 | otherwatersflow |
+| 5 | [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/) | 217 | 0xdeafbeef |
+| 6 | [C++26 Contracts: Introduction to Preconditions and Postcondi...](https://www.cppstories.com/2026/cpp26_contracts/) | 8 | ibobev |
+| 7 | [The Haunted Toys R Us](https://www.retroist.com/p/the-haunted-toys-r-us) | 18 | speckx |
+| 8 | [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) | 738 | gmays |
+| 9 | [The First Social Network: In rural Argentina residents send ...](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network) | 77 | bookofjoe |
+| 10 | [Tiny Little Office](https://tinylittleoffice.com/) | 539 | donohoe |
+| 11 | [GridSnap – an open-source Divvy-style window snapper for mac...](https://github.com/konieczkow/gridsnap) | 4 | zderror |
+| 12 | [Show HN: Indigene – Native plants for where you stand](https://indigene.app/) | 71 | olivierlacan |
+| 13 | [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists) | 821 | doitLP |
+| 14 | [Catch a Bird – I made it for my own sanity](https://catchabird.com) | 280 | eduardsik |
+| 15 | [Americans' social activity has steeply declined in the past ...](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years) | 477 | hubraumhugo |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 290686 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 279017 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 249510 | TypeScript |
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 230177 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 219677 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194890 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 163278 | JavaScript |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 136377 | TypeScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 126379 | Python |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 121268 | None |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 292247 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 279954 | JavaScript |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 260696 | TypeScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 250241 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 219983 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194913 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 164097 | JavaScript |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 136496 | TypeScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 126744 | Python |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 121506 | None |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-10-14 14:21:13 UTC)
+## 🏢 公司员工追踪 (2026-10-15 13:58:46 UTC)
 
 ### Google
 

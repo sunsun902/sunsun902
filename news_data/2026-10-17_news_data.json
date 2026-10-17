@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-17",
+  "hacker_news": [
+    {
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "score": 274,
+      "by": "theanonymousone",
+      "time": "2026-10-17T08:37:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ultramarine 1 Flash",
+      "url": "https://www.paperinstruments.com/ultramarine",
+      "score": 277,
+      "by": "i_rush_carriers",
+      "time": "2026-10-15T17:06:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "score": 1477,
+      "by": "shekhar101",
+      "time": "2026-10-16T01:32:45",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "score": 116,
+      "by": "albinstman",
+      "time": "2026-10-17T04:36:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 235,
+      "by": "theykk",
+      "time": "2026-10-17T08:21:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Intuitive concurrent programming in any language",
+      "url": "https://www.lf-lang.org/",
+      "score": 66,
+      "by": "mpweiher",
+      "time": "2026-10-15T13:18:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "score": 307,
+      "by": "Anon84",
+      "time": "2026-10-16T18:32:35",
+      "source": "Hacker News"
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "score": 335,
+      "by": "speckx",
+      "time": "2026-10-16T19:01:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
+      "url": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
+      "score": 19,
+      "by": "javahippie",
+      "time": "2026-10-15T15:06:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "score": 910,
+      "by": "ahlCVA",
+      "time": "2026-10-16T18:55:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "score": 177,
+      "by": "gmays",
+      "time": "2026-10-16T19:47:13",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 328,
+      "by": "antipaul",
+      "time": "2026-10-16T13:43:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "score": 233,
+      "by": "7402",
+      "time": "2026-10-16T18:06:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "score": 276,
+      "by": "farlight",
+      "time": "2026-10-16T16:12:02",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "score": 151,
+      "by": "pretext",
+      "time": "2026-10-16T18:00:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "0/1 Knapsack Problem in PyTorch",
+      "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+      "score": 27,
+      "by": "yu3zhou4",
+      "time": "2026-10-14T15:04:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I built the RealWorld app in Lean 4",
+      "url": "https://leangineer.com/blog/realworld-in-lean/",
+      "score": 69,
+      "by": "saviorand",
+      "time": "2026-10-14T15:03:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Monte-Carlo Simulations",
+      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "score": 133,
+      "by": "ibobev",
+      "time": "2026-10-13T18:11:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nine-Inch Snails",
+      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "score": 81,
+      "by": "zdw",
+      "time": "2026-10-16T22:21:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Butlerian Jihad",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "score": 272,
+      "by": "wetwater",
+      "time": "2026-10-17T02:21:08",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 299600,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 299600
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 294554,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 294554
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 281960,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 281960
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 251679,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 251679
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 220489,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 220489
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194932,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194932
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 165536,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 165536
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 136730,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 136730
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 127477,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 127477
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 121862,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 121862
+    }
+  ]
+}

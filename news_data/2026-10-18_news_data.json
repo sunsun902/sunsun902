@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-18",
+  "hacker_news": [
+    {
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "score": 295,
+      "by": "fagnerbrack",
+      "time": "2026-10-18T06:50:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "score": 31,
+      "by": "DeepLogin",
+      "time": "2026-10-18T10:21:51",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "score": 19,
+      "by": "_Microft",
+      "time": "2026-10-18T11:16:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Parser Combinators",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "score": 67,
+      "by": "schindlabua",
+      "time": "2026-10-18T08:19:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "score": 192,
+      "by": "MaysonL",
+      "time": "2026-10-18T03:19:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "score": 168,
+      "by": "critiquebrowser",
+      "time": "2026-10-18T04:33:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "score": 483,
+      "by": "alkyon",
+      "time": "2026-10-16T23:38:27",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Teal – A statically-typed dialect of Lua",
+      "url": "https://teal-language.org/",
+      "score": 62,
+      "by": "Lyngbakr",
+      "time": "2026-10-16T21:07:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Regex visualized as 3D marble run",
+      "url": "https://www.regexmarblerun.com/",
+      "score": 25,
+      "by": "seizethecheese",
+      "time": "2026-10-16T18:48:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lean now ships with verified kernels",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "score": 159,
+      "by": "matt_d",
+      "time": "2026-10-16T06:16:13",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 893,
+      "by": "theykk",
+      "time": "2026-10-17T08:21:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "score": 298,
+      "by": "sohkamyung",
+      "time": "2026-10-16T23:47:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "score": 476,
+      "by": "dchest",
+      "time": "2026-10-17T15:55:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
+      "score": 363,
+      "by": "plaguna",
+      "time": "2026-10-15T08:48:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+      "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
+      "score": 45,
+      "by": "jacquesm",
+      "time": "2026-10-15T20:55:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Making chicken transparent using Dorito dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "score": 319,
+      "by": "crescit_eundo",
+      "time": "2026-10-17T13:55:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Interactive Linear Programming in the Browser",
+      "url": "https://lpviz.net/",
+      "score": 51,
+      "by": "klamike",
+      "time": "2026-10-17T12:06:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lorenz and Little: How Much Does Your Tail Cost?",
+      "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
+      "score": 6,
+      "by": "porridgeraisin",
+      "time": "2026-10-15T02:39:37",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "score": 203,
+      "by": "antirez",
+      "time": "2026-10-15T07:18:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fun Extending the C Preprocessor",
+      "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
+      "score": 34,
+      "by": "david2ndaccount",
+      "time": "2026-10-15T17:08:26",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 315712,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 315712
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 295688,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 295688
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 282970,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 282970
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 252770,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 252770
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 220835,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 220835
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194915,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194915
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 166638,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 166638
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 136813,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 136813
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 128065,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 128065
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 122009,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 122009
+    }
+  ]
+}

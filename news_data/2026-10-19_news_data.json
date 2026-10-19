@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-19",
+  "hacker_news": [
+    {
+      "title": "Wine Ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "score": 200,
+      "by": "iamnothere",
+      "time": "2026-10-19T13:35:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Timestral: Mistral release time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
+      "score": 317,
+      "by": "groar",
+      "time": "2026-10-19T09:59:32",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Linux 7.3",
+      "url": "https://lwn.net/Articles/1101143/",
+      "score": 490,
+      "by": "cjd8",
+      "time": "2026-10-19T07:23:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Alternatives to Animal Testing Are Finally Taking Off",
+      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "score": 149,
+      "by": "rbanffy",
+      "time": "2026-10-19T11:10:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+      "url": "https://news.ycombinator.com/item?id=50154029",
+      "score": 6,
+      "by": "skull8888888",
+      "time": "2026-10-19T16:00:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "score": 148,
+      "by": "gslin",
+      "time": "2026-10-19T10:53:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "It's still OK to enjoy programming",
+      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+      "score": 51,
+      "by": "goostavos",
+      "time": "2026-10-17T19:53:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+      "url": "https://github.com/kividbio/kividb",
+      "score": 34,
+      "by": "murtazayusuf",
+      "time": "2026-10-19T13:53:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
+      "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf",
+      "score": 15,
+      "by": "tosh",
+      "time": "2026-10-19T15:10:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+      "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+      "score": 49,
+      "by": "rbanffy",
+      "time": "2026-10-19T11:12:02",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Another day another GitHub incident",
+      "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+      "score": 13,
+      "by": "gateauxd",
+      "time": "2026-10-19T15:52:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z",
+      "score": 24,
+      "by": "Hooke",
+      "time": "2026-10-17T15:02:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gdynia and the Dream of a Maritime Poland",
+      "url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
+      "score": 80,
+      "by": "lermontov",
+      "time": "2026-10-16T21:13:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "score": 479,
+      "by": "allinonai",
+      "time": "2026-10-18T20:48:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "url": "https://100toolkit.com/blog/deslop-model/",
+      "score": 100,
+      "by": "erikkannike",
+      "time": "2026-10-19T13:00:47",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Beyond the Glass",
+      "url": "https://longreads.com/2026/10/15/mother-museum-skulls-grief-agni/",
+      "score": 14,
+      "by": "Petiver",
+      "time": "2026-10-16T06:17:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "score": 489,
+      "by": "mdp2021",
+      "time": "2026-10-17T23:26:35",
+      "source": "Hacker News"
+    },
+    {
+      "title": "William Gibson and the trademarking of cyberspace",
+      "url": "https://colo.to/cyberspace.html",
+      "score": 244,
+      "by": "Eric_Gullichsen",
+      "time": "2026-10-18T23:37:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "score": 267,
+      "by": "amrrs",
+      "time": "2026-10-18T21:09:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How to Train Your Robot",
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "score": 115,
+      "by": "crescit_eundo",
+      "time": "2026-10-15T15:13:21",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 333313,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 333313
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 297145,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 297145
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 283822,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 283822
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 254304,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 254304
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 221155,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 221155
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194903,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194903
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 167751,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 167751
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 136916,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 136916
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 128914,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 128914
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 122272,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 122272
+    }
+  ]
+}

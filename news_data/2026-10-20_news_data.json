@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-20",
+  "hacker_news": [
+    {
+      "title": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "score": 1127,
+      "by": "ggcr",
+      "time": "2026-10-20T09:08:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple broke an essential presentation feature of iPads",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "score": 95,
+      "by": "evanb",
+      "time": "2026-10-20T12:17:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "NixOS is making me less afraid",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "score": 49,
+      "by": "ibobev",
+      "time": "2026-10-20T12:43:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "score": 30,
+      "by": "robtherobber",
+      "time": "2026-10-20T13:06:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "score": 215,
+      "by": "theanonymousone",
+      "time": "2026-10-20T06:37:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nordwand Mono – A monospace font for coders and adventurers",
+      "url": "https://github.com/tywr/Nordwand-Mono",
+      "score": 413,
+      "by": "noriax86",
+      "time": "2026-10-18T14:48:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
+      "score": 392,
+      "by": "privong",
+      "time": "2026-10-20T02:06:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "score": 614,
+      "by": "ds",
+      "time": "2026-10-19T23:22:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "score": 415,
+      "by": "cmrdporcupine",
+      "time": "2026-10-19T16:16:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+      "score": 1,
+      "by": "augustschen",
+      "time": "2026-10-20T12:00:32",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Making a 88x31 button book using ImageMagick",
+      "url": "https://k.sosnierz.me/08-11-24/",
+      "score": 95,
+      "by": "birdculture",
+      "time": "2026-10-17T15:55:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Capturing 400 American Girls and Their Most Meaningful Objects",
+      "url": "https://petapixel.com/2026/10/17/photographer-spends-six-years-capturing-400-american-girls-and-their-most-meaningful-objects/",
+      "score": 5,
+      "by": "eustoria",
+      "time": "2026-10-17T14:21:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Google cloud outage takes down banks",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "score": 153,
+      "by": "paweladamczuk",
+      "time": "2026-10-20T10:26:02",
+      "source": "Hacker News"
+    },
+    {
+      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+      "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+      "score": 38,
+      "by": "NaOH",
+      "time": "2026-10-19T00:43:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Restoration of Retinal Regenerative Potential (2025)",
+      "url": "https://www.nature.com/articles/s41467-025-58290-8",
+      "score": 92,
+      "by": "Kaibeezy",
+      "time": "2026-10-18T11:32:38",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "score": 497,
+      "by": "jtg",
+      "time": "2026-10-19T16:39:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "There Are over 1M New York City Street Signs. Here's How They Are Made.",
+      "url": "https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html",
+      "score": 27,
+      "by": "bookofjoe",
+      "time": "2026-10-16T16:42:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An ad-free Android TV",
+      "url": "https://cretezy.com/2026/ad-free-android-tv",
+      "score": 311,
+      "by": "CraftThatBlock",
+      "time": "2026-10-19T22:32:37",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Weball: Play Katamari on Websites",
+      "url": "https://www.funwithcomputervision.com/weball/",
+      "score": 268,
+      "by": "croes",
+      "time": "2026-10-18T12:39:56",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "score": 598,
+      "by": "iamnothere",
+      "time": "2026-10-19T13:35:34",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 344088,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 344088
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 298221,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 298221
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 284527,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 284527
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 255564,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 255564
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 221405,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 221405
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194898,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194898
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 168892,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 168892
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 137035,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 137035
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 129680,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 129680
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 122453,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 122453
+    }
+  ]
+}

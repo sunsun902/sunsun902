@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-10-20 14:07:51 UTC)
+# 📰 每日热点汇总 (2026-10-21 14:21:17 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) | 1127 | ggcr |
-| 2 | [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/) | 95 | evanb |
-| 3 | [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid) | 49 | ibobev |
-| 4 | [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web) | 30 | robtherobber |
-| 5 | [MicroG: Free-libre re-implementation of Google's proprietary...](https://github.com/microg/GmsCore/wiki) | 215 | theanonymousone |
-| 6 | [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) | 413 | noriax86 |
-| 7 | [OpenBSD 8.0](https://www.openbsd.org/80.html) | 392 | privong |
-| 8 | [WhatsApp's help pages hid LLM instructions: dont recommend a...](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | 614 | ds |
-| 9 | [DeepSeek banned from U.S. federal civilian agencies under ne...](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/) | 415 | cmrdporcupine |
-| 10 | [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci) | 1 | augustschen |
-| 11 | [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/) | 95 | birdculture |
-| 12 | [Capturing 400 American Girls and Their Most Meaningful Objec...](https://petapixel.com/2026/10/17/photographer-spends-six-years-capturing-400-american-girls-and-their-most-meaningful-objects/) | 5 | eustoria |
-| 13 | [Google cloud outage takes down banks](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/) | 153 | paweladamczuk |
-| 14 | ['Der Viener Schlinger': The meat cannon that launched 20k ho...](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/) | 38 | NaOH |
-| 15 | [Restoration of Retinal Regenerative Potential (2025)](https://www.nature.com/articles/s41467-025-58290-8) | 92 | Kaibeezy |
+| 1 | [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35) | 201 | tuyuri |
+| 2 | [PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out](https://www.php.net/index.php) | 161 | timvdalen |
+| 3 | [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce) | 53 | danlark1 |
+| 4 | [Eight Bits of Trust; eMudhra's CA keys cracked in millisecon...](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) | 453 | hkc |
+| 5 | [Qwen3-Coder writes less secure code when told it's for a US ...](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities) | 134 | mattifrank |
+| 6 | [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/) | 42 | rohanm93 |
+| 7 | [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/) | 31 | l2dy |
+| 8 | [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes) | 104 | sohkamyung |
+| 9 | [OpenAI: Patch the Planet. Global response coordination as AI...](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/) | 28 | nr378 |
+| 10 | [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) | 490 | soheilpro |
+| 11 | [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers) | 1 | ukd1 |
+| 12 | [Upcoming critical PHP security release (CVE-2026-109618 / -1...](https://news-web.php.net/php.announce/509) | 1366 | xd |
+| 13 | [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303) | 93 | frizlab |
+| 14 | [Patch the Planet](https://patchtheplanet.org/) | 5 | mdrzn |
+| 15 | [Dutch National Cyber Security Center is Offline because it u...](https://www.ncsc.nl/actueel) | 190 | jacquesm |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 344088 | TypeScript |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 298221 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 284527 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 255564 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 221405 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194898 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 168892 | JavaScript |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 137035 | TypeScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 129680 | Python |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 122453 | None |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 354429 | TypeScript |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 299412 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 285285 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 256689 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 221737 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195072 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 170863 | JavaScript |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 137158 | TypeScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 131062 | Python |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 122671 | None |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-10-20 14:07:47 UTC)
+## 🏢 公司员工追踪 (2026-10-21 14:21:13 UTC)
 
 ### Google
 

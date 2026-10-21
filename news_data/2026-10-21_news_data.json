@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-21",
+  "hacker_news": [
+    {
+      "title": "Updated PHP version released to GitHub",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "score": 201,
+      "by": "tuyuri",
+      "time": "2026-10-21T13:45:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+      "url": "https://www.php.net/index.php",
+      "score": 161,
+      "by": "timvdalen",
+      "time": "2026-10-21T13:50:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "score": 53,
+      "by": "danlark1",
+      "time": "2026-10-21T13:43:19",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "score": 453,
+      "by": "hkc",
+      "time": "2026-10-21T09:08:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+      "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+      "score": 134,
+      "by": "mattifrank",
+      "time": "2026-10-21T12:22:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Most advice is right for the person giving it",
+      "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+      "score": 42,
+      "by": "rohanm93",
+      "time": "2026-10-21T13:17:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "url": "https://layerfs.ai/",
+      "score": 31,
+      "by": "l2dy",
+      "time": "2026-10-21T12:34:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Whatever Happened to Fire Escapes",
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "score": 104,
+      "by": "sohkamyung",
+      "time": "2026-10-21T10:14:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "score": 28,
+      "by": "nr378",
+      "time": "2026-10-21T14:03:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "score": 490,
+      "by": "soheilpro",
+      "time": "2026-10-21T01:47:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "url": "https://9mothers.com/careers",
+      "score": 1,
+      "by": "ukd1",
+      "time": "2026-10-21T12:00:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "url": "https://news-web.php.net/php.announce/509",
+      "score": 1366,
+      "by": "xd",
+      "time": "2026-10-20T20:15:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+      "url": "https://www.pagetable.com/303",
+      "score": 93,
+      "by": "frizlab",
+      "time": "2026-10-19T09:21:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Patch the Planet",
+      "url": "https://patchtheplanet.org/",
+      "score": 5,
+      "by": "mdrzn",
+      "time": "2026-10-21T14:08:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "url": "https://www.ncsc.nl/actueel",
+      "score": 190,
+      "by": "jacquesm",
+      "time": "2026-10-21T12:31:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "score": 861,
+      "by": "pcai",
+      "time": "2026-10-20T18:29:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "score": 265,
+      "by": "gumby",
+      "time": "2026-10-21T00:45:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "eMudhra intermediate CA compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "score": 1104,
+      "by": "galadran",
+      "time": "2026-10-20T13:58:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Lucrative World of Literary Scams",
+      "url": "https://www.thedial.world/articles/news/ai-book-scams",
+      "score": 28,
+      "by": "samclemens",
+      "time": "2026-10-19T11:43:35",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Decoherence Trap",
+      "url": "https://maevyn.codes/decoherence",
+      "score": 100,
+      "by": "cassianoleal",
+      "time": "2026-10-19T08:35:44",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 354429,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 354429
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 299412,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 299412
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 285285,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 285285
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 256689,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 256689
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 221737,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 221737
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195072,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195072
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 170863,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 170863
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 137158,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 137158
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 131062,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 131062
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 122671,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 122671
+    }
+  ]
+}

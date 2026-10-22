@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-22",
+  "hacker_news": [
+    {
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "score": 75,
+      "by": "bo0tzz",
+      "time": "2026-10-22T13:33:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "score": 316,
+      "by": "keks24",
+      "time": "2026-10-22T08:51:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Crystal 1.22.0 Is Released",
+      "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+      "score": 26,
+      "by": "ksec",
+      "time": "2026-10-22T13:20:13",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What Is Gridifcation",
+      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+      "score": 132,
+      "by": "gumby",
+      "time": "2026-10-19T09:13:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "score": 325,
+      "by": "ledoge",
+      "time": "2026-10-22T08:01:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business;",
+      "url": "https://news.ycombinator.com/item?id=50194909",
+      "score": 90,
+      "by": "parimm",
+      "time": "2026-10-22T13:17:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "score": 134,
+      "by": "oidar",
+      "time": "2026-10-22T13:11:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "score": 120,
+      "by": "molind",
+      "time": "2026-10-22T09:31:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "score": 363,
+      "by": "alphax314",
+      "time": "2026-10-22T02:18:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What's Getting Pwned",
+      "url": "https://pwn.watch/",
+      "score": 3,
+      "by": "mrkd",
+      "time": "2026-10-22T14:08:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "score": 59,
+      "by": "wffurr",
+      "time": "2026-10-19T20:12:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+      "score": 117,
+      "by": "cubefox",
+      "time": "2026-10-22T11:50:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The painter behind Manhattan’s Gilded Age interiors",
+      "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+      "score": 19,
+      "by": "hoffmannesque",
+      "time": "2026-10-20T23:09:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "score": 143,
+      "by": "mrkn1",
+      "time": "2026-10-22T11:12:37",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "score": 257,
+      "by": "craigcitro",
+      "time": "2026-10-22T02:30:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "score": 530,
+      "by": "passenger",
+      "time": "2026-10-21T21:58:03",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SBD: We Have a Filesystem at Home",
+      "url": "https://fly.io/blog/sprites-block-device/",
+      "score": 4,
+      "by": "torutofu",
+      "time": "2026-10-22T13:09:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+      "url": "https://lastmuseum.com/",
+      "score": 8,
+      "by": "surprisetalk",
+      "time": "2026-10-22T12:40:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "score": 470,
+      "by": "kuberwastaken",
+      "time": "2026-10-21T19:14:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "No more icons in every menu by default",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "score": 397,
+      "by": "riffraff",
+      "time": "2026-10-20T04:27:08",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 363195,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 363195
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 300544,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 300544
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 286175,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 286175
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 257888,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 257888
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 222304,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 222304
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195071,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195071
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 172793,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 172793
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 137267,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 137267
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 132445,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 132445
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 122881,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 122881
+    }
+  ]
+}

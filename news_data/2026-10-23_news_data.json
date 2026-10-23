@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-23",
+  "hacker_news": [
+    {
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "score": 80,
+      "by": "hubraumhugo",
+      "time": "2026-10-23T13:41:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenSSL 4.1.0",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "score": 53,
+      "by": "petecooper",
+      "time": "2026-10-23T12:42:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "score": 700,
+      "by": "sohkamyung",
+      "time": "2026-10-22T23:01:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "url": "https://keepandroidopen.org/?",
+      "score": 148,
+      "by": "NackerHughes",
+      "time": "2026-10-23T13:19:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Shitter – A Nitter Fork",
+      "url": "https://codeberg.org/shitter/shitter",
+      "score": 41,
+      "by": "eustoria",
+      "time": "2026-10-23T13:02:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+      "score": 92,
+      "by": "robtherobber",
+      "time": "2026-10-23T08:21:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Swedish government offices to ban ChatGPT and Claude",
+      "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "score": 174,
+      "by": "armcat",
+      "time": "2026-10-23T11:39:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "score": 628,
+      "by": "psxuaw",
+      "time": "2026-10-22T23:45:56",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Remove pgrust: the entry is cheating",
+      "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+      "score": 106,
+      "by": "f311a",
+      "time": "2026-10-23T08:05:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "No Need for Retirement When Utopia Is Around the Corner",
+      "url": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+      "score": 55,
+      "by": "speckx",
+      "time": "2026-10-23T10:58:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+      "score": 193,
+      "by": "teekert",
+      "time": "2026-10-23T10:41:32",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "score": 255,
+      "by": "xiaoyu2006",
+      "time": "2026-10-23T00:52:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "url": "https://arxiv.org/abs/2603.01092",
+      "score": 129,
+      "by": "martincsweiss",
+      "time": "2026-10-22T13:25:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Is this the new cyber normal?",
+      "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+      "score": 105,
+      "by": "drewsberry",
+      "time": "2026-10-23T11:04:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Job Loss and Cortisone Mania",
+      "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+      "score": 53,
+      "by": "speckx",
+      "time": "2026-10-23T10:31:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How does Fable 5.1 hide messages in images?",
+      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "score": 147,
+      "by": "gmays",
+      "time": "2026-10-22T21:41:13",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "score": 519,
+      "by": "rakannimer",
+      "time": "2026-10-22T16:08:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "url": "https://github.com/dsmurrell/onkey",
+      "score": 97,
+      "by": "dsmurrell",
+      "time": "2026-10-22T14:04:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "score": 442,
+      "by": "niemandhier",
+      "time": "2026-10-22T17:44:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The HTML-in-Canvas API origin trial",
+      "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+      "score": 85,
+      "by": "andrewstuart",
+      "time": "2026-10-22T19:54:04",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 370755,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 370755
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 301495,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 301495
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 287002,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 287002
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 259151,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 259151
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 222774,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 222774
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195078,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195078
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 174440,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 174440
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 137362,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 137362
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 133607,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 133607
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 123097,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 123097
+    }
+  ]
+}

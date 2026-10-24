@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-24",
+  "hacker_news": [
+    {
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "score": 118,
+      "by": "rramadass",
+      "time": "2026-10-24T09:53:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "score": 224,
+      "by": "pentagrama",
+      "time": "2026-10-24T04:49:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "score": 957,
+      "by": "Jowsey",
+      "time": "2026-10-23T16:59:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Physicists trap a single antimatter particle for a month",
+      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "score": 109,
+      "by": "mooreds",
+      "time": "2026-10-21T19:40:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "score": 237,
+      "by": "privacyishuman",
+      "time": "2026-10-24T01:15:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Appreciating the beauty of all your body's scars and scratches",
+      "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+      "score": 18,
+      "by": "surprisetalk",
+      "time": "2026-10-21T14:00:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "score": 938,
+      "by": "pavel_lishin",
+      "time": "2026-10-23T16:21:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "score": 248,
+      "by": "otoolep",
+      "time": "2026-10-24T01:16:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "score": 59,
+      "by": "theanonymousone",
+      "time": "2026-10-24T08:06:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How to run a city builder on 16 MHz",
+      "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+      "score": 40,
+      "by": "rex64",
+      "time": "2026-10-22T12:40:56",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "score": 153,
+      "by": "stmonty",
+      "time": "2026-10-24T03:43:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "score": 810,
+      "by": "frizlab",
+      "time": "2026-10-23T12:28:47",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "score": 1420,
+      "by": "sohkamyung",
+      "time": "2026-10-22T23:01:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "score": 41,
+      "by": "TangerineDream",
+      "time": "2026-10-24T11:18:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bringing uv and ty together",
+      "url": "https://astral.sh/blog/uv-ty-integration",
+      "score": 192,
+      "by": "Ravencentric",
+      "time": "2026-10-20T21:30:56",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+      "score": 11,
+      "by": "t20n",
+      "time": "2026-10-24T10:51:35",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "score": 129,
+      "by": "westsmith",
+      "time": "2026-10-20T19:22:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dessa: Conversation Model trained only on speech",
+      "url": "https://block.xyz/dessa",
+      "score": 416,
+      "by": "dsr12",
+      "time": "2026-10-23T19:09:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple Security Research Device",
+      "url": "https://security.apple.com/research-device/",
+      "score": 94,
+      "by": "neom",
+      "time": "2026-10-24T02:36:38",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tiling Noise – Procedural GPU Patterns",
+      "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+      "score": 4,
+      "by": "ibobev",
+      "time": "2026-10-21T13:04:07",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 376002,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 376002
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 302193,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 302193
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 287695,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 287695
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 260101,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 260101
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 223164,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 223164
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195071,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195071
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 175216,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 175216
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 137454,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 137454
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 134162,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 134162
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 123270,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 123270
+    }
+  ]
+}

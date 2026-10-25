@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-10-24 13:07:33 UTC)
+# 📰 每日热点汇总 (2026-10-25 13:34:35 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html) | 118 | rramadass |
-| 2 | [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0) | 224 | pentagrama |
-| 3 | [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) | 957 | Jowsey |
-| 4 | [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/) | 109 | mooreds |
-| 5 | [Around a dozen banking apps began specifically permitting Gr...](https://grapheneos.social/@GrapheneOS/117492375462459244) | 237 | privacyishuman |
-| 6 | [Appreciating the beauty of all your body's scars and scratch...](https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/) | 18 | surprisetalk |
-| 7 | [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) | 938 | pavel_lishin |
-| 8 | [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/) | 248 | otoolep |
-| 9 | [Node2Shell evolves to HTTP2Shell, blast radius affects many ...](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497) | 59 | theanonymousone |
-| 10 | [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/) | 40 | rex64 |
-| 11 | [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c) | 153 | stmonty |
-| 12 | [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) | 810 | frizlab |
-| 13 | [Local Wikipedia: Wikipedia, but only for things a half hour ...](https://edjefferson.com/localwiki/) | 1420 | sohkamyung |
-| 14 | [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article ...](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/) | 41 | TangerineDream |
-| 15 | [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration) | 192 | Ravencentric |
+| 1 | [Meta Ignores Brazilian Court Order to End Bolsonaro Favoriti...](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order) | 378 | vrganj |
+| 2 | [fheroes2: A recreation of Heroes of Might and Magic II game ...](https://github.com/ihhub/fheroes2) | 65 | tosh |
+| 3 | [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/) | 10 | edwardog |
+| 4 | [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | 521 | ltratt |
+| 5 | [Samsung running a TensorFlow lite model on 960x540 image to ...](https://twitter.com/mike64_t/status/2114150399406202896) | 124 | mashally |
+| 6 | [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) | 226 | gmays |
+| 7 | [Challenge Is Gone](https://blog.alxgsv.com/challenge-is-gone/) | 3 | alxgsv |
+| 8 | [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made) | 88 | bookofjoe |
+| 9 | [The Goose Programming Language](https://aardappel.github.io/goose/) | 463 | bobbydigitales |
+| 10 | [XPS 16 Creator Edition Laptop](https://www.dell.com/en-us/shop/laptop-computers/spd/xps16dx16263) | 17 | mudil |
+| 11 | [Rewriting a Commercial Engine in Jai](https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch) | 49 | frading |
+| 12 | [Nikon photography contest winner loses title after scientist...](https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html) | 39 | thunderbong |
+| 13 | [SpeedCrunch 1.1](https://www.speedcrunch.org/) | 177 | LordNibbler |
+| 14 | [Reverse engineer of PC-98 Touhou games retires](https://rec98.nmlgc.net/blog/2026-10-05) | 22 | mimasama |
+| 15 | [Small Programs and Languages](https://ratfactor.com/cards/pl-small) | 134 | andsoitis |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 376002 | TypeScript |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 302193 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 287695 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 260101 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 223164 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195071 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 175216 | JavaScript |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 137454 | TypeScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 134162 | Python |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 123270 | None |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 381947 | TypeScript |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 302902 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 288457 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 261131 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 223571 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 195061 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 175864 | JavaScript |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 137626 | TypeScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 134775 | Python |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 123423 | None |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-10-24 13:07:27 UTC)
+## 🏢 公司员工追踪 (2026-10-25 13:34:31 UTC)
 
 ### Google
 

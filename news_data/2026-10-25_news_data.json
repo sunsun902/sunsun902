@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-25",
+  "hacker_news": [
+    {
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "score": 378,
+      "by": "vrganj",
+      "time": "2026-10-25T09:00:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2",
+      "score": 65,
+      "by": "tosh",
+      "time": "2026-10-25T11:09:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tool book of a Nuremberg knight from 1505",
+      "url": "https://loeffelholz-codex.org/en/",
+      "score": 10,
+      "by": "edwardog",
+      "time": "2026-10-25T12:37:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 521,
+      "by": "ltratt",
+      "time": "2026-10-24T21:47:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "score": 124,
+      "by": "mashally",
+      "time": "2026-10-25T10:42:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "score": 226,
+      "by": "gmays",
+      "time": "2026-10-25T01:33:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Challenge Is Gone",
+      "url": "https://blog.alxgsv.com/challenge-is-gone/",
+      "score": 3,
+      "by": "alxgsv",
+      "time": "2026-10-25T12:43:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How Japanese Dried Bonito Is Made",
+      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "score": 88,
+      "by": "bookofjoe",
+      "time": "2026-10-22T11:31:03",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "score": 463,
+      "by": "bobbydigitales",
+      "time": "2026-10-24T19:06:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "XPS 16 Creator Edition Laptop",
+      "url": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps16dx16263",
+      "score": 17,
+      "by": "mudil",
+      "time": "2026-10-20T17:42:13",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rewriting a Commercial Engine in Jai",
+      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "score": 49,
+      "by": "frading",
+      "time": "2026-10-22T12:50:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "score": 39,
+      "by": "thunderbong",
+      "time": "2026-10-25T09:51:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "score": 177,
+      "by": "LordNibbler",
+      "time": "2026-10-24T19:19:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Reverse engineer of PC-98 Touhou games retires",
+      "url": "https://rec98.nmlgc.net/blog/2026-10-05",
+      "score": 22,
+      "by": "mimasama",
+      "time": "2026-10-22T16:16:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "score": 134,
+      "by": "andsoitis",
+      "time": "2026-10-24T21:44:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Lego group reveals collaboration with Daft Punk",
+      "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+      "score": 8,
+      "by": "pieterr",
+      "time": "2026-10-25T12:48:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "score": 1616,
+      "by": "sohkamyung",
+      "time": "2026-10-22T23:01:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "score": 343,
+      "by": "theanonymousone",
+      "time": "2026-10-24T08:06:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 404,
+      "by": "gnabgib",
+      "time": "2026-10-24T23:11:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "score": 98,
+      "by": "andsoitis",
+      "time": "2026-10-24T23:33:19",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 381947,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 381947
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 302902,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 302902
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 288457,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 288457
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 261131,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 261131
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 223571,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 223571
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 195061,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 195061
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 175864,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 175864
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 137626,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 137626
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 134775,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 134775
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 123423,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 123423
+    }
+  ]
+}

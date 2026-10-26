@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-26",
+  "hacker_news": [
+    {
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "score": 16,
+      "by": "sgiannopoulos",
+      "time": "2026-10-26T15:11:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "score": 90,
+      "by": "coffeemug",
+      "time": "2026-10-26T12:59:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pharo 14",
+      "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "score": 84,
+      "by": "xkriva11",
+      "time": "2026-10-26T11:15:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "One of the Greatest Inventions in the History of Human Transport",
+      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+      "score": 127,
+      "by": "skadamat",
+      "time": "2026-10-22T19:52:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "score": 319,
+      "by": "cisc",
+      "time": "2026-10-23T22:04:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Partyline: A group voice application for Reticulum, built on LXST",
+      "url": "https://github.com/RFnexus/partyline",
+      "score": 17,
+      "by": "iamnothere",
+      "time": "2026-10-26T14:42:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
+      "score": 361,
+      "by": "theanonymousone",
+      "time": "2026-10-26T08:46:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "'It's offensively cheap': Solar power is quietly becoming bigger than nuclear",
+      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "score": 35,
+      "by": "geox",
+      "time": "2026-10-26T15:26:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "score": 8,
+      "by": "zdw",
+      "time": "2026-10-25T22:29:47",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Colorfigures",
+      "url": "https://april-zhu.com/colorfigures",
+      "score": 65,
+      "by": "the-mitr",
+      "time": "2026-10-23T14:22:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "score": 24,
+      "by": "doctorzook",
+      "time": "2026-10-26T15:35:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "score": 335,
+      "by": "davidbarker",
+      "time": "2026-10-26T03:23:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "PhysicsForums and the Dead Internet Theory (2025)",
+      "url": "https://hallofdreams.org/posts/physicsforums/",
+      "score": 33,
+      "by": "bmacho",
+      "time": "2026-10-24T11:40:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "score": 735,
+      "by": "SiNTEx",
+      "time": "2026-10-26T13:04:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "score": 211,
+      "by": "Austin_Conlon",
+      "time": "2026-10-26T03:31:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "score": 629,
+      "by": "jumploops",
+      "time": "2026-10-25T18:23:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "score": 159,
+      "by": "bagatelle",
+      "time": "2026-10-26T10:32:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "score": 202,
+      "by": "vardhan1237",
+      "time": "2026-10-26T03:29:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OLED iPad Mini",
+      "url": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+      "score": 121,
+      "by": "etothet",
+      "time": "2026-10-26T13:47:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Brown student maps the hidden global labor powering AI",
+      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+      "score": 65,
+      "by": "cdrnsf",
+      "time": "2026-10-26T12:58:27",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 389709,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 389709
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 303835,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 303835
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 289446,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 289446
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 262381,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 262381
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 224304,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 224304
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194985,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194985
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 176829,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 176829
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 137792,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 137792
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 135884,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 135884
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 123665,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 123665
+    }
+  ]
+}

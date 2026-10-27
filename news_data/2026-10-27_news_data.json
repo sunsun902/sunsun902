@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-27",
+  "hacker_news": [
+    {
+      "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+      "score": 77,
+      "by": "acossta",
+      "time": "2026-10-27T13:52:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "score": 193,
+      "by": "f311a",
+      "time": "2026-10-27T11:17:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI promised less work. I've never worked more",
+      "url": "https://oioannou.com/blog/ai-promised-less-work/",
+      "score": 369,
+      "by": "oorestisime",
+      "time": "2026-10-27T11:08:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "score": 177,
+      "by": "rbanffy",
+      "time": "2026-10-27T11:08:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "score": 47,
+      "by": "adrq",
+      "time": "2026-10-27T13:23:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Software may be getting worse, but it used to be horrible",
+      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+      "score": 185,
+      "by": "jakevoytko",
+      "time": "2026-10-27T11:30:35",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "score": 1042,
+      "by": "jonluca",
+      "time": "2026-10-26T21:35:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "score": 82,
+      "by": "helterskelter2",
+      "time": "2026-10-27T14:06:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "New iMac with M6",
+      "url": "https://www.apple.com/imac/",
+      "score": 82,
+      "by": "notfried",
+      "time": "2026-10-27T13:02:02",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Giving chat feedback gives Anthropic your data",
+      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "score": 60,
+      "by": "jonpizza",
+      "time": "2026-10-27T13:56:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "score": 312,
+      "by": "ilreb",
+      "time": "2026-10-27T06:25:37",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+      "score": 15,
+      "by": "rbanffy",
+      "time": "2026-10-26T15:05:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gforth 1.0",
+      "url": "https://gforth.org/manual/1.0/NEWS.html",
+      "score": 85,
+      "by": "joshcsimmons",
+      "time": "2026-10-27T10:23:21",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Viral Polls Are Not Representative Polls",
+      "url": "https://kevinreuning.com/blog/polling_virality.html",
+      "score": 3,
+      "by": "m-hodges",
+      "time": "2026-10-27T14:49:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "score": 721,
+      "by": "vok",
+      "time": "2026-10-26T21:59:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+      "score": 366,
+      "by": "choult",
+      "time": "2026-10-27T10:27:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Stackless Floodfill Automaton",
+      "url": "https://t3x.org/files/floodfill.pdf",
+      "score": 7,
+      "by": "andsoitis",
+      "time": "2026-10-25T20:18:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "score": 785,
+      "by": "sgiannopoulos",
+      "time": "2026-10-26T15:11:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Alleged Israeli spy company targeted Starlink users",
+      "url": "https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/",
+      "score": 54,
+      "by": "mmaia",
+      "time": "2026-10-27T13:33:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "188-Year-Old Mystery of Photography's First Human Subjects Solved",
+      "url": "https://news.artnet.com/art-world/daguerre-photograph-subjects-location-2826596",
+      "score": 25,
+      "by": "bookofjoe",
+      "time": "2026-10-24T12:50:42",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 395549,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 395549
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 304637,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 304637
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 290487,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 290487
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 263462,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 263462
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 225269,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 225269
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194974,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194974
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 177825,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 177825
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 137897,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 137897
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 136702,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 136702
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 123947,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 123947
+    }
+  ]
+}

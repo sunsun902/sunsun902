@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-10-26 15:52:47 UTC)
+# 📰 每日热点汇总 (2026-10-27 15:08:39 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [Sebastian Raschka's from-scratch video course on building re...](https://magazine.sebastianraschka.com/p/building-reasoning-models) | 16 | sgiannopoulos |
-| 2 | [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm) | 90 | coffeemug |
-| 3 | [Pharo 14](https://pharo.org/news/2026-10-26-Pharo14Release.html) | 84 | xkriva11 |
-| 4 | [One of the Greatest Inventions in the History of Human Trans...](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html) | 127 | skadamat |
-| 5 | [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline) | 319 | cisc |
-| 6 | [Partyline: A group voice application for Reticulum, built on...](https://github.com/RFnexus/partyline) | 17 | iamnothere |
-| 7 | [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/) | 361 | theanonymousone |
-| 8 | ['It's offensively cheap': Solar power is quietly becoming bi...](https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear) | 35 | geox |
-| 9 | [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/) | 8 | zdw |
-| 10 | [Colorfigures](https://april-zhu.com/colorfigures) | 65 | the-mitr |
-| 11 | [Microsoft offers mass buyouts for roughly a quarter of its w...](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/) | 24 | doctorzook |
-| 12 | [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) | 335 | davidbarker |
-| 13 | [PhysicsForums and the Dead Internet Theory (2025)](https://hallofdreams.org/posts/physicsforums/) | 33 | bmacho |
-| 14 | [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) | 735 | SiNTEx |
-| 15 | [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry) | 211 | Austin_Conlon |
+| 1 | [PHP2Shell: Exploitation Attempts and Remediation Trends](https://www.wiz.io/blog/php2shell-exploitation-so-far) | 77 | acossta |
+| 2 | [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/) | 193 | f311a |
+| 3 | [AI promised less work. I've never worked more](https://oioannou.com/blog/ai-promised-less-work/) | 369 | oorestisime |
+| 4 | [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup) | 177 | rbanffy |
+| 5 | [Here Be Monsters: What Do You Still Need to Know When Agents...](https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work) | 47 | adrq |
+| 6 | [Software may be getting worse, but it used to be horrible](https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/) | 185 | jakevoytko |
+| 7 | [Three new discoveries in mathematics, computer science, and ...](https://openai.com/index/building-scientific-understanding-with-academic-communities/) | 1042 | jonluca |
+| 8 | [The US Government Is Hiding Secret Court Ruling About How It...](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/) | 82 | helterskelter2 |
+| 9 | [New iMac with M6](https://www.apple.com/imac/) | 82 | notfried |
+| 10 | [Giving chat feedback gives Anthropic your data](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training) | 60 | jonpizza |
+| 11 | [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai) | 312 | ilreb |
+| 12 | [Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Do...](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram) | 15 | rbanffy |
+| 13 | [Gforth 1.0](https://gforth.org/manual/1.0/NEWS.html) | 85 | joshcsimmons |
+| 14 | [Viral Polls Are Not Representative Polls](https://kevinreuning.com/blog/polling_virality.html) | 3 | m-hodges |
+| 15 | [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) | 721 | vok |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 389709 | TypeScript |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 303835 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 289446 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 262381 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 224304 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194985 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 176829 | JavaScript |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 137792 | TypeScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 135884 | Python |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 123665 | None |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 395549 | TypeScript |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 304637 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 290487 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 263462 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 225269 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194974 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 177825 | JavaScript |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 137897 | TypeScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 136702 | Python |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 123947 | None |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-10-26 15:52:44 UTC)
+## 🏢 公司员工追踪 (2026-10-27 15:08:35 UTC)
 
 ### Google
 

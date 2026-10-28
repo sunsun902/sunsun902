@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-28",
+  "hacker_news": [
+    {
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "score": 587,
+      "by": "galadran",
+      "time": "2026-10-28T11:03:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "score": 88,
+      "by": "bschne",
+      "time": "2026-10-28T14:38:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Start Doing Graph Theory",
+      "url": "https://vertex.degree/",
+      "score": 321,
+      "by": "ibobev",
+      "time": "2026-10-23T13:49:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "score": 157,
+      "by": "danso",
+      "time": "2026-10-28T13:41:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "score": 680,
+      "by": "zzzeek",
+      "time": "2026-10-28T12:49:45",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "score": 165,
+      "by": "seddona",
+      "time": "2026-10-26T13:13:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An architectural comparison of Obsidian Canvas and Heptabase",
+      "url": "https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase",
+      "score": 22,
+      "by": "ezrasu",
+      "time": "2026-10-28T14:24:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Emacs Turns 50",
+      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "score": 133,
+      "by": "internet_points",
+      "time": "2026-10-28T13:25:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Git for the US Code",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "score": 371,
+      "by": "alansaber",
+      "time": "2026-10-28T01:47:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "score": 1206,
+      "by": "deaux",
+      "time": "2026-10-27T16:51:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gaussian Splats part 3: There's always a bigger scene",
+      "url": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
+      "score": 15,
+      "by": "ibobev",
+      "time": "2026-10-23T14:07:21",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "score": 984,
+      "by": "acossta",
+      "time": "2026-10-27T16:06:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "score": 327,
+      "by": "_Microft",
+      "time": "2026-10-25T18:49:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+      "score": 136,
+      "by": "noptd",
+      "time": "2026-10-28T11:54:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "score": 450,
+      "by": "Luc",
+      "time": "2026-10-27T19:55:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AlpineBSD",
+      "url": "https://wiki.alpinebsd.org",
+      "score": 24,
+      "by": "bradley_taunt",
+      "time": "2026-10-28T14:30:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+      "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
+      "score": 129,
+      "by": "healeycodes",
+      "time": "2026-10-24T18:17:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "score": 335,
+      "by": "figmert",
+      "time": "2026-10-27T19:55:21",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "score": 282,
+      "by": "dataking",
+      "time": "2026-10-27T20:50:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "26,400 live credentials found scanning 7.25M repos on China's Gitee",
+      "url": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
+      "score": 6,
+      "by": "kernelrocks",
+      "time": "2026-10-28T15:31:59",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 400957,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 400957
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 305475,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 305475
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 291482,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 291482
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 264591,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 264591
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 225820,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 225820
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194974,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194974
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 178847,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 178847
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 138038,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 138038
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 137508,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 137508
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 124214,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 124214
+    }
+  ]
+}

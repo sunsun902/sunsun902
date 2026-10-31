@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-31",
+  "hacker_news": [
+    {
+      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+      "url": "https://piefed.world/post/1503394",
+      "score": 125,
+      "by": "DeepLogin",
+      "time": "2026-10-31T10:23:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "url": "https://nullprogram.com/blog/2026/10/31/",
+      "score": 70,
+      "by": "fovc",
+      "time": "2026-10-31T11:54:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "score": 135,
+      "by": "armcat",
+      "time": "2026-10-31T10:30:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Switch Lowering in GCC",
+      "url": "https://xoranth.net/gcc-switch/",
+      "score": 119,
+      "by": "signa11",
+      "time": "2026-10-31T08:02:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Simple circuits can create complex behaviors",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "score": 46,
+      "by": "aatish",
+      "time": "2026-10-27T16:01:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "score": 511,
+      "by": "input_sh",
+      "time": "2026-10-31T10:21:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Digital minimalism",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "score": 144,
+      "by": "wilbertliu",
+      "time": "2026-10-31T06:16:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "url": "https://zebra.rodeo/en/blog/marelleo/",
+      "score": 126,
+      "by": "foOg",
+      "time": "2026-10-27T15:24:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "score": 106,
+      "by": "datascientist",
+      "time": "2026-10-29T15:29:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hunting 'Zombie Accounts' in Active Directory",
+      "url": "https://www.fabian.fyi/2026/10/zombie-hunt.html",
+      "score": 7,
+      "by": "optimiz",
+      "time": "2026-10-29T21:56:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "score": 521,
+      "by": "domhudson",
+      "time": "2026-10-30T12:50:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "score": 342,
+      "by": "DHowett",
+      "time": "2026-10-30T17:25:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "url": "https://github.com/chris124567/cfsolve",
+      "score": 264,
+      "by": "costco",
+      "time": "2026-10-28T17:29:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Retired professor arrested for blocking delivery robot. Will do it again",
+      "url": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
+      "score": 18,
+      "by": "dxs",
+      "time": "2026-10-31T13:39:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "score": 460,
+      "by": "js4ever",
+      "time": "2026-10-30T15:10:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Breaking the open web won't stop the bad bots",
+      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+      "score": 293,
+      "by": "raybb",
+      "time": "2026-10-27T18:42:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?",
+      "url": "https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account",
+      "score": 43,
+      "by": "ck2",
+      "time": "2026-10-31T12:57:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "score": 284,
+      "by": "x______________",
+      "time": "2026-10-31T02:46:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "score": 336,
+      "by": "nanna",
+      "time": "2026-10-30T15:48:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "score": 178,
+      "by": "dxs",
+      "time": "2026-10-30T19:51:33",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 414403,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 414403
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 308006,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 308006
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 293773,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 293773
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 267220,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 267220
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 227266,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 227266
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194995,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194995
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 181314,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 181314
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 139835,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 139835
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 138430,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 138430
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 124801,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 124801
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-01",
+  "hacker_news": [
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "score": 1678,
+      "by": "karpathy",
+      "time": "2026-10-31T19:56:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Novellas with Groff",
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "score": 29,
+      "by": "dverlaeckt80",
+      "time": "2026-11-01T13:51:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "score": 38,
+      "by": "Anon84",
+      "time": "2026-11-01T13:24:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "score": 64,
+      "by": "entryleveljobsc",
+      "time": "2026-11-01T14:34:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "url": "https://kevs3d.co.uk/phoria2/",
+      "score": 20,
+      "by": "kevs3d",
+      "time": "2026-10-31T09:49:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "score": 598,
+      "by": "ecares",
+      "time": "2026-10-31T22:41:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bidirectional Charging During Grid Outages",
+      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "score": 6,
+      "by": "luu",
+      "time": "2026-10-31T20:21:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "score": 36,
+      "by": "croes",
+      "time": "2026-10-31T10:14:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "score": 43,
+      "by": "entryleveljobsc",
+      "time": "2026-11-01T14:36:13",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "score": 216,
+      "by": "doodlesdev",
+      "time": "2026-11-01T02:19:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "score": 338,
+      "by": "guregodevo",
+      "time": "2026-10-31T22:46:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Radiation Map of the World",
+      "url": "https://radiaverse.com/",
+      "score": 47,
+      "by": "slater",
+      "time": "2026-10-28T20:06:27",
+      "source": "Hacker News"
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "score": 586,
+      "by": "oger",
+      "time": "2026-10-31T19:16:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
+      "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "score": 37,
+      "by": "bookofjoe",
+      "time": "2026-10-31T13:41:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+      "score": 34,
+      "by": "n_plus_1_acc",
+      "time": "2026-11-01T10:44:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "url": "https://outcrop.rocks/",
+      "score": 69,
+      "by": "headsupernova",
+      "time": "2026-10-29T15:22:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "score": 49,
+      "by": "entryleveljobsc",
+      "time": "2026-11-01T13:47:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "score": 138,
+      "by": "hapax_legomena",
+      "time": "2026-11-01T01:46:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Restrooms along the Norwegian Scenic Routes",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "score": 593,
+      "by": "giuliomagnifico",
+      "time": "2026-11-01T10:47:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Understanding Email Encryption",
+      "url": "https://www.fastmail.com/blog/email-encryption/",
+      "score": 69,
+      "by": "nmjenkins",
+      "time": "2026-10-30T20:55:56",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 417670,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 417670
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 308997,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 308997
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 294537,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 294537
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 268139,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 268139
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 227841,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 227841
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194992,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194992
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 181928,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 181928
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 140371,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 140371
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 138551,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 138551
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 125037,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 125037
+    }
+  ]
+}

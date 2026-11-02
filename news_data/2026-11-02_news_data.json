@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-02",
+  "hacker_news": [
+    {
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://subvocal.company/",
+      "score": 242,
+      "by": "aarushyadav",
+      "time": "2026-11-02T17:16:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "score": 157,
+      "by": "dbreunig",
+      "time": "2026-11-02T18:21:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "score": 64,
+      "by": "wuweiweiwu",
+      "time": "2026-11-02T17:05:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "score": 113,
+      "by": "xoobdev",
+      "time": "2026-11-02T16:34:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Agentic Backdoors via Pretraining Poisoning",
+      "url": "https://arxiv.org/abs/2610.37741",
+      "score": 19,
+      "by": "gmays",
+      "time": "2026-11-02T18:30:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "score": 110,
+      "by": "stared",
+      "time": "2026-11-02T16:25:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50338728",
+      "score": 110,
+      "by": "whoishiring",
+      "time": "2026-11-02T16:01:37",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Let Me Ch...",
+      "url": "https://blog.alxgsv.com/let-me-check/",
+      "score": 66,
+      "by": "alxgsv",
+      "time": "2026-11-02T17:33:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "score": 207,
+      "by": "ingve",
+      "time": "2026-11-02T13:25:35",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)",
+      "url": "https://bitmovin.com/careers/8660599002/",
+      "score": 1,
+      "by": "slederer",
+      "time": "2026-11-02T17:00:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "score": 7,
+      "by": "smilelamp",
+      "time": "2026-11-02T18:54:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "score": 910,
+      "by": "chalmovsky",
+      "time": "2026-11-02T14:52:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SOML – A Config Format for Humans",
+      "url": "https://github.com/soml-lang/soml",
+      "score": 8,
+      "by": "microflash",
+      "time": "2026-11-02T18:42:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We halved DNS build delay and cut memory use by 85%",
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "score": 80,
+      "by": "wondersky",
+      "time": "2026-11-02T14:47:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "score": 154,
+      "by": "entryleveljobsc",
+      "time": "2026-11-02T16:40:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "score": 16,
+      "by": "ibobev",
+      "time": "2026-11-02T18:12:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My Favourite Laptop",
+      "url": "https://blog.jsbarretto.com/post/laptop",
+      "score": 76,
+      "by": "ibobev",
+      "time": "2026-11-02T16:59:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+      "url": "https://longcat.ai/blog/longcat-2.5/",
+      "score": 53,
+      "by": "pretext",
+      "time": "2026-11-02T15:00:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Byesky: Wipe your Bluesky account clean",
+      "url": "https://byesky.pirhoo.com",
+      "score": 13,
+      "by": "pirhoo",
+      "time": "2026-11-02T17:46:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "score": 789,
+      "by": "soheilpro",
+      "time": "2026-10-31T01:38:56",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 422241,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 422241
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 310036,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 310036
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 295483,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 295483
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 269456,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 269456
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 228470,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 228470
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194974,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194974
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 182753,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 182753
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 141045,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 141045
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 138665,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 138665
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 125242,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 125242
+    }
+  ]
+}

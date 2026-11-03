@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-11-02 19:12:58 UTC)
+# 📰 每日热点汇总 (2026-11-03 16:50:44 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [Show HN: Subvocal – Talk to your computer without making noi...](https://subvocal.company/) | 242 | aarushyadav |
-| 2 | [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) | 157 | dbreunig |
-| 3 | [Launch HN: Momentic (YC W24) – Agents that catch bugs by usi...](https://momentic.ai/) | 64 | wuweiweiwu |
-| 4 | [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names) | 113 | xoobdev |
-| 5 | [Agentic Backdoors via Pretraining Poisoning](https://arxiv.org/abs/2610.37741) | 19 | gmays |
-| 6 | [Show HN: Warsaw in voxels – an interactive 3D map of the cit...](https://p.migdal.pl/warsaw-vibe-voxel/) | 110 | stared |
-| 7 | [Ask HN: Who is hiring? (November 2026)](https://news.ycombinator.com/item?id=50338728) | 110 | whoishiring |
-| 8 | [Let Me Ch...](https://blog.alxgsv.com/let-me-check/) | 66 | alxgsv |
-| 9 | [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/) | 207 | ingve |
-| 10 | [Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (E...](https://bitmovin.com/careers/8660599002/) | 1 | slederer |
-| 11 | [Egoless Mathematics in the AI Era](https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/) | 7 | smilelamp |
-| 12 | [WTF Ubuntu?](https://chalmovsky.com/posts/wtf-ubuntu) | 910 | chalmovsky |
-| 13 | [SOML – A Config Format for Humans](https://github.com/soml-lang/soml) | 8 | microflash |
-| 14 | [We halved DNS build delay and cut memory use by 85%](https://blog.cloudflare.com/dns-targeted-zone-builds/) | 80 | wondersky |
-| 15 | [Anthropic's internal AI use, at retail prices, now exceeds i...](https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11) | 154 | entryleveljobsc |
+| 1 | [Jailbreaking my car's navigation system just so I can change...](https://blog.nns.ee/2026/11/02/renault-hack/) | 129 | xx_ns |
+| 2 | [Fujifilm to boost tape production 5x as AI fuels archiving d...](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) | 153 | bookofjoe |
+| 3 | [Mac at Any Scale](https://namespace.so/blog/mac-at-any-scale) | 62 | anner_ |
+| 4 | [The 'Astra can read and write weights to improve Qwen' post ...](https://honnibal.dev/blog/astra-read-write-misleading) | 622 | syllogism |
+| 5 | [Schools that block Google A.I. will lose student access to i...](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html) | 88 | ceejayoz |
+| 6 | [Writing seen in PHerc. 306B, for the first time in 2000 year...](https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the) | 50 | benbreen |
+| 7 | [Tiny Basic for Arduino](https://dilshan.github.io/tiny-basic/) | 21 | AlexeyBrin |
+| 8 | [Notice How Old websites look better than new websites](https://yingster.net/) | 25 | MINTYSTAR12 |
+| 9 | [Charles Tandy, the mastermind behind Radio Shack](https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/) | 75 | ibobev |
+| 10 | [OpenAI seems to be silently re-enabling model training on Co...](https://news.ycombinator.com/item?id=50352757) | 75 | user052919 |
+| 11 | [Could a modern chess engine on a Pentium have defeated Kaspa...](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html) | 254 | markusw |
+| 12 | [Show HN: HackerChurn – which SaaS tools HN wants to cancel](https://hissingkitty.com/hacker-churn) | 18 | drewlem |
+| 13 | [Kalshi and its co-founders face felony charges for violating...](https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/) | 42 | rbanffy |
+| 14 | [Antimony: CAD Software Evolved from Lisp Machines and Not Dr...](https://www.mattkeeter.com/projects/antimony/3/) | 27 | pmkary |
+| 15 | [No brother of mine will play the flute](https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the) | 23 | surprisetalk |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 422241 | TypeScript |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 310036 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 295483 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 269456 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 228470 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194974 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 182753 | JavaScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 141045 | Python |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 138665 | TypeScript |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 125242 | None |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 426058 | TypeScript |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 311094 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 296296 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 270864 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 228945 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194973 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 183523 | JavaScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 141659 | Python |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 138801 | TypeScript |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 125425 | None |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-11-02 19:12:54 UTC)
+## 🏢 公司员工追踪 (2026-11-03 16:50:39 UTC)
 
 ### Google
 

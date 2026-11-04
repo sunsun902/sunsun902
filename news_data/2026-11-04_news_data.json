@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-04",
+  "hacker_news": [
+    {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "score": 587,
+      "by": "pseudolus",
+      "time": "2026-11-04T11:52:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "score": 84,
+      "by": "zenincognito",
+      "time": "2026-11-04T15:01:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "score": 412,
+      "by": "novaRom",
+      "time": "2026-11-04T08:46:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Evergreen: A Provably Safe Systems Language",
+      "url": "https://evergreenlang.net",
+      "score": 33,
+      "by": "jordan_bonecut",
+      "time": "2026-11-04T15:25:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "score": 267,
+      "by": "smalltech",
+      "time": "2026-11-04T14:09:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Codemap – one-page interactive map of any Go repository",
+      "url": "https://github.com/peterretief/codemap",
+      "score": 20,
+      "by": "peter_retief",
+      "time": "2026-11-04T15:18:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "score": 169,
+      "by": "ersinesen",
+      "time": "2026-11-04T09:01:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "score": 74,
+      "by": "rbanffy",
+      "time": "2026-11-04T15:38:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "score": 195,
+      "by": "kevcampb",
+      "time": "2026-11-04T10:00:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Letting users trust their own MCP clients, without opening a phishing hole",
+      "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+      "score": 15,
+      "by": "isalexlog",
+      "time": "2026-11-04T15:30:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "score": 408,
+      "by": "jameslk",
+      "time": "2026-11-04T10:10:27",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Adding Window Functions to a Spreadsheet",
+      "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+      "score": 17,
+      "by": "reedciccio",
+      "time": "2026-11-04T15:21:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+      "url": "https://pcdealcheck.com/",
+      "score": 12,
+      "by": "adlep",
+      "time": "2026-11-04T15:25:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "score": 47,
+      "by": "abrarthought",
+      "time": "2026-11-04T15:30:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jelly Sheet",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "score": 379,
+      "by": "memalign",
+      "time": "2026-11-04T03:40:50",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Debian apt security update (man-in-the-middle)",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+      "score": 62,
+      "by": "SG-",
+      "time": "2026-11-04T15:04:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kitty 0.50",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "score": 289,
+      "by": "porridgeraisin",
+      "time": "2026-11-04T08:57:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "score": 38,
+      "by": "karakoram",
+      "time": "2026-11-04T15:28:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Mocktastic: A Meshtastic Node on Arduino",
+      "url": "https://github.com/Vapmuz/Mocktastic",
+      "score": 13,
+      "by": "kimi",
+      "time": "2026-11-04T13:51:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "score": 726,
+      "by": "nharada",
+      "time": "2026-11-03T16:47:29",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 429939,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 429939
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 312740,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 312740
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 297033,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 297033
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 272293,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 272293
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 229392,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 229392
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194961,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194961
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 184331,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 184331
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 142278,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 142278
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 139156,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 139156
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 125577,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 125577
+    }
+  ]
+}

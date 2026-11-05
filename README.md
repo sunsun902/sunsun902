@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-11-04 16:52:09 UTC)
+# 📰 每日热点汇总 (2026-11-05 17:07:16 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) | 587 | pseudolus |
-| 2 | [Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastruc...](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/) | 84 | zenincognito |
-| 3 | [Nvidia RTX Spark encrypted firmware slows inference speed to...](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop) | 412 | novaRom |
-| 4 | [Evergreen: A Provably Safe Systems Language](https://evergreenlang.net) | 33 | jordan_bonecut |
-| 5 | [North Korean fake job interview led to $6.3B Binance heist](https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398) | 267 | smalltech |
-| 6 | [Show HN: Codemap – one-page interactive map of any Go reposi...](https://github.com/peterretief/codemap) | 20 | peter_retief |
-| 7 | [Verification Is Not Knowledge: Science needs more than answe...](https://blog.cosmos-institute.org/p/verification-is-not-knowledge) | 169 | ersinesen |
-| 8 | [AMD expects to outsell Intel in Q4 for the first time in his...](https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections) | 74 | rbanffy |
-| 9 | [Incident with Pull Requests, Git Operations and Issues](https://www.githubstatus.com/incidents/smtdswd1h2w4) | 195 | kevcampb |
-| 10 | [Letting users trust their own MCP clients, without opening a...](https://streamvessel.com/blog/mcp-trusted-redirect-uris) | 15 | isalexlog |
-| 11 | [Tell HN: Gemini trains on chat history, even for subscribers...](https://news.ycombinator.com/item?id=50363461) | 408 | jameslk |
-| 12 | [Adding Window Functions to a Spreadsheet](https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/) | 17 | reedciccio |
-| 13 | [Show HN: I built a tool that prices a prebuilt PC part by pa...](https://pcdealcheck.com/) | 12 | adlep |
-| 14 | [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | 47 | abrarthought |
-| 15 | [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/) | 379 | memalign |
+| 1 | [Sshole](https://sshhole.com) | 1284 | josemrb |
+| 2 | [Alpine Linux Security advisory: OpenSSH-server password auth...](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/) | 206 | pantalaimon |
+| 3 | [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/) | 77 | monneyboi |
+| 4 | [September in Servo: <progress>, rounded rectangles, and more](https://servo.org/blog/2026/11/05/september-in-servo/) | 75 | iamnothere |
+| 5 | [The Lisp curse, now coming to your ecosystem](https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html) | 29 | marcolinux |
+| 6 | [Bild AI (YC W25) Is Hiring Founding Product Engineers](https://www.ycombinator.com/companies/bild-ai/jobs) | 1 | rooppal |
+| 7 | [MCP Explained](https://mcp-explained.com/) | 134 | rwilinski |
+| 8 | [My psychophysics as a bilateral cochlear implant user](https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf) | 29 | mi-rae |
+| 9 | [Download your favourite YouTube videos](https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/) | 109 | surprisetalk |
+| 10 | [OpenSSH 10.6p2 Critical workaround for alpine without PAM](https://www.openssh.org/releasenotes.html#10.6p2) | 148 | selckin |
+| 11 | [Obscure audio codec is a perfect fit for the N64](https://phoboslab.org/log/2026/11/n64-ulc-codec) | 100 | frostbyte7 |
+| 12 | [The Stacks Project, Formalized in Lean](https://axiommath.ai/research/the-stacks-project-formalized/) | 9 | namanbnsl |
+| 13 | [Building a Multi-Agent System from Scratch: Architecture Pat...](https://kadhar.dev/blog/multi-agent-systems-from-scratch) | 13 | kadharmfn |
+| 14 | [I wish tech companies knew more about me](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me) | 61 | freetonik |
+| 15 | [Show HN: A decent text-to-image model trained for ~$20K (Apa...](https://www.linum.ai/field-notes/pjit-21k) | 9 | schopra909 |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 429939 | TypeScript |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 312740 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 297033 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 272293 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 229392 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194961 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 184331 | JavaScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 142278 | Python |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 139156 | TypeScript |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 125577 | None |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 433556 | TypeScript |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 314682 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 297683 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 273623 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 229794 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194951 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 185055 | JavaScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 142825 | Python |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 139784 | TypeScript |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 125751 | None |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-11-04 16:52:05 UTC)
+## 🏢 公司员工追踪 (2026-11-05 17:07:12 UTC)
 
 ### Google
 

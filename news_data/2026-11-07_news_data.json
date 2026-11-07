@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-07",
+  "hacker_news": [
+    {
+      "title": "The $8 Linux Computer (2022)",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "score": 35,
+      "by": "zenincognito",
+      "time": "2026-11-07T14:00:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "score": 341,
+      "by": "fluxusars",
+      "time": "2026-11-07T09:36:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "score": 846,
+      "by": "mfiguiere",
+      "time": "2026-11-06T23:30:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "score": 323,
+      "by": "infwhispers",
+      "time": "2026-11-07T09:46:03",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Running a law firm on Free software",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "score": 79,
+      "by": "DeepLogin",
+      "time": "2026-11-07T09:39:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "British Library Legal deposit and web archiving",
+      "url": "https://www.bl.uk/services/legal-deposit/web-archiving",
+      "score": 13,
+      "by": "robtherobber",
+      "time": "2026-11-03T14:56:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "score": 1078,
+      "by": "PLenz",
+      "time": "2026-11-06T12:13:51",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Building the NBC News Big Board",
+      "url": "https://ejfox.com/projects/nbc-big-board",
+      "score": 26,
+      "by": "whalesalad",
+      "time": "2026-11-04T04:09:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "score": 531,
+      "by": "theanomaly",
+      "time": "2026-11-06T19:48:51",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ToothPaste",
+      "url": "https://brisk4t.github.io/blog/toothpaste/",
+      "score": 42,
+      "by": "speckx",
+      "time": "2026-11-03T18:27:27",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+      "url": "https://github.com/hyphatech/spindle",
+      "score": 24,
+      "by": "zaiev",
+      "time": "2026-11-05T10:45:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "score": 156,
+      "by": "derbOac",
+      "time": "2026-11-04T02:19:16",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "score": 91,
+      "by": "geoffbp",
+      "time": "2026-11-07T06:39:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "score": 367,
+      "by": "ChrisArchitect",
+      "time": "2026-11-06T04:00:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "score": 148,
+      "by": "raybb",
+      "time": "2026-11-06T23:37:19",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Port 0: The Port That Does Not Exist",
+      "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+      "score": 35,
+      "by": "NewCzech",
+      "time": "2026-11-07T09:38:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Upload Your RAM",
+      "url": "https://uploadyourram.org",
+      "score": 218,
+      "by": "susanthenerd",
+      "time": "2026-11-07T10:15:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "score": 260,
+      "by": "SerCe",
+      "time": "2026-11-06T19:33:38",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "score": 153,
+      "by": "benbreen",
+      "time": "2026-11-07T04:54:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "PostgreSQL Internals [pdf] (2023)",
+      "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+      "score": 54,
+      "by": "Foe",
+      "time": "2026-11-04T05:22:43",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 439985,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 439985
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 317336,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 317336
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 298944,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 298944
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 275555,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 275555
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 230511,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 230511
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194943,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194943
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 186196,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 186196
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 143825,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 143825
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 140593,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 140593
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 125991,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 125991
+    }
+  ]
+}

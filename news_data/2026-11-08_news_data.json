@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-08",
+  "hacker_news": [
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "score": 132,
+      "by": "joshcsimmons",
+      "time": "2026-11-08T10:22:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Porting Android 16 to my blind mother's keypad phone",
+      "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+      "score": 68,
+      "by": "z1xus",
+      "time": "2026-11-04T15:18:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Quadrillion-parameter transformers and how to train them",
+      "url": "https://qlabs.sh/research/parameters",
+      "score": 42,
+      "by": "frozenseven",
+      "time": "2026-11-03T14:37:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "score": 501,
+      "by": "karagenit",
+      "time": "2026-11-08T03:11:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "score": 56,
+      "by": "dmit",
+      "time": "2026-11-08T10:42:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Writing as a Thinking Tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "score": 43,
+      "by": "jruohonen",
+      "time": "2026-11-08T10:41:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest/",
+      "score": 207,
+      "by": "krthr",
+      "time": "2026-11-08T11:23:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "score": 101,
+      "by": "mthines",
+      "time": "2026-11-08T08:40:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "score": 673,
+      "by": "LaurensBER",
+      "time": "2026-11-07T18:12:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "score": 488,
+      "by": "shmulc",
+      "time": "2026-11-07T20:45:32",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Clj.rs – a Clojure dialect implemented in Rust",
+      "url": "https://clj.rs/",
+      "score": 105,
+      "by": "simonpure",
+      "time": "2026-11-04T15:23:16",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI Raises $11B at a $1.25T Valuation",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "score": 21,
+      "by": "armcat",
+      "time": "2026-11-08T14:49:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Earliest evidence of cannabis use found in ancient Siberian tomb",
+      "url": "https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl",
+      "score": 36,
+      "by": "mooreds",
+      "time": "2026-11-06T02:27:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+      "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+      "score": 49,
+      "by": "speckx",
+      "time": "2026-11-05T13:44:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "score": 1071,
+      "by": "fluxusars",
+      "time": "2026-11-07T09:36:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
+      "url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+      "score": 33,
+      "by": "bryanrasmussen",
+      "time": "2026-11-04T20:53:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Consumer brain wave headsets threaten privacy",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "score": 96,
+      "by": "maxall4",
+      "time": "2026-11-08T02:02:38",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "score": 178,
+      "by": "rbanffy",
+      "time": "2026-11-05T10:52:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Making any integer with four 2s (2025)",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "score": 172,
+      "by": "germanrabbit",
+      "time": "2026-11-07T22:38:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "score": 784,
+      "by": "infwhispers",
+      "time": "2026-11-07T09:46:03",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 442796,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 442796
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 318256,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 318256
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 299495,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 299495
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 276290,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 276290
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 230820,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 230820
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194945,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194945
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 186746,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 186746
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 144319,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 144319
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 140741,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 140741
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 126117,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 126117
+    }
+  ]
+}

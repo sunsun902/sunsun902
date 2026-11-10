@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-10",
+  "hacker_news": [
+    {
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "url": "https://www.blender.org/download/releases/5-3/",
+      "score": 80,
+      "by": "amlib",
+      "time": "2026-11-10T16:15:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "score": 403,
+      "by": "ilreb",
+      "time": "2026-11-10T12:11:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Hardest Tarball?",
+      "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+      "score": 88,
+      "by": "thatslast",
+      "time": "2026-11-10T15:00:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "score": 107,
+      "by": "meetpateltech",
+      "time": "2026-11-10T16:07:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "score": 573,
+      "by": "aloukissas",
+      "time": "2026-11-10T06:01:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+      "score": 78,
+      "by": "jaypatelani",
+      "time": "2026-11-08T12:07:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+      "url": "https://text.npr.org/nx-s1-6029641",
+      "score": 74,
+      "by": "DeepLogin",
+      "time": "2026-11-10T15:59:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What's new in the .NET 11 runtime",
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "score": 96,
+      "by": "stevefan1999",
+      "time": "2026-11-10T12:20:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Taking another shot at the cheap IP camera, part 2",
+      "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
+      "score": 56,
+      "by": "ericswpark",
+      "time": "2026-11-09T14:40:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "url": "https://connect.queenslibrary.org/",
+      "score": 146,
+      "by": "rustyhancock",
+      "time": "2026-11-10T09:04:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "score": 806,
+      "by": "lairv",
+      "time": "2026-11-09T18:01:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "url": "https://tinyvalencia.com/",
+      "score": 20,
+      "by": "leugim",
+      "time": "2026-11-10T15:12:16",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Death Knell of Digital Search",
+      "url": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
+      "score": 26,
+      "by": "bookofjoe",
+      "time": "2026-11-10T14:41:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Let over Lambda–50 Years of Lisp (2008)",
+      "url": "https://letoverlambda.com/",
+      "score": 44,
+      "by": "theanonymousone",
+      "time": "2026-11-10T12:35:27",
+      "source": "Hacker News"
+    },
+    {
+      "title": ".NET 11",
+      "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+      "score": 42,
+      "by": "runesoerensen",
+      "time": "2026-11-10T16:01:27",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
+      "url": "https://hannahilea.com/blog/daylight-clock/",
+      "score": 37,
+      "by": "evakhoury",
+      "time": "2026-11-09T20:00:32",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Ghanaian street games you can play in the browser",
+      "url": "https://www.ghanastreetgames.com/",
+      "score": 78,
+      "by": "samuelaidoo45",
+      "time": "2026-11-08T15:31:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
+      "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
+      "score": 53,
+      "by": "benbreen",
+      "time": "2026-11-08T04:07:21",
+      "source": "Hacker News"
+    },
+    {
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "score": 701,
+      "by": "munro",
+      "time": "2026-11-09T19:58:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "score": 24,
+      "by": "skittleson",
+      "time": "2026-11-10T15:25:20",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 449232,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 449232
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 320593,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 320593
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 300631,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 300631
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 278080,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 278080
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 231753,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 231753
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194802,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194802
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 188234,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 188234
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 145476,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 145476
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 141064,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 141064
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 126453,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 126453
+    }
+  ]
+}

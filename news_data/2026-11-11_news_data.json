@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-11",
+  "hacker_news": [
+    {
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "score": 671,
+      "by": "eyvindn",
+      "time": "2026-11-11T12:05:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why aren't we shipping faster now?",
+      "url": "https://cabird.com/talks/shipping-faster/",
+      "score": 17,
+      "by": "azhenley",
+      "time": "2026-11-11T16:33:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pharo in the Browser with WebAssembly",
+      "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+      "score": 76,
+      "by": "xkriva11",
+      "time": "2026-11-11T14:21:27",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "score": 79,
+      "by": "linsomniac",
+      "time": "2026-11-11T14:10:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "score": 152,
+      "by": "emschwartz",
+      "time": "2026-11-11T12:30:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "url": "https://av.github.io/safe-sand/",
+      "score": 101,
+      "by": "everlier",
+      "time": "2026-11-11T13:39:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "score": 9,
+      "by": "mbac32768",
+      "time": "2026-11-11T16:38:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "score": 159,
+      "by": "lae",
+      "time": "2026-11-11T10:48:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+      "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+      "score": 44,
+      "by": "0xdeadf1sh",
+      "time": "2026-11-11T13:34:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We need more goat sacrifices",
+      "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+      "score": 88,
+      "by": "iamnothere",
+      "time": "2026-11-11T12:29:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "score": 194,
+      "by": "Brajeshwar",
+      "time": "2026-11-11T13:56:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "score": 345,
+      "by": "js2",
+      "time": "2026-11-11T04:28:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple is killing its Support Community forum next week",
+      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "score": 140,
+      "by": "saikatsg",
+      "time": "2026-11-11T14:02:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The hardest notes to find on the guitar fretboard",
+      "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
+      "score": 6,
+      "by": "udit99",
+      "time": "2026-11-11T16:05:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "EventSourcingDB 1.3.0 Is Available",
+      "url": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
+      "score": 22,
+      "by": "goloroden",
+      "time": "2026-11-11T13:19:45",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+      "url": "https://news.ycombinator.com/item?id=50452404",
+      "score": 1,
+      "by": "FrasiertheLion",
+      "time": "2026-11-11T12:00:35",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Peer-to-peer WebRTC connections with built-in signaling and discovery",
+      "url": "https://github.com/lukks/like-webrtc",
+      "score": 39,
+      "by": "LuKks",
+      "time": "2026-11-08T20:10:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+      "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+      "score": 47,
+      "by": "artrax",
+      "time": "2026-11-11T12:09:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+      "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+      "score": 20,
+      "by": "zerop",
+      "time": "2026-11-11T13:29:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "score": 442,
+      "by": "linolevan",
+      "time": "2026-11-10T21:25:03",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 452051,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 452051
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 321718,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 321718
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 301169,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 301169
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 278878,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 278878
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 232139,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 232139
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194794,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194794
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 188927,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 188927
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 146021,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 146021
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 141206,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 141206
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 126833,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 126833
+    }
+  ]
+}

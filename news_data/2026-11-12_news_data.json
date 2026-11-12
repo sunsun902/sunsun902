@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-12",
+  "hacker_news": [
+    {
+      "title": "NVIDIA Announces CEO Transition",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "score": 1444,
+      "by": "lldb",
+      "time": "2026-11-12T13:52:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "score": 544,
+      "by": "josephljohnston",
+      "time": "2026-11-12T11:46:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "score": 114,
+      "by": "klaussilveira",
+      "time": "2026-11-12T14:18:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "score": 98,
+      "by": "dverlaeckt80",
+      "time": "2026-11-12T14:12:37",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "score": 55,
+      "by": "mrashad74",
+      "time": "2026-11-12T15:23:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+      "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+      "score": 10,
+      "by": "seanw265",
+      "time": "2026-11-12T16:59:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "url": "https://github.com/chocoford/ExcalidrawZ",
+      "score": 31,
+      "by": "Qision",
+      "time": "2026-11-12T15:25:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why Writing Correct Software Is Hard",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "score": 265,
+      "by": "AriFordsham",
+      "time": "2026-11-12T10:28:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Libreagi – Save OSS Models",
+      "url": "https://libreagi.com/",
+      "score": 64,
+      "by": "satuke",
+      "time": "2026-11-12T14:11:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+      "url": "https://fable52.games",
+      "score": 43,
+      "by": "felixne",
+      "time": "2026-11-12T15:30:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+      "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+      "score": 29,
+      "by": "dougcalobrisi",
+      "time": "2026-11-12T15:14:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Running web sites makes me not want to",
+      "url": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+      "score": 38,
+      "by": "speckx",
+      "time": "2026-11-12T14:30:38",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Electric Ship Batteries Promise Compact, Cooler Power",
+      "url": "https://spectrum.ieee.org/electric-ship-batteries",
+      "score": 36,
+      "by": "rbanffy",
+      "time": "2026-11-12T14:06:03",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Socratic Tutor",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "score": 543,
+      "by": "tosh",
+      "time": "2026-11-10T10:18:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+      "score": 44,
+      "by": "CharlesW",
+      "time": "2026-11-12T16:29:13",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A live tree of systemd jobs on the boot console",
+      "url": "https://codeberg.org/wvhulle/bootvine",
+      "score": 273,
+      "by": "orhunp_",
+      "time": "2026-11-09T13:02:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+      "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+      "score": 81,
+      "by": "giuliomagnifico",
+      "time": "2026-11-12T10:46:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "score": 1369,
+      "by": "ayhanfuat",
+      "time": "2026-11-11T07:03:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Decoding REXPaint Files in Odin",
+      "url": "https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/",
+      "score": 7,
+      "by": "tylerelton",
+      "time": "2026-11-10T05:18:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "score": 544,
+      "by": "zenincognito",
+      "time": "2026-11-11T22:34:23",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 454726,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 454726
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 322791,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 322791
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 301847,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 301847
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 279681,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 279681
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 232477,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 232477
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194789,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194789
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 189641,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 189641
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 146605,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 146605
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 141358,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 141358
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 127228,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 127228
+    }
+  ]
+}

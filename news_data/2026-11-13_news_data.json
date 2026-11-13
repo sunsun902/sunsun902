@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-13",
+  "hacker_news": [
+    {
+      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+      "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+      "score": 85,
+      "by": "dvaplima",
+      "time": "2026-11-13T15:52:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "score": 303,
+      "by": "scottjg",
+      "time": "2026-11-12T22:03:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why Zig over C for Systems Programming",
+      "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+      "score": 128,
+      "by": "torutofu",
+      "time": "2026-11-13T14:01:13",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A technical vision for the Haskell ecosystem",
+      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "score": 58,
+      "by": "cosmic_quanta",
+      "time": "2026-11-13T14:43:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "score": 320,
+      "by": "voxleone",
+      "time": "2026-11-13T12:10:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "score": 3867,
+      "by": "lldb",
+      "time": "2026-11-12T13:52:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+      "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+      "score": 39,
+      "by": "ortuman",
+      "time": "2026-11-13T14:28:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
+      "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+      "score": 24,
+      "by": "bookofjoe",
+      "time": "2026-11-13T15:08:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
+      "url": "https://news.ycombinator.com/item?id=50484421",
+      "score": 126,
+      "by": "moonypto",
+      "time": "2026-11-13T14:53:32",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "score": 420,
+      "by": "__vivek",
+      "time": "2026-11-13T10:18:13",
+      "source": "Hacker News"
+    },
+    {
+      "title": "IceWM",
+      "url": "https://ice-wm.org/",
+      "score": 310,
+      "by": "inatreecrown2",
+      "time": "2026-11-13T04:54:53",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "score": 816,
+      "by": "mbStavola",
+      "time": "2026-11-12T18:39:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "EU Digital Identity Wallet rollout: every EU state on one board",
+      "url": "https://myid.ie/business/eu-digital-wallet-tracker/",
+      "score": 54,
+      "by": "mooreds",
+      "time": "2026-11-13T14:58:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "score": 214,
+      "by": "sjdh76",
+      "time": "2026-11-13T03:08:08",
+      "source": "Hacker News"
+    },
+    {
+      "title": "US university students tell surveillance cameras to Flock off",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+      "score": 89,
+      "by": "beardyw",
+      "time": "2026-11-13T14:11:56",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "score": 39,
+      "by": "kamaraju",
+      "time": "2026-11-13T15:29:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "score": 672,
+      "by": "simpsoka",
+      "time": "2026-11-12T17:02:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI Is Destroying the Trust Between Writers and Readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "score": 165,
+      "by": "FinnLobsien",
+      "time": "2026-11-13T11:13:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "score": 471,
+      "by": "jonbaer",
+      "time": "2026-11-12T18:52:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "score": 399,
+      "by": "jbredeche",
+      "time": "2026-11-12T19:51:33",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 457030,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 457030
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 323628,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 323628
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 302340,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 302340
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 280385,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 280385
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 232772,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 232772
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194783,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194783
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 190204,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 190204
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 147133,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 147133
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 141447,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 141447
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 127374,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 127374
+    }
+  ]
+}

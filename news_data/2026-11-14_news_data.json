@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-14",
+  "hacker_news": [
+    {
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "score": 294,
+      "by": "casi",
+      "time": "2026-11-10T14:16:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "score": 31,
+      "by": "snipedbywifi",
+      "time": "2026-11-14T14:05:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "KDE: The Documentary on Free Software [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "score": 29,
+      "by": "mrkn1",
+      "time": "2026-11-14T13:43:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "score": 57,
+      "by": "DeepLogin",
+      "time": "2026-11-10T15:07:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "score": 28,
+      "by": "acossta",
+      "time": "2026-11-14T13:20:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "url": "https://github.com/FURSOY/fursoy-cpu",
+      "score": 12,
+      "by": "fursoy",
+      "time": "2026-11-14T14:06:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "score": 146,
+      "by": "gslin",
+      "time": "2026-11-14T12:45:45",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "score": 351,
+      "by": "cobychapple",
+      "time": "2026-11-14T02:28:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "url": "https://github.com/paul-nameless/agweb",
+      "score": 19,
+      "by": "paul_nameless",
+      "time": "2026-11-14T14:08:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Testing a Trash Can Faraday Cage",
+      "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+      "score": 17,
+      "by": "torutofu",
+      "time": "2026-11-12T14:04:27",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "score": 43,
+      "by": "wondersky",
+      "time": "2026-11-14T14:09:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Monkey Island: all 13 versions side by side",
+      "url": "https://monkeyisland.pages.dev/",
+      "score": 306,
+      "by": "maximilianburke",
+      "time": "2026-11-14T04:23:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "score": 58,
+      "by": "giuliomagnifico",
+      "time": "2026-11-14T13:48:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Let's Write a PostScript Interpreter",
+      "url": "https://beyondloom.com/blog/postscript.html",
+      "score": 43,
+      "by": "RebelPotato",
+      "time": "2026-11-13T05:12:56",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "score": 860,
+      "by": "speckx",
+      "time": "2026-11-14T02:52:59",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
+      "score": 351,
+      "by": "vinhnx",
+      "time": "2026-11-13T23:06:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "score": 209,
+      "by": "Retro_Dev",
+      "time": "2026-11-14T00:06:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bilingualism and Denaskuleco",
+      "url": "https://pgadey.ca/notes/bilingualism-and-denaskuleco/",
+      "score": 4,
+      "by": "surprisetalk",
+      "time": "2026-11-12T12:00:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A visual explanation of reinforcement learning",
+      "url": "https://aatishb.com/myriad/how-brains-learn/",
+      "score": 7,
+      "by": "aatish",
+      "time": "2026-11-14T13:31:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "score": 1603,
+      "by": "zulln",
+      "time": "2026-11-13T21:05:53",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 459095,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 459095
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 324251,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 324251
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 302726,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 302726
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 280978,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 280978
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 233072,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 233072
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194781,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194781
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 190693,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 190693
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 147554,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 147554
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 141524,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 141524
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 127493,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 127493
+    }
+  ]
+}

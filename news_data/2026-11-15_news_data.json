@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-15",
+  "hacker_news": [
+    {
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "score": 155,
+      "by": "jcubic",
+      "time": "2026-11-15T14:46:58",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "score": 155,
+      "by": "MacAnorak",
+      "time": "2026-11-15T13:15:22",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "url": "https://prog21.dadgum.com/116.html",
+      "score": 62,
+      "by": "ksec",
+      "time": "2026-11-15T13:44:16",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "score": 1452,
+      "by": "ls612",
+      "time": "2026-11-14T21:22:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+      "score": 33,
+      "by": "rbanffy",
+      "time": "2026-11-15T14:31:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "score": 85,
+      "by": "vismit2000",
+      "time": "2026-11-15T12:14:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A NES emulator written in Odin",
+      "url": "https://lucypero.com/lucynes.html",
+      "score": 45,
+      "by": "frostbyte7",
+      "time": "2026-11-15T12:51:47",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "score": 133,
+      "by": "Skyfall106",
+      "time": "2026-11-15T09:06:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Emacs Is My Browser",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "score": 6,
+      "by": "nyc111",
+      "time": "2026-11-15T15:21:21",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "score": 933,
+      "by": "armcat",
+      "time": "2026-11-14T17:43:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "score": 354,
+      "by": "ybathaee",
+      "time": "2026-11-15T01:18:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What thousands of conversations look like inside a language model",
+      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+      "score": 54,
+      "by": "josip208",
+      "time": "2026-11-13T10:26:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Chasing an audio artifact on power loss",
+      "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
+      "score": 28,
+      "by": "ireflect",
+      "time": "2026-11-12T23:11:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "score": 18,
+      "by": "envoked",
+      "time": "2026-11-12T05:29:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "score": 161,
+      "by": "JumpCrisscross",
+      "time": "2026-11-15T11:40:51",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Telephone Changed the World",
+      "url": "https://lithub.com/how-the-telephone-changed-the-world/",
+      "score": 19,
+      "by": "NaOH",
+      "time": "2026-11-14T22:56:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How to read codes from (many) IR remote controls with as little code as possible",
+      "url": "https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html",
+      "score": 17,
+      "by": "speckx",
+      "time": "2026-11-11T20:09:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+      "url": "https://www.niklasroy.com/carton-clock/",
+      "score": 32,
+      "by": "r0r0",
+      "time": "2026-11-13T12:00:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
+      "score": 49,
+      "by": "nephihaha",
+      "time": "2026-11-12T21:27:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "score": 268,
+      "by": "Skyfall106",
+      "time": "2026-11-14T22:22:49",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 461285,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 461285
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 324899,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 324899
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 303621,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 303621
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 281503,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 281503
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 233354,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 233354
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194768,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194768
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 191259,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 191259
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 148185,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 148185
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 141644,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 141644
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 127646,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 127646
+    }
+  ]
+}

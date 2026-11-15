@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-11-14 15:35:12 UTC)
+# 📰 每日热点汇总 (2026-11-15 16:05:48 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/) | 294 | casi |
-| 2 | [Show HN: A terminal-native idle factory game, written in Rus...](https://gitlab.com/snipedbywifi/terminactory) | 31 | snipedbywifi |
-| 3 | [KDE: The Documentary on Free Software [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) | 29 | mrkn1 |
-| 4 | [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/) | 57 | DeepLogin |
-| 5 | [Advancing science and engineering with Antigravity's /teamwo...](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) | 28 | acossta |
-| 6 | [Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVeri...](https://github.com/FURSOY/fursoy-cpu) | 12 | fursoy |
-| 7 | [Tech Companies Are Trying to Shift the Concept of Privacy (A...](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again) | 146 | gslin |
-| 8 | [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) | 351 | cobychapple |
-| 9 | [Show HN: Agweb – a browser for agents that stays out of your...](https://github.com/paul-nameless/agweb) | 19 | paul_nameless |
-| 10 | [Testing a Trash Can Faraday Cage](https://www.jefftk.com/p/testing-a-trash-can-faraday-cage) | 17 | torutofu |
-| 11 | [Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX station...](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/) | 43 | wondersky |
-| 12 | [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/) | 306 | maximilianburke |
-| 13 | [Italy fines Meta $887M over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/) | 58 | giuliomagnifico |
-| 14 | [Let's Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html) | 43 | RebelPotato |
-| 15 | [Nvidia allegedly engineered scarcity by funding AI startups ...](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) | 860 | speckx |
+| 1 | [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) | 155 | jcubic |
+| 2 | [The MacBook Pro's OLED PWM Problem: When a 'Better' Display ...](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) | 155 | MacAnorak |
+| 3 | [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html) | 62 | ksec |
+| 4 | [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) | 1452 | ls612 |
+| 5 | [The Hypertext Transfer Protocol Status Code 483 (I'm Not a F...](https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/) | 33 | rbanffy |
+| 6 | [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings) | 85 | vismit2000 |
+| 7 | [A NES emulator written in Odin](https://lucypero.com/lucynes.html) | 45 | frostbyte7 |
+| 8 | [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775) | 133 | Skyfall106 |
+| 9 | [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/) | 6 | nyc111 |
+| 10 | [Lovable apps expose passport details and more than 200K priv...](https://www.crissyfield.de/research/lovable-en/) | 933 | armcat |
+| 11 | [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) | 354 | ybathaee |
+| 12 | [What thousands of conversations look like inside a language ...](https://operator0x.com/field-notes/qwen-conversation-state-space/) | 54 | josip208 |
+| 13 | [Chasing an audio artifact on power loss](https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/) | 28 | ireflect |
+| 14 | [Claude Code and Codex reverse engineered my 1994 Jeep's ECU ...](https://www.youtube.com/watch?v=WPj3aQ-xxpI) | 18 | envoked |
+| 15 | [Lutnick Pushed to Weaken Chip Rules That Overlap with His Fa...](https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html) | 161 | JumpCrisscross |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 459095 | TypeScript |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 324251 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 302726 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 280978 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 233072 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194781 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 190693 | JavaScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 147554 | Python |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 141524 | TypeScript |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 127493 | None |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 461285 | TypeScript |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 324899 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 303621 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 281503 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 233354 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194768 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 191259 | JavaScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 148185 | Python |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 141644 | TypeScript |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 127646 | None |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-11-14 15:35:09 UTC)
+## 🏢 公司员工追踪 (2026-11-15 16:05:44 UTC)
 
 ### Google
 

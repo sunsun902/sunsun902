@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-11-16 19:17:16 UTC)
+# 📰 每日热点汇总 (2026-11-17 18:10:40 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains) | 92 | PaulHoule |
-| 2 | [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/) | 140 | burntsushi |
-| 3 | [Customers report outages at major banks](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda) | 34 | samk3nny |
-| 4 | [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops B...](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/) | 248 | sammatilda |
-| 5 | [Aristotle Expands into Rust](https://www.harmonic.fun/news/aristotle-rust-verification/) | 36 | maufl |
-| 6 | [OpenAI: Strengthening the fight against online child sexual ...](https://openai.com/index/strengthening-online-child-safety/) | 34 | rossant |
-| 7 | [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame) | 58 | geerlingguy |
-| 8 | [Michael Mann's 'Heat' Copyright Fight Turns on a Deal with H...](https://copyrightlately.com/michael-mann-heat-copyright-termination/) | 26 | speckx |
-| 9 | [Many of Amazon’s Black Friday and Cyber Monday “deals” offer...](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/) | 615 | DeepLogin |
-| 10 | [How to make almost anything](https://pub.cba.mit.edu/863.26/site/) | 752 | o4c |
-| 11 | [Jolt – Clojure that speaks C](https://jolt-lang.net/) | 27 | michaelsbradley |
-| 12 | [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/) | 34 | Betelbuddy |
-| 13 | [Universal XSS in uBlock Origin from website-driven element p...](https://iter.ca/post/ubo-uxss/) | 575 | zaik |
-| 14 | [Smallest possible nopert polyhedra: the Septopert](https://github.com/tom7/noperts/blob/main/septopert.md) | 29 | RebelPotato |
-| 15 | [Interpreting claims that a theorem is correct because it was...](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/) | 241 | matt_d |
+| 1 | [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) | 217 | jasondavies |
+| 2 | [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/) | 193 | Edward40 |
+| 3 | [Show HN: Alloy CSS, dialogs, menus and tabs that work with J...](https://alloyhtml.com/example.html) | 103 | prafandy |
+| 4 | [New Evidence Shows School Phone Bans Are Gradually Improving...](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html) | 871 | donohoe |
+| 5 | [Carnegie Mellon is putting computer science courses on YouTu...](https://www.cs.cmu.edu/learn/) | 2139 | pcompeau |
+| 6 | [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664) | 77 | dustfinger |
+| 7 | [NSA Internal Network Down](https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/) | 164 | nodoodles |
+| 8 | [YC wrote software to run our internship expo – and an 8-bit ...](https://news.ycombinator.com/item?id=50534429) | 1 | ryankicks |
+| 9 | [Show HN: TrnRT – An open-source LLM inference engine for AWS...](https://github.com/RunanywhereAI/trnrt) | 16 | sanchitmonga22 |
+| 10 | [Optimizely hack infected CNN, Fox News, BBC, Salesforce site...](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/) | 39 | balderdash |
+| 11 | [Elephant-Goldfish Model](https://egm.dev/) | 18 | _tk_ |
+| 12 | [Who Builds the Machines That Build the Machines?](https://read.corematter.com/p/section-232-us-machine-tools) | 3 | gmays |
+| 13 | [VisualBasic.World: A gallery of Planet Source Code programs ...](https://visualbasic.world/) | 179 | broast |
+| 14 | [Antfly learned to stop worrying and love Apache 2.0](https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2) | 23 | drewlanenga |
+| 15 | [Exploiting Replay Protected Monotonic Counters to Brute-Forc...](https://arxiv.org/abs/2611.18126) | 17 | cwerling |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 463753 | TypeScript |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 325842 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 304459 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 282279 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 233691 | None |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194762 | Rust |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 192045 | JavaScript |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 148925 | Python |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 141792 | TypeScript |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 127810 | None |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 465891 | TypeScript |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 326609 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 305254 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 282908 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 233961 | None |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194765 | Rust |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 192836 | JavaScript |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 149524 | Python |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 141900 | TypeScript |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis... | 127957 | None |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-11-16 19:17:13 UTC)
+## 🏢 公司员工追踪 (2026-11-17 18:10:36 UTC)
 
 ### Google
 

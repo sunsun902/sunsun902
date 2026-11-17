@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-17",
+  "hacker_news": [
+    {
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "score": 217,
+      "by": "jasondavies",
+      "time": "2026-11-17T17:46:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What is the best harness for each model?",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "score": 193,
+      "by": "Edward40",
+      "time": "2026-11-17T14:53:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "url": "https://alloyhtml.com/example.html",
+      "score": 103,
+      "by": "prafandy",
+      "time": "2026-11-17T15:07:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "score": 871,
+      "by": "donohoe",
+      "time": "2026-11-17T11:45:51",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "score": 2139,
+      "by": "pcompeau",
+      "time": "2026-11-16T20:43:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+      "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+      "score": 77,
+      "by": "dustfinger",
+      "time": "2026-11-16T15:02:20",
+      "source": "Hacker News"
+    },
+    {
+      "title": "NSA Internal Network Down",
+      "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
+      "score": 164,
+      "by": "nodoodles",
+      "time": "2026-11-17T15:50:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+      "url": "https://news.ycombinator.com/item?id=50534429",
+      "score": 1,
+      "by": "ryankicks",
+      "time": "2026-11-17T17:00:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "url": "https://github.com/RunanywhereAI/trnrt",
+      "score": 16,
+      "by": "sanchitmonga22",
+      "time": "2026-11-17T16:01:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "score": 39,
+      "by": "balderdash",
+      "time": "2026-11-17T17:13:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Elephant-Goldfish Model",
+      "url": "https://egm.dev/",
+      "score": 18,
+      "by": "_tk_",
+      "time": "2026-11-16T08:23:28",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Who Builds the Machines That Build the Machines?",
+      "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+      "score": 3,
+      "by": "gmays",
+      "time": "2026-11-17T17:45:39",
+      "source": "Hacker News"
+    },
+    {
+      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+      "url": "https://visualbasic.world/",
+      "score": 179,
+      "by": "broast",
+      "time": "2026-11-15T23:08:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Antfly learned to stop worrying and love Apache 2.0",
+      "url": "https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2",
+      "score": 23,
+      "by": "drewlanenga",
+      "time": "2026-11-17T15:33:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs",
+      "url": "https://arxiv.org/abs/2611.18126",
+      "score": 17,
+      "by": "cwerling",
+      "time": "2026-11-16T13:25:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "score": 173,
+      "by": "craigmart",
+      "time": "2026-11-17T10:20:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "score": 593,
+      "by": "kristjansson",
+      "time": "2026-11-16T23:00:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rows vs. Columns: How different are they, really?",
+      "url": "https://spiraldb.com/blog/rows-vs-columns",
+      "score": 122,
+      "by": "eatonphil",
+      "time": "2026-11-12T17:04:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Turbo Pascal Compiler Written in Turbo Pascal",
+      "url": "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal",
+      "score": 85,
+      "by": "andsoitis",
+      "time": "2026-11-15T18:40:57",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple Services Down",
+      "url": "https://downdetector.com/status/apple-support/",
+      "score": 22,
+      "by": "willy_k",
+      "time": "2026-11-17T17:47:14",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 465891,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 465891
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 326609,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 326609
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 305254,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 305254
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 282908,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 282908
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 233961,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 233961
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194765,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194765
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 192836,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 192836
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 149524,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 149524
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 141900,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 141900
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 127957,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 127957
+    }
+  ]
+}

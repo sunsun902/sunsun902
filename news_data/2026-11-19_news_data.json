@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-19",
+  "hacker_news": [
+    {
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "score": 65,
+      "by": "wslh",
+      "time": "2026-11-19T17:02:40",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "score": 124,
+      "by": "datascientist",
+      "time": "2026-11-19T15:38:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "score": 23,
+      "by": "cybermango",
+      "time": "2026-11-19T17:30:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "score": 497,
+      "by": "harrisonpage",
+      "time": "2026-11-16T16:13:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "score": 20,
+      "by": "D_R_Farrell",
+      "time": "2026-11-19T16:34:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+      "url": "https://cornholenews.news",
+      "score": 61,
+      "by": "cornholemedia",
+      "time": "2026-11-19T15:38:32",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "score": 128,
+      "by": "krthr",
+      "time": "2026-11-19T13:18:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Someone reported java4shell bug in September 2026",
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "score": 180,
+      "by": "notmine1337",
+      "time": "2026-11-19T11:47:03",
+      "source": "Hacker News"
+    },
+    {
+      "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "score": 104,
+      "by": "Terretta",
+      "time": "2026-11-19T16:21:03",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "score": 547,
+      "by": "liotier",
+      "time": "2026-11-19T10:58:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+      "score": 177,
+      "by": "cowlevel",
+      "time": "2026-11-18T14:56:04",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Everything you need to survive and rebuild society",
+      "url": "https://lastbook.org/",
+      "score": 212,
+      "by": "tejohnso",
+      "time": "2026-11-19T14:47:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+      "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
+      "score": 29,
+      "by": "ohjeez",
+      "time": "2026-11-19T15:13:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "score": 311,
+      "by": "jdns",
+      "time": "2026-11-19T05:09:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What's New in PHP 8.6",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "score": 218,
+      "by": "netol",
+      "time": "2026-11-19T09:27:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+      "url": "https://maccus.fr/en/cooling-overtaking-heating/",
+      "score": 95,
+      "by": "robtherobber",
+      "time": "2026-11-19T14:57:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
+      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
+      "score": 103,
+      "by": "bookofjoe",
+      "time": "2026-11-17T19:35:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Chrome AI features wasting much bandwidth",
+      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "score": 52,
+      "by": "speckx",
+      "time": "2026-11-19T16:54:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "score": 194,
+      "by": "ghostfoxgod",
+      "time": "2026-11-19T08:39:45",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)",
+      "url": "https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062",
+      "score": 20,
+      "by": "gregsadetsky",
+      "time": "2026-11-16T15:26:09",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 469648,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 469648
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 328001,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 328001
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 307120,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 307120
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 284151,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 284151
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 234448,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 234448
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194754,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194754
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 194719,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 194719
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 150521,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 150521
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 142100,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 142100
+    },
+    {
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 129677,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 129677
+    }
+  ]
+}

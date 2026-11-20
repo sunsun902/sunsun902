@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-20",
+  "hacker_news": [
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "score": 84,
+      "by": "lwhsiao",
+      "time": "2026-11-20T16:29:06",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "score": 1379,
+      "by": "iamronaldo",
+      "time": "2026-11-20T14:16:21",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I'll never buy Framework hardware again",
+      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+      "score": 377,
+      "by": "unchar1",
+      "time": "2026-11-20T16:06:30",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "score": 66,
+      "by": "trotro",
+      "time": "2026-11-20T15:34:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "score": 433,
+      "by": "sammatilda",
+      "time": "2026-11-20T09:43:19",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": "https://news.ycombinator.com/item?id=50577613",
+      "score": 25,
+      "by": "proberts",
+      "time": "2026-11-20T16:45:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "score": 473,
+      "by": "shioyama",
+      "time": "2026-11-20T10:01:41",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "url": "https://kobi.music/research/dettato",
+      "score": 140,
+      "by": "hidude562",
+      "time": "2026-11-17T01:03:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "score": 263,
+      "by": "dotcoma",
+      "time": "2026-11-20T09:42:16",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+      "url": "https://github.com/bigcrimping/floppy3.5",
+      "score": 92,
+      "by": "fortran77",
+      "time": "2026-11-19T14:29:49",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "score": 163,
+      "by": "lapcat",
+      "time": "2026-11-20T15:03:31",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+      "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+      "score": 4,
+      "by": "khalidkhair",
+      "time": "2026-11-20T17:14:03",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The G1 Garbage Collector",
+      "url": "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/",
+      "score": 52,
+      "by": "ejboy",
+      "time": "2026-11-17T04:29:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Making of Oxygene",
+      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "score": 146,
+      "by": "hggh",
+      "time": "2026-11-20T10:41:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lovable: Now you can explore any idea in parallel without touching what's live",
+      "url": "https://lovable.dev/blog/introducing-drafts",
+      "score": 12,
+      "by": "doener",
+      "time": "2026-11-17T13:22:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
+      "url": "https://certuvia.com/blog/postgres-19",
+      "score": 5,
+      "by": "petrpravda",
+      "time": "2026-11-20T17:08:56",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+      "score": 98,
+      "by": "vihren",
+      "time": "2026-11-19T15:16:02",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What people are building, discovered through new domains",
+      "url": "https://startups.novumsignals.com/",
+      "score": 122,
+      "by": "walterschnitzel",
+      "time": "2026-11-20T09:54:33",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "score": 341,
+      "by": "JacobHenner",
+      "time": "2026-11-20T02:01:09",
+      "source": "Hacker News"
+    },
+    {
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "score": 193,
+      "by": "theanonymousone",
+      "time": "2026-11-20T12:41:38",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 471195,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 471195
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 328682,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 328682
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 307688,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 307688
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 284643,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 284643
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 234709,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 234709
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 195429,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 195429
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194760,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194760
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 151043,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 151043
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 142205,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 142205
+    },
+    {
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 130783,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 130783
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-23",
+  "hacker_news": [
+    {
+      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+      "url": "https://arm.jonpalmisc.com/",
+      "score": 464,
+      "by": "tech234a",
+      "time": "2026-11-23T19:17:55",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "score": 1540,
+      "by": "jaz",
+      "time": "2026-11-23T14:00:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "score": 937,
+      "by": "janvdberg",
+      "time": "2026-11-23T16:13:12",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "score": 939,
+      "by": "foohis",
+      "time": "2026-11-23T10:06:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "score": 490,
+      "by": "MrBuddyCasino",
+      "time": "2026-11-23T17:07:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "score": 66,
+      "by": "toebee",
+      "time": "2026-11-23T13:42:38",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "score": 230,
+      "by": "rdmuser",
+      "time": "2026-11-23T17:17:01",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "score": 230,
+      "by": "geden",
+      "time": "2026-11-21T09:14:02",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "score": 287,
+      "by": "fluder",
+      "time": "2026-11-23T18:48:10",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Derivative Flipping",
+      "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
+      "score": 19,
+      "by": "dmit",
+      "time": "2026-11-22T00:13:17",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "url": "https://github.com/mikuta0407/win4wine",
+      "score": 182,
+      "by": "hard_times",
+      "time": "2026-11-23T12:28:11",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How should an LLM see a computer?",
+      "url": "https://www.greptile.com/blog/trex-computer-use",
+      "score": 25,
+      "by": "dakshgupta",
+      "time": "2026-11-23T17:19:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker",
+      "score": 232,
+      "by": "yakkomajuri",
+      "time": "2026-11-23T11:31:54",
+      "source": "Hacker News"
+    },
+    {
+      "title": "EasyPost (YC S13) Is Hiring",
+      "url": "https://www.easypost.com/careers/",
+      "score": 1,
+      "by": "jstreebin",
+      "time": "2026-11-23T17:00:05",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "score": 878,
+      "by": "SockThief",
+      "time": "2026-11-23T01:13:51",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+      "score": 32,
+      "by": "MilnerRoute",
+      "time": "2026-11-23T20:13:18",
+      "source": "Hacker News"
+    },
+    {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 570,
+      "by": "mmastrac",
+      "time": "2026-11-23T03:49:24",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Drive around my village in 3D",
+      "url": "https://cherwellvalleymotorclub.app",
+      "score": 86,
+      "by": "johnwards",
+      "time": "2026-11-20T13:32:42",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What's the difference between an integer and a pointer? (2018)",
+      "url": "https://blog.regehr.org/archives/1621",
+      "score": 96,
+      "by": "germanrabbit",
+      "time": "2026-11-21T08:49:14",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Let's Meet in the Middle",
+      "url": "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
+      "score": 69,
+      "by": "evakhoury",
+      "time": "2026-11-20T16:41:54",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 475438,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 475438
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 331294,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 331294
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 309497,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 309497
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 286041,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 286041
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 235304,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 235304
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 197447,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 197447
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194730,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194730
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 152476,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 152476
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 142467,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 142467
+    },
+    {
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+      "stars": 134356,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 134356
+    }
+  ]
+}

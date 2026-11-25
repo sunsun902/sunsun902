@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-25",
+  "hacker_news": [
+    {
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "score": 313,
+      "by": "lxhrstn",
+      "time": "2026-11-25T17:18:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "score": 318,
+      "by": "gumby",
+      "time": "2026-11-25T15:14:32",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "score": 335,
+      "by": "rgwohlbold",
+      "time": "2026-11-25T13:33:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "score": 260,
+      "by": "ThrowNotAway",
+      "time": "2026-11-25T11:34:25",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "score": 88,
+      "by": "encyclopedism",
+      "time": "2026-11-25T14:56:52",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Predicting LoRA size for any dataset",
+      "url": "https://engram.com/blog/lora-size",
+      "score": 61,
+      "by": "jxmorris12",
+      "time": "2026-11-24T22:34:29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Deriving Black-Scholes",
+      "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+      "score": 17,
+      "by": "meysamazad",
+      "time": "2026-11-25T17:18:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Britain's ghost stations",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "score": 14,
+      "by": "translocator",
+      "time": "2026-11-25T17:43:46",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "score": 108,
+      "by": "jaydenmilne",
+      "time": "2026-11-24T06:22:36",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "score": 746,
+      "by": "gaurang_tandon",
+      "time": "2026-11-25T03:23:07",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "score": 919,
+      "by": "E-Reverance",
+      "time": "2026-11-25T01:19:26",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Investigating degraded experiences across GitHub products",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "score": 157,
+      "by": "pinjasaur",
+      "time": "2026-11-25T15:59:23",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "score": 280,
+      "by": "lilytweed",
+      "time": "2026-11-25T15:08:44",
+      "source": "Hacker News"
+    },
+    {
+      "title": "In C++, = default and {} are not the same constructor",
+      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+      "score": 53,
+      "by": "surprisetalk",
+      "time": "2026-11-25T15:20:15",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+      "url": "https://arxiv.org/abs/2611.31286",
+      "score": 47,
+      "by": "pseudohadamard",
+      "time": "2026-11-25T08:23:34",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "score": 407,
+      "by": "gmays",
+      "time": "2026-11-25T02:34:21",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",
+      "url": "https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/",
+      "score": 48,
+      "by": "simonebrunozzi",
+      "time": "2026-11-24T09:06:47",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Smart people who give a shit use tools",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "score": 130,
+      "by": "matthewsinclair",
+      "time": "2026-11-25T07:46:43",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "score": 293,
+      "by": "arkits",
+      "time": "2026-11-25T04:31:48",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring a Product Designer",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+      "score": 1,
+      "by": "augustschen",
+      "time": "2026-11-25T12:00:34",
+      "source": "Hacker News"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 478228,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 478228
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 332765,
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "score": 332765
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 310618,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 310618
+    },
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 286973,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 286973
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 235671,
+      "language": null,
+      "source": "GitHub Trending",
+      "score": 235671
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 198609,
+      "language": "JavaScript",
+      "source": "GitHub Trending",
+      "score": 198609
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194720,
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "score": 194720
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 153289,
+      "language": "Python",
+      "source": "GitHub Trending",
+      "score": 153289
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 142640,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 142640
+    },
+    {
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+      "stars": 137723,
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "score": 137723
+    }
+  ]
+}

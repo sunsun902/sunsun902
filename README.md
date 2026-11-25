@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-11-24 19:57:08 UTC)
+# 📰 每日热点汇总 (2026-11-25 18:58:51 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [What Cloudflare Doesn't Tell You](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/) | 58 | fishcharlie |
-| 2 | [Active Intrusion Campaign Against Check Point Security Manag...](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign) | 205 | louiereederson |
-| 3 | [Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multip...](https://grafana.com/grafana/download) | 26 | petecooper |
-| 4 | [Canada's median health-care wait time hits 30.7 weeks–longes...](https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026) | 51 | nradov |
-| 5 | [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro) | 181 | zdw |
-| 6 | [Mechanical Pencil: Spray Bottle](https://mechanical-pencil.com/products/spray-bottle) | 195 | vinhnx |
-| 7 | [Ask HN: Anthropic is accusing my company of distilling. How ...](https://news.ycombinator.com/item?id=50630809) | 98 | weli |
-| 8 | [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early) | 866 | setheron |
-| 9 | [A training engine for your local model, using your idle comp...](https://github.com/sous-labs/songe) | 105 | bluepeter |
-| 10 | [Splitting USB-C: USB 3 and USB 2 on one port](https://www.frankchiarulli.com/blog/splitting-usb-c/) | 74 | fcjr |
-| 11 | [Compiling Web Applications into Verified Operations for AI A...](https://protocolis.co/paper/) | 11 | vahagnb |
-| 12 | [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os) | 1 | adchurch |
-| 13 | [Show HN: Mason – a lightweight Postgres read-replica, built ...](https://masondata.ai/) | 48 | tagspace |
-| 14 | [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) | 758 | surprisetalk |
-| 15 | [Quad9 pulled their DNS service from France](https://quad9.net/news/blog/quad9-service-deactivation-in-france/) | 259 | farrokhi |
+| 1 | [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) | 313 | lxhrstn |
+| 2 | [A few questions for the guy who went snorkeling in a Home De...](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts) | 318 | gumby |
+| 3 | [Google releases Cogentic papers on integer factorization, di...](https://github.com/google-research/google-research/tree/master/cogentic_research_papers) | 335 | rgwohlbold |
+| 4 | [Windows Loudness Equalization, reverse-engineered and ported...](https://github.com/xoxorwr/pw-loudness-eq) | 260 | ThrowNotAway |
+| 5 | [I checked Clojure's core with Lean and found unreported bugs](https://s.conao3.com/blog/2026/e4f733) | 88 | encyclopedism |
+| 6 | [Predicting LoRA size for any dataset](https://engram.com/blog/lora-size) | 61 | jxmorris12 |
+| 7 | [Deriving Black-Scholes](https://david.alvarezrosa.com/posts/deriving-black-scholes/) | 17 | meysamazad |
+| 8 | [Britain's ghost stations](https://spectator.com/article/britains-ghost-stations-are-fascinating/) | 14 | translocator |
+| 9 | [Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 P...](https://jayd.ml/2026/11/14/rockbox-on-yp3.html) | 108 | jaydenmilne |
+| 10 | [Button Sounds – collection of professionally-recorded button...](https://buttons.joshwcomeau.com/) | 746 | gaurang_tandon |
+| 11 | [The matrix multiplication exponent is nine fourths [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) | 919 | E-Reverance |
+| 12 | [Investigating degraded experiences across GitHub products](https://www.githubstatus.com/incidents/qn8mfv6q5hlx) | 157 | pinjasaur |
+| 13 | [Rumors swirling that labs might have cracked Factoring in P](https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/) | 280 | lilytweed |
+| 14 | [In C++, = default and {} are not the same constructor](https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/) | 53 | surprisetalk |
+| 15 | [The industrialization of noise: Automated proof-solving is t...](https://arxiv.org/abs/2611.31286) | 47 | pseudohadamard |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 476915 | TypeScript |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 332079 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 310113 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 286524 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 235485 | None |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 197990 | JavaScript |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194719 | Rust |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 152933 | Python |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 142564 | TypeScript |
-| [stablyai/orca](https://github.com/stablyai/orca) | Orca lets you run a fleet of bots with y... | 135886 | TypeScript |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 478228 | TypeScript |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 332765 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 310618 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 286973 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 235671 | None |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 198609 | JavaScript |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194720 | Rust |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 153289 | Python |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 142640 | TypeScript |
+| [stablyai/orca](https://github.com/stablyai/orca) | Orca lets you run a fleet of bots with y... | 137723 | TypeScript |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-11-24 19:57:04 UTC)
+## 🏢 公司员工追踪 (2026-11-25 18:58:47 UTC)
 
 ### Google
 

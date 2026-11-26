@@ -1,5 +1,5 @@
 <!-- NEWS_START -->
-# 📰 每日热点汇总 (2026-11-25 18:58:51 UTC)
+# 📰 每日热点汇总 (2026-11-26 18:50:30 UTC)
 
 > 数据来源: Hacker News 热榜 + GitHub 热门仓库
 
@@ -7,21 +7,21 @@
 
 | 排名 | 标题 | ⭐ 热度 | 发布者 |
 |------|------|---------|--------|
-| 1 | [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) | 313 | lxhrstn |
-| 2 | [A few questions for the guy who went snorkeling in a Home De...](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts) | 318 | gumby |
-| 3 | [Google releases Cogentic papers on integer factorization, di...](https://github.com/google-research/google-research/tree/master/cogentic_research_papers) | 335 | rgwohlbold |
-| 4 | [Windows Loudness Equalization, reverse-engineered and ported...](https://github.com/xoxorwr/pw-loudness-eq) | 260 | ThrowNotAway |
-| 5 | [I checked Clojure's core with Lean and found unreported bugs](https://s.conao3.com/blog/2026/e4f733) | 88 | encyclopedism |
-| 6 | [Predicting LoRA size for any dataset](https://engram.com/blog/lora-size) | 61 | jxmorris12 |
-| 7 | [Deriving Black-Scholes](https://david.alvarezrosa.com/posts/deriving-black-scholes/) | 17 | meysamazad |
-| 8 | [Britain's ghost stations](https://spectator.com/article/britains-ghost-stations-are-fascinating/) | 14 | translocator |
-| 9 | [Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 P...](https://jayd.ml/2026/11/14/rockbox-on-yp3.html) | 108 | jaydenmilne |
-| 10 | [Button Sounds – collection of professionally-recorded button...](https://buttons.joshwcomeau.com/) | 746 | gaurang_tandon |
-| 11 | [The matrix multiplication exponent is nine fourths [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) | 919 | E-Reverance |
-| 12 | [Investigating degraded experiences across GitHub products](https://www.githubstatus.com/incidents/qn8mfv6q5hlx) | 157 | pinjasaur |
-| 13 | [Rumors swirling that labs might have cracked Factoring in P](https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/) | 280 | lilytweed |
-| 14 | [In C++, = default and {} are not the same constructor](https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/) | 53 | surprisetalk |
-| 15 | [The industrialization of noise: Automated proof-solving is t...](https://arxiv.org/abs/2611.31286) | 47 | pseudohadamard |
+| 1 | [Tracking Diseases Cured by AI](https://diseasescuredbyai.com/) | 188 | spoofyroot |
+| 2 | [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp) | 81 | julianlam |
+| 3 | [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) | 37 | Bender |
+| 4 | [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono) | 379 | saikatsg |
+| 5 | [NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations) | 93 | sameverett |
+| 6 | [Show HN: Three Linux VMs in a browser tab, each running a di...](https://michidk.github.io/sidebyside/) | 61 | michidk |
+| 7 | [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664) | 434 | ericmay |
+| 8 | [Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/) | 352 | e12e |
+| 9 | [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/) | 79 | Petiver |
+| 10 | [The New York Times warns photographers not to update Photosh...](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) | 587 | rmason |
+| 11 | [Lions' Commentary on Unix: Why It Was Secretly Copied for 20...](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/) | 228 | joonehur |
+| 12 | [Discovery of curse ritual in trash dump surprises Egyptologi...](https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html) | 66 | PaulHoule |
+| 13 | [Show HN: SimDrop – Running iOS simulators in the macOS Finde...](https://github.com/rxliuli/sim-drop) | 9 | rxliuli |
+| 14 | [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat) | 196 | amanverasia |
+| 15 | [45°C inlets just killed the chiller. Most people haven't not...](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831) | 194 | magoghm |
 
 ---
 
@@ -29,20 +29,20 @@
 
 | 项目 | 描述 | ⭐ Stars | 语言 |
 |------|------|---------|------|
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 478228 | TypeScript |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 332765 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 310618 | JavaScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 286973 | TypeScript |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 235671 | None |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 198609 | JavaScript |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194720 | Rust |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 153289 | Python |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 142640 | TypeScript |
-| [stablyai/orca](https://github.com/stablyai/orca) | Orca lets you run a fleet of bots with y... | 137723 | TypeScript |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, f... | 479553 | TypeScript |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from... | 333487 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimizati... | 311194 | JavaScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin... | 287558 | TypeScript |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claud... | 235902 | None |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the lazie... | 199257 | JavaScript |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built i... | 194723 | Rust |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL sc... | 153775 | Python |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup:... | 142728 | TypeScript |
+| [stablyai/orca](https://github.com/stablyai/orca) | Orca lets you run a fleet of bots with y... | 140116 | TypeScript |
 
 <!-- NEWS_END -->
 <!-- COMPANY_SEARCH_START -->
-## 🏢 公司员工追踪 (2026-11-25 18:58:47 UTC)
+## 🏢 公司员工追踪 (2026-11-26 18:50:28 UTC)
 
 ### Google
 
